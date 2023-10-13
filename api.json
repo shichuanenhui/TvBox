@@ -1,0 +1,36 @@
+{
+    "storeHouse": [
+        {
+            "sourceName": "💚个人仓库",
+            "sourceUrl": "https://ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/multiple/my.json"
+        },
+        {
+            "sourceName": "💚多多优选仓",
+            "sourceUrl": "https://jihulab.com/duomv/apps/-/raw/main/a.txt"
+        },
+        {
+            "sourceName": "💜多多公众仓",
+            "sourceUrl": "https://jihulab.com/duomv/apps/-/raw/main/b.txt"
+        },
+        {
+            "sourceName": "❤️多多聚合仓",
+            "sourceUrl": "https://jihulab.com/duomv/apps/-/raw/main/c.txt"
+        },
+        {
+            "sourceName": "💜多多预备仓",
+            "sourceUrl": "https://jihulab.com/duomv/apps/-/raw/main/d.txt"
+        },
+        {
+            "sourceName": "💜阿里仓库",
+            "sourceUrl": "https://pan.shangui.cc/f/XAyUd/zx.json"
+        },
+        {
+            "sourceName": "💜砂锅仓库",
+            "sourceUrl": "https://agit.ai/ddx/TVBox/raw/branch/master/d.json"
+        },
+        {
+            "sourceName": "🔞福利仓库",
+			"sourceUrl": "https://ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/multiple/flc.json"
+        }
+    ]
+}
