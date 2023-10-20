@@ -259,10 +259,10 @@
       "changeable": 0
     },
     {
-      "key": "Itv",
+      "key": "Iqiyi",
       "name": "🥝爱爱┃解析",
       "type": 3,
-      "api": "csp_Itv",
+      "api": "csp_Iqiyi",
       "quickSearch": 1,
       "searchable": 1,
       "filterable": 1,
@@ -276,10 +276,10 @@
       "ext": "https://ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/优酷视频.js"
     },
     {
-      "key": "Qtv",
-      "name": "🐧腾腾┃解析",
+      "key": "YouKu",
+      "name": "🐧腾腾优酷┃解析",
       "type": 3,
-      "api": "csp_Qtv",
+      "api": "csp_YouKu",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
