@@ -1,5 +1,5 @@
 {
-  "spider": "https://ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/spider/youku.jar;md5;adeeebb26800fe82bc631f409adc4f2f",
+  "spider": "http://我不是.肥猫.love:63/Jar/pandaQ231014.jar;md5;ff0d4267db3baab30bbf05b32688699f",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites": [
     {
@@ -259,10 +259,10 @@
       "changeable": 0
     },
     {
-      "key": "Iqiyi",
+      "key": "Itv",
       "name": "🥝爱爱┃解析",
       "type": 3,
-      "api": "csp_Iqiyi",
+      "api": "csp_Itv",
       "quickSearch": 1,
       "searchable": 1,
       "filterable": 1,
@@ -276,10 +276,10 @@
       "ext": "https://ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/优酷视频.js"
     },
     {
-      "key": "YouKu",
-      "name": "🐧腾腾优酷┃解析",
+      "key": "Qtv",
+      "name": "🐧腾腾┃解析",
       "type": 3,
-      "api": "csp_YouKu",
+      "api": "csp_Qtv",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1023,9 +1023,20 @@
       "type": 0,
       "url": "http://52bsj.vip:81/api/v3/file/get/79119/ZB.txt?sign=iChDXDC7WJRTp7yWAyVdbY3si5sJ5eFwEgaR35YQGSo%3D%3A0",
       "playerType": 1,
-      "ua": "okhttp/3.15",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "group": "redirect",
+      "channels": [
+        {
+          "name": "redirect",
+          "urls": [
+            "proxy://do=live&type=txt&ext=aHR0cDovLzUyYnNqLnZpcDo4MS9hcGkvdjMvZmlsZS9nZXQvNzkxMTkvWkIudHh0P3NpZ249aUNoRFhEQzdXSlJUcDd5V0F5VmRiWTNzaTVzSjVlRndFZ2FSMzVZUUdTbyUzRCUzQTA="
+          ]
+        }
+      ]
     }
   ],
   "flags": [
