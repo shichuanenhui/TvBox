@@ -1,8 +1,8 @@
 var rule = {
     title:'优酷',
-    host:'https://www.%79%6f%75%6b%75.com',
+    host:'https://www.youku.com',
     homeUrl:'',
-    searchUrl:'https://search.%79%6f%75%6b%75.com/api/search?pg=fypage&keyword=**',
+    searchUrl:'https://search.youku.com/api/search?pg=fypage&keyword=**',
     searchable:2,
     quickSearch:0,
     filterable:1,
