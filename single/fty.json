@@ -309,29 +309,22 @@
       "key": "爱奇艺",
       "name": "🥝爱爱┃官源",
       "type": 3,
-      "api": "./JS/drpy.min.js",
-      "ext": "./JS/爱奇艺.js"
-    },
-    {
-      "key": "优酷视频",
-      "name": "🏓优酷┃官源",
-      "type": 3,
-      "api": "./JS/drpy.min.js",
-      "ext": "./JS/优酷视频.js"
+      "api": "./js/drpy.min.js",
+      "ext": "./js/爱奇艺.js"
     },
     {
       "key": "腾讯视频",
       "name": "🐧腾腾┃官源",
       "type": 3,
-      "api": "./JS/drpy.min.js",
-      "ext": "./JS/腾讯视频.js"
+      "api": "./js/drpy.min.js",
+      "ext": "./js/腾讯视频.js"
     },
     {
       "key": "芒果视频",
       "name": "🍋芒芒┃官源",
       "type": 3,
-      "api": "./JS/drpy.min.js",
-      "ext": "./JS/芒果视频.js"
+      "api": "./js/drpy.min.js",
+      "ext": "./js/芒果视频.js"
     },
     {
       "key": "4KHDR",
