@@ -269,11 +269,11 @@
       "changeable": 0
     },
     {
-      "key": "drpy_js_优酷",
+      "key": "优酷视频",
       "name": "🏓优酷┃解析",
       "type": 3,
-      "api": "https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/ygbh1/box/-/raw/main/JS/js/%E4%BC%98%E9%85%B7.js"
+      "api": "./JS/drpy.min.js",
+      "ext": "./JS/优酷视频.js"
     },
     {
       "key": "Qtv",
@@ -304,6 +304,34 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://我不是.肥猫.love:63/json/360影视.json"
+    },
+    {
+      "key": "爱奇艺",
+      "name": "🥝爱爱┃官源",
+      "type": 3,
+      "api": "./JS/drpy.min.js",
+      "ext": "./JS/爱奇艺.js"
+    },
+    {
+      "key": "优酷视频",
+      "name": "🏓优酷┃官源",
+      "type": 3,
+      "api": "./JS/drpy.min.js",
+      "ext": "./JS/优酷视频.js"
+    },
+    {
+      "key": "腾讯视频",
+      "name": "🐧腾腾┃官源",
+      "type": 3,
+      "api": "./JS/drpy.min.js",
+      "ext": "./JS/腾讯视频.js"
+    },
+    {
+      "key": "芒果视频",
+      "name": "🍋芒芒┃官源",
+      "type": 3,
+      "api": "./JS/drpy.min.js",
+      "ext": "./JS/芒果视频.js"
     },
     {
       "key": "4KHDR",
