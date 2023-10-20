@@ -1,8 +1,20 @@
 {
-    "urls": [
-        {
-            "name": "🐯饭太硬",         
-            "url": "https://ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/single/fty.json"
-        }
-    ]
+  "urls": [
+    {
+      "name": "👿饭太硬",
+      "url": "https://ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/single/fty.json"
+    },
+    {
+      "name": "👹4K①",
+      "url": "https://jihulab.com/dimaston1/4k/-/raw/main/tongyong.json"
+    },
+    {
+      "name": "👹4K②",
+      "url": "https://jihulab.com/dimaston1/4k/-/raw/main/dimaston.json"
+    },
+    {
+      "name": "👹4K③",
+      "url": "https://jihulab.com/dimaston1/4k/-/raw/main/vip.json"
+    }
+  ]
 }
