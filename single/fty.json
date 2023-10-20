@@ -1,5 +1,5 @@
 {
-  "spider": "https://ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/spider/fan.jar;md5;88c55af008dbd9344f3cf95e6f426a2a",
+  "spider": "https://ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/spider/fty0926.jar;md5;533f279c487b5bd34cf4947a7afbee34",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites": [
     {
@@ -1020,22 +1020,12 @@
   "lives": [
     {
       "name": "live",
-      "url": "http://52bsj.vip:81/api/v3/file/get/79119/ZB.txt?sign=iChDXDC7WJRTp7yWAyVdbY3si5sJ5eFwEgaR35YQGSo%3D%3A0",
       "type": 0,
+      "url": "http://52bsj.vip:81/api/v3/file/get/79119/ZB.txt?sign=iChDXDC7WJRTp7yWAyVdbY3si5sJ5eFwEgaR35YQGSo%3D%3A0",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
-    },
-    {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "redirect",
-          "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cDovLzUyYnNqLnZpcDo4MS9hcGkvdjMvZmlsZS9nZXQvNzkxMTkvWkIudHh0P3NpZ249aUNoRFhEQzdXSlJUcDd5V0F5VmRiWTNzaTVzSjVlRndFZ2FSMzVZUUdTbyUzRCUzQTA="
-          ]
-        }
-      ]
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
   "flags": [
