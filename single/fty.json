@@ -1,5 +1,5 @@
 {
-  "spider": "http://我不是.肥猫.love:63/Jar/pandaQ231014.jar;md5;ff0d4267db3baab30bbf05b32688699f",
+  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;1a676d21a89c589f2ebc13528a591fcd",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites": [
     {
@@ -282,6 +282,7 @@
       "key": "Itv",
       "name": "🥝爱爱┃解析",
       "type": 3,
+      "jar": "http://我不是.肥猫.love:63/Jar/pandaQ231014.jar;md5;ff0d4267db3baab30bbf05b32688699f",
       "api": "csp_Itv",
       "quickSearch": 1,
       "searchable": 1,
@@ -289,16 +290,10 @@
       "changeable": 0
     },
     {
-      "key": "优酷视频",
-      "name": "🏓优酷┃解析",
-      "type": 3,
-      "api": "https://ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/drpy.min.js",
-      "ext": "https://ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/优酷视频.js"
-    },
-    {
       "key": "Qtv",
       "name": "🐧腾腾┃解析",
       "type": 3,
+      "jar": "http://我不是.肥猫.love:63/Jar/pandaQ231014.jar;md5;ff0d4267db3baab30bbf05b32688699f",
       "api": "csp_Qtv",
       "searchable": 1,
       "quickSearch": 1,
@@ -309,6 +304,7 @@
       "key": "Mtv",
       "name": "🍋芒芒┃解析",
       "type": 3,
+      "jar": "http://我不是.肥猫.love:63/Jar/pandaQ231014.jar;md5;ff0d4267db3baab30bbf05b32688699f",
       "api": "csp_Mtv",
       "searchable": 1,
       "quickSearch": 1,
@@ -331,6 +327,13 @@
       "type": 3,
       "api": "https://ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/drpy.min.js",
       "ext": "https://ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/爱奇艺.js"
+    },
+    {
+      "key": "优酷视频",
+      "name": "🏓优酷┃官源",
+      "type": 3,
+      "api": "https://ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/drpy.min.js",
+      "ext": "https://ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/优酷视频.js"
     },
     {
       "key": "腾讯视频",
