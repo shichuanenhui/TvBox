@@ -13,7 +13,7 @@
     },
     {
       "key": "csp_WoGG",
-      "name": "👽玩偶哥哥┃4K弹幕",
+      "name": "👽玩偶┃弹幕",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -22,13 +22,92 @@
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://www.wogg.xyz/$$$弹"
     },
     {
-      "key": "YGP",
-      "name": "🚀叨观荐影┃速递",
+      "key": "爱奇艺",
+      "name": "🥝爱爱┃官源",
       "type": 3,
-      "api": "csp_YGP",
-      "searchable": 0,
-      "quickSearch": 0,
+      "api": "https://ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/drpy.min.js",
+      "ext": "https://ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/爱奇艺.js"
+    },
+    {
+      "key": "优酷视频",
+      "name": "🍋优酷┃官源",
+      "type": 3,
+      "api": "https://ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/drpy.min.js",
+      "ext": "https://ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/优酷视频.js"
+    },
+    {
+      "key": "腾讯视频",
+      "name": "🐧腾腾┃官源",
+      "type": 3,
+      "api": "https://ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/drpy.min.js",
+      "ext": "https://ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/腾讯视频.js"
+    },
+    {
+      "key": "芒果视频",
+      "name": "🍋芒芒┃官源",
+      "type": 3,
+      "api": "https://ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/drpy.min.js",
+      "ext": "https://ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/芒果视频.js"
+    },
+    {
+      "key": "Itv",
+      "name": "🥝爱爱┃解析",
+      "type": 3,
+      "jar": "http://我不是.肥猫.love:63/Jar/pandaQ231014.jar;md5;ff0d4267db3baab30bbf05b32688699f",
+      "api": "csp_Itv",
+      "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1,
       "changeable": 0
+    },
+    {
+      "key": "Qtv",
+      "name": "🐧腾腾┃解析",
+      "type": 3,
+      "jar": "http://我不是.肥猫.love:63/Jar/pandaQ231014.jar;md5;ff0d4267db3baab30bbf05b32688699f",
+      "api": "csp_Qtv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "Mtv",
+      "name": "🍋芒芒┃解析",
+      "type": 3,
+      "jar": "http://我不是.肥猫.love:63/Jar/pandaQ231014.jar;md5;ff0d4267db3baab30bbf05b32688699f",
+      "api": "csp_Mtv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "csp_SP33",
+      "name": "😈三三┃解析",
+      "type": 3,
+      "api": "csp_SP33",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "csp_SP360",
+      "name": "😈360┃解析",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://我不是.肥猫.love:63/json/360影视.json"
+    },
+    {
+      "key": "网飞影视",
+      "name": "🍑网飞┃直连",
+      "type": 3,
+      "api": "https://ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/drpy.min.js",
+      "ext": "https://ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/网飞TV.js"
     },
     {
       "key": "Czsapp",
@@ -267,87 +346,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
-    {
-      "key": "csp_SP33",
-      "name": "📺三三┃解析",
-      "type": 3,
-      "api": "csp_SP33",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "Itv",
-      "name": "🥝爱爱┃解析",
-      "type": 3,
-      "jar": "http://我不是.肥猫.love:63/Jar/pandaQ231014.jar;md5;ff0d4267db3baab30bbf05b32688699f",
-      "api": "csp_Itv",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "Qtv",
-      "name": "🐧腾腾┃解析",
-      "type": 3,
-      "jar": "http://我不是.肥猫.love:63/Jar/pandaQ231014.jar;md5;ff0d4267db3baab30bbf05b32688699f",
-      "api": "csp_Qtv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "Mtv",
-      "name": "🍋芒芒┃解析",
-      "type": 3,
-      "jar": "http://我不是.肥猫.love:63/Jar/pandaQ231014.jar;md5;ff0d4267db3baab30bbf05b32688699f",
-      "api": "csp_Mtv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "csp_SP360",
-      "name": "📺360┃解析",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://我不是.肥猫.love:63/json/360影视.json"
-    },
-    {
-      "key": "爱奇艺",
-      "name": "🥝爱爱┃官源",
-      "type": 3,
-      "api": "https://ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/drpy.min.js",
-      "ext": "https://ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/爱奇艺.js"
-    },
-    {
-      "key": "优酷视频",
-      "name": "🏓优酷┃官源",
-      "type": 3,
-      "api": "https://ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/drpy.min.js",
-      "ext": "https://ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/优酷视频.js"
-    },
-    {
-      "key": "腾讯视频",
-      "name": "🐧腾腾┃官源",
-      "type": 3,
-      "api": "https://ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/drpy.min.js",
-      "ext": "https://ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/腾讯视频.js"
-    },
-    {
-      "key": "芒果视频",
-      "name": "🍋芒芒┃官源",
-      "type": 3,
-      "api": "https://ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/drpy.min.js",
-      "ext": "https://ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/芒果视频.js"
     },
     {
       "key": "4KHDR",
