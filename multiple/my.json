@@ -5,20 +5,28 @@
       "url": "https://ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/single/fty.json"
     },
     {
-      "name": "👹4K①",
+      "name": "🐈影音天堂①",
       "url": "https://jihulab.com/dimaston1/4k/-/raw/main/tongyong.json"
     },
     {
-      "name": "👹4K②",
+      "name": "👹影音天堂②",
       "url": "https://jihulab.com/dimaston1/4k/-/raw/main/dimaston.json"
     },
     {
-      "name": "👹运输车",
+      "name": "🚒运输车",
       "url": "http://vip.weixine.link:88/"
     },
     {
-      "name": "👹乐享汇",
+      "name": "✍️乐享汇",
       "url": "https://ghproxy.com/raw.githubusercontent.com/lxhfans/TV/master/tv.txt"
+    },
+    {
+      "name": "🏵️恒星资源",
+      "url": "https://codeberg.org/hengxing/hx/raw/branch/main/zxyk.txt"
+    },
+    {
+      "name": "☃️恒星4K",
+      "url": "https://codeberg.org/hengxing/hx/raw/branch/main/qb4k.txt"
     }
   ]
 }
