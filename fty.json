@@ -773,7 +773,7 @@
       "url": "https://ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/live.txt",
       "playerType": 1,
       "ua": "okhttp/4.11",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
