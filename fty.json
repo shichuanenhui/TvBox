@@ -100,15 +100,6 @@
       "ext": "https://ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/网飞TV.js"
     },
     {
-      "key": "YGP",
-      "name": "🚀荐影┃速递",
-      "type": 3,
-      "api": "csp_YGP",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
       "key": "Czsapp",
       "name": "📔厂长┃直连",
       "type": 3,
@@ -118,6 +109,18 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.czzy88.com/"
+    },
+    {
+      "key": "探探",
+      "name": "🏵影探┃App",
+      "type": 3,
+      "playerType": "1",
+      "api": "csp_YTVIP",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 30,
+      "ext": "vip.lyyytv.cn"
     },
     {
       "key": "77",
@@ -288,29 +291,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
-    {
-      "key": "贱贱",
-      "name": "🐭贱贱┃p2p",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "playerType": "1",
-      "api": "https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
-      "ext": "https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"
-    },
-    {
-      "key": "探探",
-      "name": "🏵影探┃App",
-      "type": 3,
-      "playerType": "1",
-      "api": "csp_YTVIP",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "timeout": 30,
-      "ext": "vip.lyyytv.cn"
     },
     {
       "key": "Lib",
