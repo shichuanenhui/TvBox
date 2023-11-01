@@ -1,5 +1,5 @@
 {
-  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;aabde6a8ab69185b3de13788799f5f53",
+  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;f4e31130882d034e4d097227e2c3b391",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites": [
     {
@@ -12,7 +12,7 @@
       "filterable": 0
     },
     {
-      "key": "csp_WoGG",
+      "key": "玩偶哥哥",
       "name": "👽玩偶┃弹幕",
       "type": 3,
       "api": "csp_WoGG",
@@ -139,14 +139,46 @@
       "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcpBF4MRDm4TvbCzxUxQS9bPrS+dwlqC+K21Byi2fnbN32ExknwkTyVnT4ZkO1NUAJnYhg/LOWYSnzESguc1X7n/JQ1wPh7lInAdzJ2qxzb2fKg8RZczmhg8lF/+BAMaZaqxv0MMB5dPInMBPwir"
     },
     {
-      "key": "一念",
-      "name": "👀一念┃App",
+      "key": "南瓜",
+      "name": "🎃南瓜┃App",
+      "type": 3,
+      "api": "csp_NanGua",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "橘子",
+      "name": "🍊橘子┃App",
       "type": 3,
       "api": "csp_AppMao",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddka4wFqHtLjQhalHiNTh6w9Of9ADGP70IR6Z3jEgnqm+oREdxZJm8nktRA8E9V38KMk34oPdI8ugMCclsIKNWf0oEEFd7jQg+J06kiGg57gdJuphV2ODd3REMVHU34759SkYEr7GD0jCiO/TMpAnm1emAQazjYwcmYLuSflAsqMVHYxrRyfbS3OLioIlQzOBbFGItBtIH0Vv1gtD3PSTJGX1waF9CIXAG1ybvpNQq5OyVk3/tqSSPCtQmk6jE/gGfgSfZweIe2DCznW9/i0bY8Zgs2L/Ux6Y8yI2fjwRz6k++NcfQIj0sZjnpv7JmoMO+HfQ+lqKgJbQFoIwooyyYo6SgNP1zJ/SS"
+      "ext": "FbjCcU1KqpC5p0RX4Q3D+NciMc9YUdYceCAX69e2hy8rEJPfniD09Wjg5qOVDC+xRiux90h2rV13FGMoS5xuKFpYGq6RjnvUajwTtVdTzMQwe7/JZy51Hhr+Ai8yl72hwgblRI0LY4APiUURn36dfmIDM5G86VEQKsxZNWsQBTavt8dR78AMB+wdbsJaOWc6ehpvtjARMRb8sSNk7goBhp9wpeq0vk0MS30J0qYDGjklzqyO3THvPf/u0xvomOGWaZP9bGFSfIyYdjIf5uIuaUrM/tm80f7IxYEhsPV6AnUsLJRavVPWgoukIhLlfHxjTH5TXg4j5BTup/JJ4cD9tSDEoRO6D6Qb3u/psTO0qlWtw/wlqwaNrWBG30jLvasShKfk0tVJv5up/BBi+hG8Tq/GQEo9fBbF9fEPosayI7REk9/dWap4x9I13Vvi+sT1V6EQfZHfuFvnlyX2WQ50Ov9IEncaRMdnR73Zp6XK4epjZfX0WXsKaod35skDvj4rgcu4FGQpINTqaJ1pRltfdzx7mCJFzhjoXvizS9EituevBVrtByMAVG1K6/LERT0X6BF/5tTTvGjXFiPPfzYttGQ9v+CKmC3o6MCdxjAtJzhBtpNuh714ssxS5p7QUzvVFuHrIKvOwGvVLt9wIUB7Th4GBYhbgYWM8iegbwnk6ffxlYR0XZVjolobRZ8U52whUVTau56X9ajmUqgNfuEa8eepyoaHW7ob/V01IggKRCGmm5LrqXnHWUKd49EwDtou7Dm3nzLB+Qc10oivEyaE9XXChZrUd1+zFZIfTuBd89jeYarD6KePUZ44QYb5a30C/+t5AJUD0MXIYZA9"
+    },
+    {
+      "key": "嗨嘢",
+      "name": "👀嗨嘢┃App",
+      "type": 3,
+      "api": "csp_AppMao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 2,
+      "ext": "FbjCcU1KqpC5p0RX4Q3D+NciPclIFs4EHzwZtdHSwE4eMJ/Nnh/51UHa3ZS8BimxKHKF1VAUtSsbdCQtWZJcTlUXW4DCv0KpS1xF01Vu5OxfAIXSOTBUA0DDZHsxv4WA2Sn7UdMuENMQpB9FkQKcTF50c7ySnFoRZu8EUWweBiyt6PwI+/Q2MNsbV+5oOVNTSDB91w82YAf2jCUH9xRPmpt2q6TAtRofVmJR1q4bVzFW3MrK3hWueIyRsyOllsj/P86fFmdEHuXnNydMv58nBxKvoLu9pNg="
+    },
+    {
+      "key": "快影",
+      "name": "👻快影┃App",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://iosa.xn--654a.cc/api.php/app/"
     },
     {
       "key": "追忆",
@@ -177,14 +209,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZTGJxVRTBDqPTqg1hIUJXNp3iJg1HE6Ku0DDW8bH6VwnMqkHV3FGMiXNUxKFVOX9ue0RveKTtG0CYRkK0lRw=="
-    },
-    {
-      "key": "布雷",
-      "name": "💥布雷┃App",
-      "type": 3,
-      "api": "csp_AppMao",
-      "playerType": 2,
-      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbctTA5hPEi0VqbGzxElfS8iS6G6dxFvYo6amRiS2bHOKw3Esnj46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkaM/FqHtLjQhalHiNTh6w9P3uBbzOpYja64omwk1u3D/dlZ+e5i4lng3PuAGTEUBPE34oPNY9+tFWr0Ibd9pVxAueSBD3QUsYQDulUET8DZ4nPtGpPvrhlgkKksJ9s4mWmxer4u57B2OO9qc8jua09TybbufTjMaeJGQem8U1MtbZnyk1e3UtOPZyIlX24R7PWpyLc4U0VzmkquLAB3kRiQZa1pOYUYuwm6vu/8spvSLhGbMhy+5bLc5qpPAk0mnh1ezzPQa03Cfg3JV6WGwrolC1+2steoOnaic6WQq9F2nYpq7a3QVfAbWyvIP+/mhJrtEycOuc999pfBr4Ub+yNWhIq06XaaI3EDX8h/oclhtPP9fIlIhPPNgZO/XgdX80PcGXdT2F0EtU+FJ+NoZjzcXq7OcD0dUFMudEpZ/ISVFLEQAhzFhoC3qYpmCY6xDrfjIL1W2Yh0LSk9qyfm9cw0EjDJZyt2PsVT3JxLuXjMgv0cdhPu2sTfBlL672ElQFkkjgpIL+YIQoLV69KeUYi3LYYjLFdixymHlDbdyGT19XRgwG5Z8t4e08xaRZXOd1ujQ/ZNncMJrpVQhY40mmnNcN2PHw5qapafKYcsoRMMM1d7R742jf5UE/zwNFXI+WRzxjrXerF/2fmmU0+8OGIVz9SWsllf++zV27ZOwFQ6qy07MrJ7TMEHHBrtYDaoFiOfBRLGyodnWIp1ZCPGqIxcA/5s+cdVwkd2wJdB1OKIqhz+Eg+0zmTRTFNUYUZWXvKEhDs7BuoaAQz5ArXla7xAg/F0Z1goy7k+xJZlmJlj1RJ5KdKlUvrDEQ8lCSIzPNPMz+g=="
     },
     {
       "key": "一起看 ",
