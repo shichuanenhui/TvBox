@@ -1,5 +1,5 @@
 {
-  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;f4e31130882d034e4d097227e2c3b391",
+  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;354a9990b9ad9bfe5c009157751c7769",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites": [
     {
@@ -19,7 +19,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$弹"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
     },
     {
       "key": "爱奇艺",
@@ -111,18 +111,6 @@
       "ext": "https://www.czzy88.com/"
     },
     {
-      "key": "探探",
-      "name": "🏵影探┃App",
-      "type": 3,
-      "playerType": "1",
-      "api": "csp_YTVIP",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "timeout": 30,
-      "ext": "vip.lyyytv.cn"
-    },
-    {
       "key": "77",
       "name": "👒七七┃App",
       "type": 3,
@@ -130,16 +118,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
-    {
-      "key": "Mino",
-      "name": "👻米诺┃App",
-      "type": 3,
-      "api": "csp_AppMao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcpBF4MRDm4TvbCzxUxQS9bPrS+dwlqC+K21Byi2fnbN32ExknwkTyVnT4ZkO1NUAJnYhg/LOWYSnzESguc1X7n/JQ1wPh7lInAdzJ2qxzb2fKg8RZczmhg8lF/+BAMaZaqxv0MMB5dPInMBPwir"
     },
     {
       "key": "南瓜",
@@ -150,16 +128,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
-    {
-      "key": "橘子",
-      "name": "🍊橘子┃App",
-      "type": 3,
-      "api": "csp_AppMao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjCcU1KqpC5p0RX4Q3D+NciMc9YUdYceCAX69e2hy8rEJPfniD09Wjg5qOVDC+xRiux90h2rV13FGMoS5xuKFpYGq6RjnvUajwTtVdTzMQwe7/JZy51Hhr+Ai8yl72hwgblRI0LY4APiUURn36dfmIDM5G86VEQKsxZNWsQBTavt8dR78AMB+wdbsJaOWc6ehpvtjARMRb8sSNk7goBhp9wpeq0vk0MS30J0qYDGjklzqyO3THvPf/u0xvomOGWaZP9bGFSfIyYdjIf5uIuaUrM/tm80f7IxYEhsPV6AnUsLJRavVPWgoukIhLlfHxjTH5TXg4j5BTup/JJ4cD9tSDEoRO6D6Qb3u/psTO0qlWtw/wlqwaNrWBG30jLvasShKfk0tVJv5up/BBi+hG8Tq/GQEo9fBbF9fEPosayI7REk9/dWap4x9I13Vvi+sT1V6EQfZHfuFvnlyX2WQ50Ov9IEncaRMdnR73Zp6XK4epjZfX0WXsKaod35skDvj4rgcu4FGQpINTqaJ1pRltfdzx7mCJFzhjoXvizS9EituevBVrtByMAVG1K6/LERT0X6BF/5tTTvGjXFiPPfzYttGQ9v+CKmC3o6MCdxjAtJzhBtpNuh714ssxS5p7QUzvVFuHrIKvOwGvVLt9wIUB7Th4GBYhbgYWM8iegbwnk6ffxlYR0XZVjolobRZ8U52whUVTau56X9ajmUqgNfuEa8eepyoaHW7ob/V01IggKRCGmm5LrqXnHWUKd49EwDtou7Dm3nzLB+Qc10oivEyaE9XXChZrUd1+zFZIfTuBd89jeYarD6KePUZ44QYb5a30C/+t5AJUD0MXIYZA9"
     },
     {
       "key": "嗨嘢",
@@ -173,25 +141,35 @@
       "ext": "FbjCcU1KqpC5p0RX4Q3D+NciPclIFs4EHzwZtdHSwE4eMJ/Nnh/51UHa3ZS8BimxKHKF1VAUtSsbdCQtWZJcTlUXW4DCv0KpS1xF01Vu5OxfAIXSOTBUA0DDZHsxv4WA2Sn7UdMuENMQpB9FkQKcTF50c7ySnFoRZu8EUWweBiyt6PwI+/Q2MNsbV+5oOVNTSDB91w82YAf2jCUH9xRPmpt2q6TAtRofVmJR1q4bVzFW3MrK3hWueIyRsyOllsj/P86fFmdEHuXnNydMv58nBxKvoLu9pNg="
     },
     {
-      "key": "快影",
-      "name": "👻快影┃App",
+      "key": "橘子",
+      "name": "🍊橘子┃App",
       "type": 3,
-      "api": "csp_AppYsV2",
+      "api": "csp_AppMao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="
+    },
+    {
+      "key": "Mino",
+      "name": "👻米诺┃App",
+      "type": 3,
+      "api": "csp_AppMao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcpBF4MRDm4TvbCzxUxQS9bPrS+dwlqC+K21Byi2fnbN32ExknwkTyVnT4ZkO1NUAJnYhg/LOWYSnzESguc1X7n/JQ1wPh7lInAdzJ2qxzb2fKg8RZczmhg8lF/+BAMadKqyvkZHa4cKY00bKiax6cNS1sUwGtRtTPJpeHYNbkJ/qShtThn2mkQV0ksCk9dOn/Sso0k6ekcjwL0IeWwStZOj2QizaOvgpwSFuY+USrDWaz8HG5maYHQhycRne0Lm4MH/zZDKvuU3zYNjQ1QOCME78G/GmYmBWSbaRG1mfWIeRGk++hT1oq9Ave6OtXvJtQakC5cajrjlqReWvyuI2cYfqB+StGZX1n2ygo8mgoD52eQXnZ6rjTJH12WWUZKXdVAQcnjS98Nzku6BBoJK7fzCTshe2NF2qFXG2+XAVIAndI++gl7W6EDzdH4RMu13anxmIedUPsXjkLr99udbYtXOZH1cSudQnvk2hhckqLuOMFVVFNv9E+d/fiAiHx0XuDV8nnX+UI/cf8ddku+5NDK6Yxo0RQgWz9XXfw0e0TND7/2Cn2SzXxHcW2N1w20hivGGowb4/oCa9T1kKH1YuZkXm4RXpe5S1ZvAD0f6NqLSY4KWoWvXYOgGWlBRex0aNbVH3v3c7y+McjU="
+    },
+    {
+      "key": "繁星",
+      "name": "💥繁星┃App",
+      "type": 3,
+      "api": "csp_AppMao",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "http://iosa.xn--654a.cc/api.php/app/"
-    },
-    {
-      "key": "追忆",
-      "name": "🐿追忆┃App",
-      "type": 3,
-      "api": "csp_AppSK",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZAH4tPWnVF46Ct0RcDCdqQ/iHaxETP6KexDCalbnKb235g2zI+TmNzCM49OFRCWdee3hnULz5M1CsK3w=="
+      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTvmeOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXbg8ZeqKSLCRI+/RRQBPc6vWx9MDProlGxbNkNVwDJ+xZqA3LjZmRIzHgX1pPRHIeXgUD1SnKnP50u+DrnDvAnzqAN4YbvKvEmRyu91mw5dothweuk0B210O5i9VKs/rU4uU1g5i9+xgl5lyke5uYNicyRgauyPMi/PGzF6pDzMihKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5kOayt6Ra40Irmh/M2AvZsLJYWpGzIW"
     },
     {
       "key": "觅视频",
@@ -214,6 +192,47 @@
       "ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZTGJxVRTBDqPTqg1hIUJXNp3iJg1HE6Ku0DDW8bH6VwnMqkHV3FGMiXNUxKFVOX9ue0RveKTtG0CYRkK0lRw=="
     },
     {
+      "key": "嘿嘿",
+      "name": "💡嘿嘿┃App",
+      "type": 3,
+      "api": "csp_AppMao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjGYUhJ48PN5SRV8ymH7sxmDexYH70Jfi9xvvb3lUoiQZT4niDpyWHPvb6yEhCFbEq5hiEGh3YxXwh5W7NvWBQ8JoHwkF2vTDAYvVEeme53A/PWbglRCQDgEAU+vbK+/T2GSrMOHskluhobn3mSQhtfMuOPoUNIZtFdK24EO1SS5vh2xN8jBqcVac55PkkpWTt2qzo8UTfii3ohtRpvy5Mmw7PxnVcfMzdDzYE+XjRYz9LdmFbvNICYo3D/0YvzNMmaHG1IUw=="
+    },
+    {
+      "key": "极光",
+      "name": "☀极光┃App",
+      "type": 3,
+      "api": "csp_AppSK",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjPcVZY48PN/RIZ5UWFro1kcspJGpZFEy1L9qCt0RcDCdqQ/iHaxETP6Le1Hyasa2eX33lg2zI+TmNzCMM4OldJXt6Q2B7ULz5M1CsK3w=="
+    },
+    {
+      "key": "快影",
+      "name": "🦄️快影┃App",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://iosa.xn--654a.cc/api.php/app/"
+    },
+    {
+      "key": "追忆",
+      "name": "🐿追忆┃App",
+      "type": 3,
+      "api": "csp_AppSK",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZAH4tPWnVF46Ct0RcDCdqQ/iHaxETP6KexDCalbnKb235g2zI+TmNzCM49OFRCWdee3hnULz5M1CsK3w=="
+    },
+    {
       "key": "一起看 ",
       "name": "🎉一起┃App",
       "type": 3,
@@ -221,6 +240,40 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
+    },
+    {
+      "key": "迪迪",
+      "name": "🌈迪迪┃App",
+      "api": "csp_AppYsV2",
+      "type": 3,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://api123.adys.app/xgapp.php/v3/"
+    },
+    {
+      "key": "探探",
+      "name": "🏵影探┃App",
+      "type": 3,
+      "playerType": "1",
+      "api": "csp_YTVIP",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 30,
+      "ext": "vip.lyyytv.cn"
+    },
+    {
+      "key": "贱贱",
+      "name": "🐭贱贱┃p2p",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": "1",
+      "api": "https://agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js",
+      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"
     },
     {
       "key": "zxzj",
@@ -263,27 +316,6 @@
       "ext": "https://haozhansou.com/"
     },
     {
-      "key": "迪迪",
-      "name": "🌈迪迪┃App",
-      "api": "csp_AppYsV2",
-      "type": 3,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://api123.adys.app/xgapp.php/v3/"
-    },
-    {
-      "key": "Xinsj",
-      "name": "👓视觉┃直连",
-      "type": 3,
-      "api": "csp_Xinsj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.hdmyy.com/"
-    },
-    {
       "key": "csp_Bttoo",
       "name": "🍄比特┃直连",
       "type": 3,
@@ -319,7 +351,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json"
+      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json"
+    },
+    {
+      "key": "Xinsj",
+      "name": "👓视觉┃直连",
+      "type": 3,
+      "api": "csp_Xinsj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.hdmyy.com/"
     },
     {
       "key": "Cokemv",
@@ -338,8 +380,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "api": "https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
-      "ext": "https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/js/4khdr.js"
+      "api": "https://agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js",
+      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/4khdr.js"
     },
     {
       "key": "新6V",
@@ -413,8 +455,8 @@
       "key": "88js",
       "name": "⚽88┃看球",
       "type": 3,
-      "api": "https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
-      "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/88看球.js",
+      "api": "https://agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js",
+      "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/88看球.js",
       "style": {
         "type": "rect",
         "ratio": 1
@@ -427,8 +469,8 @@
       "key": "csp_qiumi",
       "name": "⚽Jrs┃球迷",
       "type": 3,
-      "api": "https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
-      "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/JRKAN直播.js",
+      "api": "https://agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js",
+      "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/JRKAN直播.js",
       "style": {
         "type": "rect",
         "ratio": 1
@@ -441,8 +483,8 @@
       "key": "csp_310直播",
       "name": "⚽310┃看球",
       "type": 3,
-      "api": "https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
-      "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/310直播.js",
+      "api": "https://agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js",
+      "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/310直播.js",
       "style": {
         "type": "rect",
         "ratio": 1
@@ -463,7 +505,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://www.agit.ai/fantaiying/fty/raw/branch/master/json/企鹅直播.json"
+      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/企鹅直播.json"
     },
     {
       "key": "MV_vod",
@@ -481,8 +523,8 @@
       "key": "酷奇js",
       "name": "🎤酷奇┃MV",
       "type": 3,
-      "api": "https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
-      "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/酷奇MV.js",
+      "api": "https://agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js",
+      "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/酷奇MV.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -495,8 +537,8 @@
       "key": "虎牙直播js",
       "name": "🐯虎牙┃直播",
       "type": 3,
-      "api": "https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
-      "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/虎牙直播.js",
+      "api": "https://agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js",
+      "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/虎牙直播.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -509,8 +551,8 @@
       "key": "csp_XYQBiu_斗鱼",
       "name": "🐟斗鱼┃直播",
       "type": 3,
-      "api": "https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
-      "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/斗鱼直播.js",
+      "api": "https://agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js",
+      "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/斗鱼直播.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -523,8 +565,8 @@
       "key": "csp_聚短视频",
       "name": "📽️聚短┃视频",
       "type": 3,
-      "api": "https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
-      "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/短视频.js",
+      "api": "https://agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js",
+      "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/短视频.js",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
@@ -533,8 +575,8 @@
       "key": "有声小说js",
       "name": "🎧有声┃小说",
       "type": 3,
-      "api": "https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
-      "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/有声小说吧.js",
+      "api": "https://agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js",
+      "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/有声小说吧.js",
       "style": {
         "type": "rect",
         "ratio": 1
@@ -615,7 +657,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://www.agit.ai/fantaiying/fty/raw/branch/master/json/bilibili.json"
+      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/bilibili.json"
     },
     {
       "key": "Biliych",
@@ -629,7 +671,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://www.agit.ai/fantaiying/fty/raw/branch/master/json/biliych.json"
+      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/biliych.json"
     }
   ],
   "parses": [
