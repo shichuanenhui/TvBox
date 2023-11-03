@@ -25,29 +25,29 @@
       "key": "爱奇艺",
       "name": "🥝爱爱┃官源",
       "type": 3,
-      "api": "https://ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/drpy.min.js",
-      "ext": "https://ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/爱奇艺.js"
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/drpy.min.js",
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/爱奇艺.js"
     },
     {
       "key": "优酷视频",
       "name": "🏓优酷┃官源",
       "type": 3,
-      "api": "https://ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/drpy.min.js",
-      "ext": "https://ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/优酷视频.js"
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/drpy.min.js",
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/优酷视频.js"
     },
     {
       "key": "腾讯视频",
       "name": "🐧腾腾┃官源",
       "type": 3,
-      "api": "https://ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/drpy.min.js",
-      "ext": "https://ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/腾讯视频.js"
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/drpy.min.js",
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/腾讯视频.js"
     },
     {
       "key": "芒果视频",
       "name": "🍋芒芒┃官源",
       "type": 3,
-      "api": "https://ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/drpy.min.js",
-      "ext": "https://ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/芒果视频.js"
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/drpy.min.js",
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/芒果视频.js"
     },
     {
       "key": "Itv",
@@ -96,8 +96,8 @@
       "key": "网飞影视",
       "name": "🍑网飞┃直连",
       "type": 3,
-      "api": "https://ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/drpy.min.js",
-      "ext": "https://ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/网飞TV.js"
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/drpy.min.js",
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/网飞TV.js"
     },
     {
       "key": "Czsapp",
@@ -844,7 +844,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/live.txt",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/live.txt",
       "playerType": 1,
       "ua": "okhttp/4.11",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
