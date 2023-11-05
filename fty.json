@@ -990,7 +990,7 @@
       "playerType": 1,
       "ua": "okhttp/4.11",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "group": "redirect",
