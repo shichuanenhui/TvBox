@@ -987,9 +987,10 @@
       "name": "live",
       "url": "https://codeberg.org/ygbh8888/BH/raw/branch/main/ZB/ZB.txt",
       "type": 0,
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "playerType": 1,
+      "ua": "okhttp/4.11",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
     },
     {
       "group": "redirect",
