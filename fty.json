@@ -775,13 +775,19 @@
       "key": "18AV",
       "name": "🔞多多┃18AV",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/18av_open.js"
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/18av_open.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "91av",
       "name": "🔞多多┃91视频",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://91av.cyou/api.php/provide/vod/at/json"
     },
     {
@@ -789,6 +795,9 @@
       "name": "🔞多多┃九麻",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://91md.me/api.php/provide/vod/at/json"
     },
     {
@@ -796,6 +805,9 @@
       "name": "🔞多多┃麻豆",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "http://wuxu.cc/api.php/provide/vod/from/mdm3u8/"
     },
     {
@@ -803,6 +815,9 @@
       "name": "🔞多多┃天美①",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "http://www.tianmei.pw/api.php/provide/vod/from/m3u8/"
     },
     {
@@ -810,6 +825,9 @@
       "name": "🔞多多┃天美②",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://tmyy.cc/api.php/provide/vod/from/m3u8/"
     },
     {
@@ -817,6 +835,9 @@
       "name": "🔞多多┃果冻",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "http://madouse.cc/api.php/provide/vod/at/json"
     },
     {
@@ -824,6 +845,9 @@
       "name": "🔞多多┃精东",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "http://chujia.cc/api.php/provide/vod/from/m3u8/"
     },
     {
@@ -831,6 +855,9 @@
       "name": "🔞多多┃传媒",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://qqcm.sbs/api.php/provide/vod/at/json"
     },
     {
@@ -838,6 +865,9 @@
       "name": "🔞多多┃鲨鱼",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://shayuapi.com/api.php/provide/vod/"
     },
     {
@@ -845,6 +875,9 @@
       "name": "🔞多多┃老鸭",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://api.apilyzy.com/api.php/provide/vod/"
     },
     {
@@ -852,6 +885,9 @@
       "name": "🔞多多┃涩窝",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://sewozyapi.com/api.php/provide/vod"
     },
     {
@@ -859,6 +895,9 @@
       "name": "🔞多多┃辣椒",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://apilj.com/api.php/provide/vod/at/json/"
     },
     {
@@ -866,6 +905,9 @@
       "name": "🔞多多┃小草",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://www.caoliuzyw.com/api.php/provide/vod"
     },
     {
@@ -873,6 +915,9 @@
       "name": "🔞多多┃易看",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://api.yikanapi.com/api.php/provide/vod/at/json"
     },
     {
@@ -880,6 +925,9 @@
       "name": "🔞多多┃十八",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://www.zy018.com/api.php/provide/vod/at/json"
     },
     {
@@ -887,6 +935,9 @@
       "name": "🔞多多┃九色",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://9szy.net/api.php/provide/vod/at/json"
     },
     {
@@ -894,6 +945,9 @@
       "name": "🔞多多┃不卡",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://api.bukazyw.fun/api.php/provide/vod/at/json"
     },
     {
@@ -901,6 +955,9 @@
       "name": "🔞多多┃快爱",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "http://kuaiavzy.com/api.php/provide/vod/at/json"
     },
     {
@@ -908,6 +965,9 @@
       "name": "🔞多多┃KOK2",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://api.vodkok2.com/api.php/provide/vod/at/json"
     },
     {
@@ -915,6 +975,9 @@
       "name": "🔞多多┃猫咪",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://api.maozyapi.com/inc/apijson_vod.php"
     },
     {
@@ -922,12 +985,18 @@
       "name": "🔞多多┃丝袜①",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://www.siwazyw.tv/api.php/provide/vod/at/json"
     },
     {
       "key": "siwa",
       "name": "🔞多多┃丝袜②",
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "type": 3,
       "ext": "https://haiwai.siwazyw.org/api.php/provide/vod/at/json"
     },
@@ -942,6 +1011,9 @@
       "key": "semao",
       "name": "🔞多多┃色猫",
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "type": 3,
       "ext": "https://caiji.semaozy.net/inc/apijson_vod.php"
     },
@@ -950,6 +1022,9 @@
       "name": "🔞多多┃花色",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "http://198.211.49.156/api.php/provide/vod/at/json"
     },
     {
@@ -957,6 +1032,9 @@
       "name": "🔞多多┃葡萄",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://caiji.putaozyw.net/inc/apijson_vod.php"
     },
     {
@@ -964,6 +1042,9 @@
       "name": "🔞多多┃滴滴",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://api.ddapi.cc/api.php/provide/vod/at/json"
     },
     {
@@ -971,6 +1052,9 @@
       "name": "🔞多多┃雪豹",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://api.xbapi.cc/api.php/provide/vod/at/json"
     },
     {
@@ -978,6 +1062,9 @@
       "name": "🔞多多┃依人",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://api.yirenziyuan.com/api.php/provide/vod/at/json"
     },
     {
@@ -985,6 +1072,9 @@
       "name": "🔞多多┃开云",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://kaiyunzy5.com/inc/apijson_vod.php"
     },
     {
@@ -992,6 +1082,9 @@
       "name": "🔞多多┃色鸭",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://api.seyavod.com/api.php/provide/vod/at/json"
     },
     {
@@ -999,6 +1092,9 @@
       "name": "🔞多多┃极致",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://jizhiapi.com/api.php/provide/vod/at/json"
     },
     {
@@ -1006,6 +1102,9 @@
       "name": "🔞多多┃甜蜜",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://timizy10.cc/api.php/provide/vod/at/json"
     },
     {
@@ -1013,6 +1112,9 @@
       "name": "🔞多多┃奶香",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://naixxzy.com/api.php/provide/vod/at/json"
     },
     {
@@ -1020,6 +1122,9 @@
       "name": "🔞多多┃奥斯",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://aosikazy.com/api.php/provide/vod/?ac=list"
     },
     {
@@ -1027,6 +1132,9 @@
       "name": "🔞多多┃色南",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://api.sexnguon.com/api.php/provide/vod/at/json"
     },
     {
@@ -1034,6 +1142,9 @@
       "name": "🔞多多┃蛋蛋",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "http://156.249.29.8/inc/apijson_vod.php"
     },
     {
@@ -1041,6 +1152,9 @@
       "name": "🔞多多┃写真",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://kkzy.me/api.php/provide/vod/at/json"
     },
     {
@@ -1048,6 +1162,9 @@
       "name": "🔞多多┃萝莉",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://api.g14o.cc/api.php/provide/vod/at/json"
     },
     {
@@ -1055,6 +1172,9 @@
       "name": "🔞多多┃博民",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://www.bominzy.com/api.php/provide/vod/at/json"
     },
     {
@@ -1062,6 +1182,9 @@
       "name": "🔞多多┃十五",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://155api.com/api.php/provide/vod/?ac=list"
     },
     {
@@ -1069,6 +1192,9 @@
       "name": "🔞多多┃黄瓜",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://www.avre00.com/api.php/provide/vod/?ac=list"
     },
     {
@@ -1076,6 +1202,9 @@
       "name": "🔞多多┃桃桃",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://mtav.art/api.php/provide/vod/at/json"
     },
     {
@@ -1083,6 +1212,9 @@
       "name": "🔞多多┃八八",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://www.888dav.com/api.php/provide/vod/"
     },
     {
@@ -1090,6 +1222,9 @@
       "name": "🔞多多┃天天",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://apittzy.com/api.php/provide/vod/at/json"
     },
     {
@@ -1097,6 +1232,9 @@
       "name": "🔞多多┃八天",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://8day.icu/api.php/provide/vod/at/json"
     },
     {
@@ -1104,6 +1242,9 @@
       "name": "🔞多多┃五播",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://5bo1.xyz/api.php/provide/vod/at/json"
     },
     {
@@ -1111,6 +1252,9 @@
       "name": "🔞多多┃久爱",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "http://92free.icu/api.php/provide/vod/at/json"
     },
     {
@@ -1118,6 +1262,9 @@
       "name": "🔞多多┃美亚",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://tmav.art/api.php/provide/vod/at/json"
     },
     {
@@ -1125,6 +1272,9 @@
       "name": "🔞多多┃色网",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://sezy.website/api.php/provide/vod/at/json"
     },
     {
@@ -1132,6 +1282,9 @@
       "name": "🔞多多┃湿园",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://xxavs.com/api.php/provide/vod/at/json"
     },
     {
@@ -1139,6 +1292,9 @@
       "name": "🔞多多┃优异",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://a.uezy.pw/api.php/provide/vod/at/json"
     },
     {
@@ -1146,6 +1302,9 @@
       "name": "🔞多多┃红袖",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://hongxiuzy.com/api.php/provide/vod/"
     },
     {
@@ -1153,6 +1312,9 @@
       "name": "🔞多多┃色逼",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://apilsbzy1.com/api.php/provide/vod/at/json"
     },
     {
@@ -1160,12 +1322,18 @@
       "name": "🔞多多┃橘猫",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://to.to-long.com/api.php/provide/vod/at/json"
     },
     {
       "key": "huangpian",
       "name": "🔞多多┃黄片",
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "type": 3,
       "ext": "https://www.pgxdy.com/api/json.php"
     },
@@ -1174,6 +1342,9 @@
       "name": "🔞多多┃探探",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://apittzy.com/api.php/provide/vod/at/json"
     },
     {
@@ -1181,6 +1352,9 @@
       "name": "🔞多多┃花魁",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://caiji.huakuiapi.com/inc/apijson_vod.php"
     },
     {
@@ -1188,6 +1362,9 @@
       "name": "🔞多多┃皇冠",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://hghhh.com/api.php/provide/vod/at/json"
     },
     {
@@ -1195,6 +1372,9 @@
       "name": "🔞多多┃森林",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://slapibf.com/api.php/provide/vod/at/json"
     },
     {
@@ -1202,6 +1382,9 @@
       "name": "🔞多多┃玉兔",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://apiyutu.com/api.php/provide/vod/at/json"
     },
     {
@@ -1209,6 +1392,9 @@
       "name": "🔞多多┃黄色",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "http://hszy.me/api.php/provide/vod/at/json"
     },
     {
@@ -1216,6 +1402,9 @@
       "name": "🔞多多┃好片",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://haopianapi.com/api.php/provide/vod/at/json"
     },
     {
@@ -1223,6 +1412,9 @@
       "name": "🔞多多┃湿裤",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://ziyuan.skm3u8.com/api.php/provide/vod/at/json"
     },
     {
@@ -1230,6 +1422,9 @@
       "name": "🔞多多┃鸡坤",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://jkunzyapi.com/api.php/provide/vod/at/json"
     },
     {
@@ -1237,6 +1432,9 @@
       "name": "🔞多多┃马厂",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "http://100.42.227.80/api/macs.php"
     },
     {
@@ -1244,6 +1442,9 @@
       "name": "🔞多多┃抖阴",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://www.888dav.com/api.php/provide/vod/at/json"
     },
     {
@@ -1251,6 +1452,9 @@
       "name": "🔞多多┃美女",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://www.msnii.com/api/json.php"
     },
     {
@@ -1258,6 +1462,9 @@
       "name": "🔞多多┃淫水",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://www.xrbsp.com/api/json.php"
     },
     {
@@ -1265,6 +1472,9 @@
       "name": "🔞多多┃香奶",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://www.gdlsp.com/api/json.php"
     },
     {
@@ -1272,6 +1482,9 @@
       "name": "🔞多多┃白嫖",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://www.kxgav.com/api/json.php"
     },
     {
@@ -1279,6 +1492,9 @@
       "name": "🔞多多┃湿妹",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://www.afasu.com/api/json.php"
     },
     {
@@ -1286,6 +1502,9 @@
       "name": "🔞多多┃大地",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://dadiapi.com/api.php"
     },
     {
@@ -1293,6 +1512,9 @@
       "name": "🔞多多┃乐播",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "https://lbapi9.com/api.php/provide/vod/at/json"
     },
     {
@@ -1300,6 +1522,9 @@
       "name": "🔞多多┃番号",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "http://fhapi9.com/api.php/provide/vod/at/json"
     }
   ],
