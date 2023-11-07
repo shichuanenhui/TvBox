@@ -1,10 +1,6 @@
 {
   "storeHouse": [
     {
-      "sourceName": "🦉个人仓",
-      "sourceUrl": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/my.json"
-    },
-    {
       "sourceName": "🐋潇洒分类仓",
       "sourceUrl": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/warehouse.txt"
     },
@@ -29,11 +25,11 @@
       "sourceUrl": "http://tv.nxog.top/nxog/ou2.php?url=http://tv.nxog.top&b=欧歌"
     },
     {
-      "sourceName": "⛺欧歌备仓库",
+      "sourceName": "⛺欧歌备用仓",
       "sourceUrl": "http://m.nxog.top/nxog/ou2.php?url=http://m.nxog.top&b=欧歌"
     },
     {
-      "sourceName": "💐欧歌测试仓库",
+      "sourceName": "💐欧歌测试仓",
       "sourceUrl": "http://w.nxog.top/nxog/ou2.php?url=http://w.nxog.top&xl=2&b=欧歌"
     },
     {
@@ -59,6 +55,14 @@
     {
       "sourceName": "🐝英雄仓",
       "sourceUrl": "https://agit.ai/gk0746/pxy/raw/branch/master/英雄.json"
+    },
+    {
+      "sourceName": "🦉个人仓",
+      "sourceUrl": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/my.json"
+    },
+    {
+      "sourceName": "☪其他仓",
+      "sourceUrl": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/flc.json"
     }
   ]
 }
