@@ -633,6 +633,24 @@
       "type": 0,
       "playerType": 1,
       "url": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/livex.m3u"
+    },
+    {
+      "name": "直播1",
+      "type": 0,
+      "playerType": 1,
+      "url": "https://cyuan.netlify.app/tvbox/lives/18+/18+2023.txt"
+    },
+    {
+      "name": "直播2",
+      "type": 0,
+      "playerType": 1,
+      "url": "https://cyuan.netlify.app/tvbox/lives/18+/18+千部独家传媒无水印来袭tvlist.txt"
+    },
+    {
+      "name": "直播3",
+      "type": 0,
+      "playerType": 1,
+      "url": "https://cyuan.netlify.app/tvbox/lives/18+/18%F0%9F%88%B2%EF%B8%8F.txt"
     }
   ]
 }
