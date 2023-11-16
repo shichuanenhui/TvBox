@@ -26,29 +26,29 @@
       "key": "爱奇艺",
       "name": "🥝官源┃爱爱",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/drpy.min.js",
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/爱奇艺.js"
+      "api": "./js/drpy.min.js",
+      "ext": "./js/爱奇艺.js"
     },
     {
       "key": "优酷视频",
       "name": "🏓官源┃优酷",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/drpy.min.js",
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/优酷视频.js"
+      "api": "./js/drpy.min.js",
+      "ext": "./js/优酷视频.js"
     },
     {
       "key": "腾讯视频",
       "name": "🐧官源┃腾腾",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/drpy.min.js",
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/腾讯视频.js"
+      "api": "./js/drpy.min.js",
+      "ext": "./js/腾讯视频.js"
     },
     {
       "key": "芒果视频",
       "name": "🍋官源┃芒芒",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/drpy.min.js",
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/芒果视频.js"
+      "api": "./js/drpy.min.js",
+      "ext": "./js/芒果视频.js"
     },
     {
       "key": "Itv",
@@ -94,8 +94,8 @@
       "key": "网飞影视",
       "name": "🍑直连┃网飞",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/drpy.min.js",
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/网飞TV.js"
+      "api": "./js/drpy.min.js",
+      "ext": "./js/网飞TV.js"
     },
     {
       "key": "PanSou",
