@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "豆豆",
-      "name": "🌕豆瓣┃推荐",
+      "name": "🌕推荐┃豆瓣",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -13,46 +13,46 @@
     },
     {
       "key": "csp_FanYY",
-      "name": "👽玩偶┃弹幕",
+      "name": "👽弹幕┃玩偶",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
     {
       "key": "爱奇艺",
-      "name": "🥝爱爱┃官源",
+      "name": "🥝官源┃爱爱",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/drpy.min.js",
       "ext": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/爱奇艺.js"
     },
     {
       "key": "优酷视频",
-      "name": "🏓优酷┃官源",
+      "name": "🏓官源┃优酷",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/drpy.min.js",
       "ext": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/优酷视频.js"
     },
     {
       "key": "腾讯视频",
-      "name": "🐧腾腾┃官源",
+      "name": "🐧官源┃腾腾",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/drpy.min.js",
       "ext": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/腾讯视频.js"
     },
     {
       "key": "芒果视频",
-      "name": "🍋芒芒┃官源",
+      "name": "🍋官源┃芒芒",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/drpy.min.js",
       "ext": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/芒果视频.js"
     },
     {
       "key": "Itv",
-      "name": "🥝爱爱┃解析",
+      "name": "🥝解析┃爱爱",
       "type": 3,
       "api": "csp_Itv",
       "searchable": 1,
@@ -62,7 +62,7 @@
     },
     {
       "key": "csp_SP33",
-      "name": "😈三三┃解析",
+      "name": "😈解析┃三三",
       "type": 3,
       "api": "csp_SP33",
       "searchable": 1,
@@ -72,7 +72,7 @@
     },
     {
       "key": "Qtv",
-      "name": "🐧腾腾┃解析",
+      "name": "🐧解析┃腾腾",
       "type": 3,
       "api": "csp_Qtv",
       "searchable": 1,
@@ -82,7 +82,7 @@
     },
     {
       "key": "Mtv",
-      "name": "🍋芒芒┃解析",
+      "name": "🍋解析┃芒芒",
       "type": 3,
       "api": "csp_Mtv",
       "searchable": 1,
@@ -92,34 +92,14 @@
     },
     {
       "key": "网飞影视",
-      "name": "🍑网飞┃直连",
+      "name": "🍑直连┃网飞",
       "type": 3,
       "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/drpy.min.js",
       "ext": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/网飞TV.js"
     },
     {
-      "key": "YiSo",
-      "name": "😹易搜┃搜索",
-      "type": 3,
-      "api": "csp_YiSo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-    },
-    {
-      "key": "Zhaozy",
-      "name": "🐺找资源┃搜索",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$fanty$$$qqq111"
-    },
-    {
       "key": "PanSou",
-      "name": "🦊盘搜┃搜索",
+      "name": "🦊搜索┃盘搜",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
@@ -129,7 +109,7 @@
     },
     {
       "key": "UpYun",
-      "name": "😻Up搜┃搜索",
+      "name": "😻搜索┃Up搜",
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
@@ -139,7 +119,7 @@
     },
     {
       "key": "PanSearch",
-      "name": "🙀盘Se┃搜索",
+      "name": "🙀搜索┃盘Se",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
@@ -149,13 +129,288 @@
     },
     {
       "key": "七夜",
-      "name": "😾七夜┃搜索",
+      "name": "😾搜索┃七夜",
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "玩偶弹幕",
+      "name": "🐶弹幕┃玩偶",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "filter": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/DM/玩偶哥哥.json",
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "danmu": true
+      }
+    },
+    {
+      "key": "搜索弹幕",
+      "name": "🐱弹幕┃搜索",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "danmu": true
+      }
+    },
+    {
+      "key": "七夜弹幕",
+      "name": "🐭弹幕┃七夜",
+      "type": 3,
+      "api": "csp_Dovx",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "danmu": true
+      }
+    },
+    {
+      "key": "Upys",
+      "name": "🐹弹幕┃云云",
+      "type": 3,
+      "api": "csp_Upys",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "danmu": true
+      }
+    },
+    {
+      "key": "UpYun",
+      "name": "🐰弹幕┃云搜",
+      "type": 3,
+      "api": "csp_UpYun",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "danmu": true
+      }
+    },
+    {
+      "key": "盘搜弹幕",
+      "name": "🦊弹幕┃盘搜",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "danmu": true
+      }
+    },
+    {
+      "key": "易搜弹幕",
+      "name": "🐻弹幕┃易搜",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "danmu": true
+      }
+    },
+    {
+      "key": "小纸条弹幕",
+      "name": "🐼弹幕┃纸条",
+      "type": 3,
+      "api": "csp_XiaoZhiTiao",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "danmu": true
+      }
+    },
+    {
+      "key": "玩偶哥哥",
+      "name": "🐨云盘┃玩偶",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/玩偶哥哥.json"
+    },
+    {
+      "key": "云盘搜索",
+      "name": "🐯云盘┃搜索",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/云盘搜索.json"
+    },
+    {
+      "key": "DOVX搜索",
+      "name": "🦁云盘┃七夜",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/DOVX搜索.json"
+    },
+    {
+      "key": "Upyunso",
+      "name": "🐮云盘┃云搜",
+      "type": 3,
+      "api": "csp_Upyunso",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
+    },
+    {
+      "key": "AliPS",
+      "name": "🐷云盘┃盘搜",
+      "type": 3,
+      "api": "csp_AliPS",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
+    },
+    {
+      "key": "Yisou",
+      "name": "🐵云盘┃易搜",
+      "type": 3,
+      "api": "csp_Yisou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
+    },
+    {
+      "key": "橘子盘搜",
+      "name": "🐸云盘┃橘子",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/橘子盘搜.json"
+    },
+    {
+      "key": "我的小站",
+      "name": "🐔云盘┃小站",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/我的小站.json"
+    },
+    {
+      "key": "阿里苏苏",
+      "name": "🐧云盘┃苏苏",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/阿里苏苏.json"
+    },
+    {
+      "key": "云盘论坛",
+      "name": "🐦云盘┃论坛",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/云盘论坛.json"
+    },
+    {
+      "key": "云盘资源",
+      "name": "🐤云盘┃资源",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/云盘资源.json"
+    },
+    {
+      "key": "云盘资源分享",
+      "name": "🦆云盘┃分享",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/云盘资源分享.json"
+    },
+    {
+      "key": "土拨鼠搜索",
+      "name": "🦅云盘┃土拨鼠",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/土拨鼠搜索.json"
+    },
+    {
+      "key": "豆豆飞搜索",
+      "name": "🦉云盘┃豆豆飞",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/豆豆飞搜索.json"
+    },
+    {
+      "key": "阿里云盘网",
+      "name": "🦇云盘┃云盘网",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/阿里云盘网.json"
+    },
+    {
+      "key": "云盘分享社",
+      "name": "🐺云盘┃分享社",
+      "type": 3,
+      "api": "csp_XYQBiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/XYQBiu/云盘分享社.json"
+    },
+    {
+      "key": "Gitcafe",
+      "name": "🐗云盘┃小纸条",
+      "type": 3,
+      "api": "csp_Gitcafe",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
     }
   ],
   "parses": [
