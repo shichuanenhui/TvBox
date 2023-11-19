@@ -137,68 +137,11 @@
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
     {
-      "key": "玩偶弹幕",
-      "name": "🐶弹幕┃玩偶",
-      "type": 3,
-      "jar": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;d35e213d4c2f4bff0f7948f98df6e908",
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "filter": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/DM/玩偶哥哥.json",
-        "token": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
-        "danmu": true
-      }
-    },
-    {
-      "key": "搜索弹幕",
-      "name": "🐱弹幕┃搜索",
-      "type": 3,
-      "jar": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;d35e213d4c2f4bff0f7948f98df6e908",
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
-        "danmu": true
-      }
-    },
-    {
-      "key": "七夜弹幕",
-      "name": "🐭弹幕┃七夜",
-      "type": 3,
-      "jar": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;d35e213d4c2f4bff0f7948f98df6e908",
-      "api": "csp_Dovx",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
-        "danmu": true
-      }
-    },
-    {
       "key": "Upys",
       "name": "🐹弹幕┃云云",
       "type": 3,
       "jar": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;d35e213d4c2f4bff0f7948f98df6e908",
       "api": "csp_Upys",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
-        "danmu": true
-      }
-    },
-    {
-      "key": "盘搜弹幕",
-      "name": "🦊弹幕┃盘搜",
-      "type": 3,
-      "jar": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;d35e213d4c2f4bff0f7948f98df6e908",
-      "api": "csp_PanSou",
       "searchable": 1,
       "filterable": 0,
       "changeable": 1,
@@ -236,39 +179,6 @@
       }
     },
     {
-      "key": "玩偶哥哥",
-      "name": "🐨云盘┃玩偶",
-      "type": 3,
-      "jar": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;d35e213d4c2f4bff0f7948f98df6e908",
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/玩偶哥哥.json"
-    },
-    {
-      "key": "云盘搜索",
-      "name": "🐯云盘┃搜索",
-      "type": 3,
-      "jar": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;d35e213d4c2f4bff0f7948f98df6e908",
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/云盘搜索.json"
-    },
-    {
-      "key": "DOVX搜索",
-      "name": "🦁云盘┃七夜",
-      "type": 3,
-      "jar": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;d35e213d4c2f4bff0f7948f98df6e908",
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/DOVX搜索.json"
-    },
-    {
       "key": "Upyunso",
       "name": "🐮云盘┃云搜",
       "type": 3,
@@ -300,6 +210,39 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "玩偶哥哥",
+      "name": "🐨云盘┃玩偶",
+      "type": 3,
+      "jar": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;d35e213d4c2f4bff0f7948f98df6e908",
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/玩偶哥哥.json"
+    },
+    {
+      "key": "云盘搜索",
+      "name": "🐯云盘┃搜索",
+      "type": 3,
+      "jar": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;d35e213d4c2f4bff0f7948f98df6e908",
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/云盘搜索.json"
+    },
+    {
+      "key": "DOVX搜索",
+      "name": "🦁云盘┃七夜",
+      "type": 3,
+      "jar": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;d35e213d4c2f4bff0f7948f98df6e908",
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/DOVX搜索.json"
     },
     {
       "key": "橘子盘搜",
@@ -420,6 +363,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "阿里云盘登录",
+      "name": "🦚云盘┃登录",
+      "type": 3,
+      "jar": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;d35e213d4c2f4bff0f7948f98df6e908",
+      "api": "csp_AliYunPan",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     }
   ],
