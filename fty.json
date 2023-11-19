@@ -147,7 +147,7 @@
       "filterable": 1,
       "ext": {
         "filter": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/DM/玩偶哥哥.json",
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt+4k|auto|fhd",
+        "token": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
         "danmu": true
       }
     },
@@ -161,7 +161,7 @@
       "filterable": 0,
       "changeable": 1,
       "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt+4k|auto|fhd",
+        "token": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
         "danmu": true
       }
     },
@@ -175,7 +175,7 @@
       "filterable": 0,
       "changeable": 1,
       "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt+4k|auto|fhd",
+        "token": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
         "danmu": true
       }
     },
@@ -189,7 +189,7 @@
       "filterable": 0,
       "changeable": 1,
       "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt+4k|auto|fhd",
+        "token": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
         "danmu": true
       }
     },
@@ -203,7 +203,7 @@
       "filterable": 0,
       "changeable": 1,
       "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt+4k|auto|fhd",
+        "token": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
         "danmu": true
       }
     },
@@ -217,7 +217,7 @@
       "filterable": 0,
       "changeable": 1,
       "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt+4k|auto|fhd",
+        "token": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
         "danmu": true
       }
     },
@@ -231,7 +231,7 @@
       "filterable": 1,
       "changeable": 1,
       "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt+4k|auto|fhd",
+        "token": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
         "danmu": true
       }
     },
@@ -277,7 +277,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/TVBox/token.txt+4k|auto|fhd"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
     {
       "key": "AliPS",
@@ -288,7 +288,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/TVBox/token.txt+4k|auto|fhd"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
     {
       "key": "Yisou",
@@ -299,7 +299,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/TVBox/token.txt+4k|auto|fhd"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
     {
       "key": "橘子盘搜",
@@ -420,7 +420,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/TVBox/token.txt+4k|auto|fhd"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     }
   ],
   "parses": [
