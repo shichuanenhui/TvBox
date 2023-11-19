@@ -6,7 +6,8 @@
       "key": "豆豆",
       "name": "🌕推荐┃豆瓣",
       "type": 3,
-      "api": "csp_DouBan",
+      "jar": "./spider/pandaQ231014.jar;md5;ff0d4267db3baab30bbf05b32688699f",
+      "api": "csp_DouDou",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -25,6 +26,7 @@
       "key": "csp_WoGG",
       "name": "👽弹幕┃玩偶",
       "type": 3,
+      "jar": "./spider/pandaQ231014.jar;md5;ff0d4267db3baab30bbf05b32688699f",
       "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
