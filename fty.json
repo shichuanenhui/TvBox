@@ -194,20 +194,6 @@
       }
     },
     {
-      "key": "UpYun",
-      "name": "🐰弹幕┃云搜",
-      "type": 3,
-      "jar": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;d35e213d4c2f4bff0f7948f98df6e908",
-      "api": "csp_UpYun",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt+4k|auto|fhd",
-        "danmu": true
-      }
-    },
-    {
       "key": "盘搜弹幕",
       "name": "🦊弹幕┃盘搜",
       "type": 3,
