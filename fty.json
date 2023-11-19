@@ -146,7 +146,7 @@
       "filterable": 0,
       "changeable": 1,
       "ext": {
-        "token": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
         "danmu": true
       }
     },
@@ -160,7 +160,7 @@
       "filterable": 0,
       "changeable": 1,
       "ext": {
-        "token": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
         "danmu": true
       }
     },
@@ -174,7 +174,7 @@
       "filterable": 1,
       "changeable": 1,
       "ext": {
-        "token": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
         "danmu": true
       }
     },
@@ -187,7 +187,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+      "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
     },
     {
       "key": "AliPS",
@@ -198,7 +198,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+      "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
     },
     {
       "key": "Yisou",
@@ -209,7 +209,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+      "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
     },
     {
       "key": "玩偶哥哥",
@@ -363,7 +363,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+      "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
     },
     {
       "key": "阿里云盘登录",
@@ -374,7 +374,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+      "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
     }
   ],
   "parses": [
