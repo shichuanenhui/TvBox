@@ -629,7 +629,7 @@
   "lives": [
     {
       "name": "live",
-      "url": "https://agit.ai/leevi/duo/raw/branch/master/v.txt",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/tv/v.txt",
       "type": 0,
       "playerType": 1,
       "ua": "okhttp/4.11",
