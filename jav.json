@@ -15,7 +15,7 @@
       "key": "18AV",
       "name": "🔞多多┃18AV",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/18av_open.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/18av_open.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -24,160 +24,160 @@
       "key": "91av",
       "name": "🔞多多┃91视频",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://91av.cyou/api.php/provide/vod/at/json"
     },
     {
       "key": "91md",
       "name": "🔞多多┃九麻",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://91md.me/api.php/provide/vod/at/json"
     },
     {
       "key": "madou",
       "name": "🔞多多┃麻豆",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "http://wuxu.cc/api.php/provide/vod/from/mdm3u8/"
     },
     {
       "key": "tianmei",
       "name": "🔞多多┃天美①",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "http://www.tianmei.pw/api.php/provide/vod/from/m3u8/"
     },
     {
       "key": "tmyy",
       "name": "🔞多多┃天美②",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://tmyy.cc/api.php/provide/vod/from/m3u8/"
     },
     {
       "key": "madouse",
       "name": "🔞多多┃果冻",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "http://madouse.cc/api.php/provide/vod/at/json"
     },
     {
       "key": "chujia",
       "name": "🔞多多┃精东",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "http://chujia.cc/api.php/provide/vod/from/m3u8/"
     },
     {
       "key": "qqcm",
       "name": "🔞多多┃传媒",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://qqcm.sbs/api.php/provide/vod/at/json"
     },
     {
       "key": "shayuapi",
       "name": "🔞多多┃鲨鱼",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://shayuapi.com/api.php/provide/vod/"
     },
     {
       "key": "apilyzy",
       "name": "🔞多多┃老鸭",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://api.apilyzy.com/api.php/provide/vod/"
     },
     {
       "key": "sewozy",
       "name": "🔞多多┃涩窝",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://sewozyapi.com/api.php/provide/vod"
     },
     {
       "key": "lajiao",
       "name": "🔞多多┃辣椒",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://apilj.com/api.php/provide/vod/at/json/"
     },
     {
       "key": "xiaocao",
       "name": "🔞多多┃小草",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://www.caoliuzyw.com/api.php/provide/vod"
     },
     {
       "key": "apiyikanapi",
       "name": "🔞多多┃易看",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://api.yikanapi.com/api.php/provide/vod/at/json"
     },
     {
       "key": "zy018",
       "name": "🔞多多┃十八",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://www.zy018.com/api.php/provide/vod/at/json"
     },
     {
       "key": "9szy",
       "name": "🔞多多┃九色",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://9szy.net/api.php/provide/vod/at/json"
     },
     {
       "key": "apibukazyw",
       "name": "🔞多多┃不卡",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://api.bukazyw.fun/api.php/provide/vod/at/json"
     },
     {
       "key": "kuaiavzy",
       "name": "🔞多多┃快爱",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "http://kuaiavzy.com/api.php/provide/vod/at/json"
     },
     {
       "key": "apivodkok2",
       "name": "🔞多多┃KOK2",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://api.vodkok2.com/api.php/provide/vod/at/json"
     },
     {
       "key": "api.maozyapi.com",
       "name": "🔞多多┃猫咪",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://api.maozyapi.com/inc/apijson_vod.php"
     },
     {
       "key": "siwazywtw",
       "name": "🔞多多┃丝袜①",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://www.siwazyw.tv/api.php/provide/vod/at/json"
     },
     {
       "key": "siwa",
       "name": "🔞多多┃丝袜②",
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "type": 3,
       "ext": "https://haiwai.siwazyw.org/api.php/provide/vod/at/json"
     },
     {
       "key": "semao",
       "name": "🔞多多┃色猫",
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "type": 3,
       "ext": "https://caiji.semaozy.net/inc/apijson_vod.php"
     },
@@ -185,223 +185,223 @@
       "key": "198211",
       "name": "🔞多多┃花色",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "http://198.211.49.156/api.php/provide/vod/at/json"
     },
     {
       "key": "putaozyw",
       "name": "🔞多多┃葡萄",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://caiji.putaozyw.net/inc/apijson_vod.php"
     },
     {
       "key": "apiddapi",
       "name": "🔞多多┃滴滴",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://api.ddapi.cc/api.php/provide/vod/at/json"
     },
     {
       "key": "apixbapi",
       "name": "🔞多多┃雪豹",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://api.xbapi.cc/api.php/provide/vod/at/json"
     },
     {
       "key": "apiyirenziyuan",
       "name": "🔞多多┃依人",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://api.yirenziyuan.com/api.php/provide/vod/at/json"
     },
     {
       "key": "kaiyunzy4",
       "name": "🔞多多┃开云",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://kaiyunzy5.com/inc/apijson_vod.php"
     },
     {
       "key": "seyavod",
       "name": "🔞多多┃色鸭",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://api.seyavod.com/api.php/provide/vod/at/json"
     },
     {
       "key": "jizhiapi",
       "name": "🔞多多┃极致",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://jizhiapi.com/api.php/provide/vod/at/json"
     },
     {
       "key": "timizy10",
       "name": "🔞多多┃甜蜜",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://timizy10.cc/api.php/provide/vod/at/json"
     },
     {
       "key": "naixxzy",
       "name": "🔞多多┃奶香",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://naixxzy.com/api.php/provide/vod/at/json"
     },
     {
       "key": "aosikazy",
       "name": "🔞多多┃奥斯",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://aosikazy.com/api.php/provide/vod/?ac=list"
     },
     {
       "key": "sexnguon",
       "name": "🔞多多┃色南",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://api.sexnguon.com/api.php/provide/vod/at/json"
     },
     {
       "key": "156249",
       "name": "🔞多多┃蛋蛋",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "http://156.249.29.8/inc/apijson_vod.php"
     },
     {
       "key": "kkzy",
       "name": "🔞多多┃写真",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://kkzy.me/api.php/provide/vod/at/json"
     },
     {
       "key": "apig14o",
       "name": "🔞多多┃萝莉",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://api.g14o.cc/api.php/provide/vod/at/json"
     },
     {
       "key": "bominzy",
       "name": "🔞多多┃博民",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://www.bominzy.com/api.php/provide/vod/at/json"
     },
     {
       "key": "155api",
       "name": "🔞多多┃十五",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://155api.com/api.php/provide/vod/?ac=list"
     },
     {
       "key": "avre00",
       "name": "🔞多多┃黄瓜",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://www.avre00.com/api.php/provide/vod/?ac=list"
     },
     {
       "key": "mtav",
       "name": "🔞多多┃桃桃",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://mtav.art/api.php/provide/vod/at/json"
     },
     {
       "key": "888dav.com",
       "name": "🔞多多┃八八",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://www.888dav.com/api.php/provide/vod/"
     },
     {
       "key": "apittzy.com",
       "name": "🔞多多┃天天",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://apittzy.com/api.php/provide/vod/at/json"
     },
     {
       "key": "8day",
       "name": "🔞多多┃八天",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://8day.icu/api.php/provide/vod/at/json"
     },
     {
       "key": "5bo1",
       "name": "🔞多多┃五播",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://5bo1.xyz/api.php/provide/vod/at/json"
     },
     {
       "key": "92free",
       "name": "🔞多多┃久爱",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "http://92free.icu/api.php/provide/vod/at/json"
     },
     {
       "key": "tmav",
       "name": "🔞多多┃美亚",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://tmav.art/api.php/provide/vod/at/json"
     },
     {
       "key": "sezy",
       "name": "🔞多多┃色网",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://sezy.website/api.php/provide/vod/at/json"
     },
     {
       "key": "xxavs",
       "name": "🔞多多┃湿园",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://xxavs.com/api.php/provide/vod/at/json"
     },
     {
       "key": "auezy",
       "name": "🔞多多┃优异",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://a.uezy.pw/api.php/provide/vod/at/json"
     },
     {
       "key": "hongxiuzy",
       "name": "🔞多多┃红袖",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://hongxiuzy.com/api.php/provide/vod/"
     },
     {
       "key": "apilsbzy1",
       "name": "🔞多多┃色逼",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://apilsbzy1.com/api.php/provide/vod/at/json"
     },
     {
       "key": "toto-long",
       "name": "🔞多多┃橘猫",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://to.to-long.com/api.php/provide/vod/at/json"
     },
     {
       "key": "huangpian",
       "name": "🔞多多┃黄片",
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "type": 3,
       "ext": "https://www.pgxdy.com/api/json.php"
     },
@@ -409,133 +409,133 @@
       "key": "apittzy",
       "name": "🔞多多┃探探",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://apittzy.com/api.php/provide/vod/at/json"
     },
     {
       "key": "huakuiapi",
       "name": "🔞多多┃花魁",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://caiji.huakuiapi.com/inc/apijson_vod.php"
     },
     {
       "key": "hghhh",
       "name": "🔞多多┃皇冠",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://hghhh.com/api.php/provide/vod/at/json"
     },
     {
       "key": "slapibf",
       "name": "🔞多多┃森林",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://slapibf.com/api.php/provide/vod/at/json"
     },
     {
       "key": "apiyutu",
       "name": "🔞多多┃玉兔",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://apiyutu.com/api.php/provide/vod/at/json"
     },
     {
       "key": "hszy",
       "name": "🔞多多┃黄色",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "http://hszy.me/api.php/provide/vod/at/json"
     },
     {
       "key": "haopianapi",
       "name": "🔞多多┃好片",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://haopianapi.com/api.php/provide/vod/at/json"
     },
     {
       "key": "ziyuan",
       "name": "🔞多多┃湿裤",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://ziyuan.skm3u8.com/api.php/provide/vod/at/json"
     },
     {
       "key": "jkunzyapi",
       "name": "🔞多多┃鸡坤",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://jkunzyapi.com/api.php/provide/vod/at/json"
     },
     {
       "key": "10042",
       "name": "🔞多多┃马厂",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "http://100.42.227.80/api/macs.php"
     },
     {
       "key": "888dav",
       "name": "🔞多多┃抖阴",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://www.888dav.com/api.php/provide/vod/at/json"
     },
     {
       "key": "msnii",
       "name": "🔞多多┃美女",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://www.msnii.com/api/json.php"
     },
     {
       "key": "xrbsp",
       "name": "🔞多多┃淫水",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://www.xrbsp.com/api/json.php"
     },
     {
       "key": "gdlsp",
       "name": "🔞多多┃香奶",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://www.gdlsp.com/api/json.php"
     },
     {
       "key": "kxgav",
       "name": "🔞多多┃白嫖",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://www.kxgav.com/api/json.php"
     },
     {
       "key": "afasu",
       "name": "🔞多多┃湿妹",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://www.afasu.com/api/json.php"
     },
     {
       "key": "dadiapi",
       "name": "🔞多多┃大地",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://dadiapi.com/api.php"
     },
     {
       "key": "lbapi9",
       "name": "🔞多多┃乐播",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "https://lbapi9.com/api.php/provide/vod/at/json"
     },
     {
       "key": "fhapi9",
       "name": "🔞多多┃番号",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/js/caiji.js",
       "ext": "http://fhapi9.com/api.php/provide/vod/at/json"
     }
   ],
@@ -608,19 +608,19 @@
       "name": "初秋语",
       "type": 0,
       "playerType": 1,
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/listx.txt"
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/listx.txt"
     },
     {
       "name": "YanG",
       "type": 0,
       "playerType": 1,
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u"
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u"
     },
     {
       "name": "atsushi",
       "type": 0,
       "playerType": 1,
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/atsushi444/iptv-epg/main/Adult.m3u"
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/atsushi444/iptv-epg/main/Adult.m3u"
     },
     {
       "name": "小武哥",
@@ -632,7 +632,7 @@
       "name": "AV",
       "type": 0,
       "playerType": 1,
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/livex.m3u"
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/livex.m3u"
     },
     {
       "name": "直播1",

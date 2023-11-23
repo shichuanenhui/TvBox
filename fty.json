@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;60a392a7c786f771bd7ca81880a3d818",
+  "spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;60a392a7c786f771bd7ca81880a3d818",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites": [
     {
@@ -121,7 +121,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "filter": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/DM/玩偶哥哥.json",
+        "filter": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/DM/玩偶哥哥.json",
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
         "danmu": true
       }
@@ -238,7 +238,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/XYQHiker/玩偶哥哥.json"
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/XYQHiker/玩偶哥哥.json"
     },
     {
       "key": "云盘搜索",
@@ -248,7 +248,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/XYQHiker/云盘搜索.json"
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/XYQHiker/云盘搜索.json"
     },
     {
       "key": "DOVX搜索",
@@ -258,7 +258,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/XYQHiker/DOVX搜索.json"
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/XYQHiker/DOVX搜索.json"
     },
     {
       "key": "Upyunso",
@@ -298,7 +298,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/XYQHiker/橘子盘搜.json"
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/XYQHiker/橘子盘搜.json"
     },
     {
       "key": "我的小站",
@@ -308,7 +308,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/XYQHiker/我的小站.json"
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/XYQHiker/我的小站.json"
     },
     {
       "key": "阿里苏苏",
@@ -318,7 +318,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/XYQHiker/阿里苏苏.json"
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/XYQHiker/阿里苏苏.json"
     },
     {
       "key": "云盘论坛",
@@ -328,7 +328,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/XYQHiker/云盘论坛.json"
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/XYQHiker/云盘论坛.json"
     },
     {
       "key": "云盘资源",
@@ -338,7 +338,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/XYQHiker/云盘资源.json"
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/XYQHiker/云盘资源.json"
     },
     {
       "key": "云盘资源分享",
@@ -348,7 +348,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/XYQHiker/云盘资源分享.json"
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/XYQHiker/云盘资源分享.json"
     },
     {
       "key": "土拨鼠搜索",
@@ -358,7 +358,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/XYQHiker/土拨鼠搜索.json"
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/XYQHiker/土拨鼠搜索.json"
     },
     {
       "key": "豆豆飞搜索",
@@ -368,7 +368,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/XYQHiker/豆豆飞搜索.json"
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/XYQHiker/豆豆飞搜索.json"
     },
     {
       "key": "阿里云盘网",
@@ -378,7 +378,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/XYQHiker/阿里云盘网.json"
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/XYQHiker/阿里云盘网.json"
     },
     {
       "key": "云盘分享社",
@@ -388,7 +388,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/XYQBiu/云盘分享社.json"
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/XYQBiu/云盘分享社.json"
     },
     {
       "key": "Gitcafe",
@@ -671,7 +671,7 @@
   "lives": [
     {
       "name": "live",
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/tv/v.txt",
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/tv/v.txt",
       "type": 0,
       "playerType": 1,
       "ua": "okhttp/4.11",

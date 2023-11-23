@@ -2,27 +2,27 @@
   "urls": [
     {
       "name": "🔞蜂蜜",
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json"
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json"
     },
     {
       "name": "🔞高天",
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json"
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json"
     },
     {
       "name": "🔞猫影①",
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/watson1982/CatVodSpider/main/json/adult.json"
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/watson1982/CatVodSpider/main/json/adult.json"
     },
     {
       "name": "🔞猫影②",
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/sathew/CatVodSpider/main/json/18.json"
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/sathew/CatVodSpider/main/json/18.json"
     },
     {
       "name": "🔞二哈",
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/2hacc/TVBox/main/h/h.json"
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/2hacc/TVBox/main/h/h.json"
     },
     {
       "name": "🔞猫影视",
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/jav.json"
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/jav.json"
     }
   ]
 }
