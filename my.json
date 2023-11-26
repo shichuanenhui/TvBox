@@ -5,32 +5,40 @@
       "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/fty.json"
     },
     {
-      "name": "🐈影音天堂①",
-      "url": "https://jihulab.com/dimaston1/4k/-/raw/main/tongyong.json"
-    },
-    {
-      "name": "👹影音天堂②",
-      "url": "https://jihulab.com/dimaston1/4k/-/raw/main/dimaston.json"
-    },
-    {
-      "name": "🚒运输车",
-      "url": "http://vip.weixine.link:88/"
+      "name": "👑潇洒仓",
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/api.json"
     },
     {
       "name": "✍️乐享汇",
       "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/lxhfans/TV/master/tv.txt"
     },
     {
-      "name": "🏵️恒星资源",
-      "url": "https://codeberg.org/hengxing/hx/raw/branch/main/zxyk.txt"
+      "name": "🚒运输车",
+      "url": "http://vip.weixine.link:88/"
     },
     {
       "name": "☃️恒星4K",
       "url": "https://codeberg.org/hengxing/hx/raw/branch/main/qb4k.txt"
     },
-	{
-      "name": "👑潇洒仓",
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/api.json"
+    {
+      "name": "🏵️恒星资源",
+      "url": "https://codeberg.org/hengxing/hx/raw/branch/main/zxyk.txt"
+    },
+    {
+      "url": "http://yydsys.top/duo",
+      "name": "🏡应用多多"
+    },
+    {
+      "url": "http://yydsys.top/duo/ali",
+      "name": "🚀阿里专线"
+    },
+    {
+      "name": "🐈影音天堂①",
+      "url": "https://agit.ai/1018610504/yytt/raw/branch/main/tongyong.json"
+    },
+    {
+      "name": "👹影音天堂②",
+      "url": "https://agit.ai/1018610504/yytt/raw/branch/main/dimaston.json"
     }
   ]
 }

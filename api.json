@@ -1,35 +1,23 @@
 {
   "storeHouse": [
     {
-      "sourceName": "🐋潇洒分类仓",
+      "sourceName": "🦉个人仓",
+      "sourceUrl": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/my.json"
+    },
+    {
+      "sourceName": "🐋潇洒仓",
       "sourceUrl": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/warehouse.txt"
     },
     {
-      "sourceName": "👧多多优选仓",
-      "sourceUrl": "https://jihulab.com/iduoduo/apps/-/raw/main/a.txt"
-    },
-    {
-      "sourceName": "🐻多多公众仓",
-      "sourceUrl": "https://jihulab.com/iduoduo/apps/-/raw/main/b.txt"
-    },
-    {
-      "sourceName": "🌝多多聚合仓",
-      "sourceUrl": "https://jihulab.com/iduoduo/apps/-/raw/main/c.txt"
-    },
-    {
-      "sourceName": "👺多多预备仓",
-      "sourceUrl": "https://jihulab.com/iduoduo/apps/-/raw/main/d.txt"
-    },
-    {
-      "sourceName": "👻欧歌主仓库",
+      "sourceName": "👻主仓库",
       "sourceUrl": "http://tv.nxog.top/nxog/ou2.php?url=http://tv.nxog.top&b=欧歌"
     },
     {
-      "sourceName": "⛺欧歌备用仓",
+      "sourceName": "⛺备用仓",
       "sourceUrl": "http://m.nxog.top/nxog/ou2.php?url=http://m.nxog.top&b=欧歌"
     },
     {
-      "sourceName": "💐欧歌测试仓",
+      "sourceName": "💐测试仓",
       "sourceUrl": "http://w.nxog.top/nxog/ou2.php?url=http://w.nxog.top&xl=2&b=欧歌"
     },
     {
@@ -51,18 +39,6 @@
     {
       "sourceName": "🍵备用仓",
       "sourceUrl": "https://agit.ai/gk0746/pxy/raw/branch/master/2仓.json"
-    },
-    {
-      "sourceName": "🐝英雄仓",
-      "sourceUrl": "https://agit.ai/gk0746/pxy/raw/branch/master/英雄.json"
-    },
-    {
-      "sourceName": "🦉个人仓",
-      "sourceUrl": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/my.json"
-    },
-    {
-      "sourceName": "☪其他仓",
-      "sourceUrl": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/flc.json"
     }
   ]
 }

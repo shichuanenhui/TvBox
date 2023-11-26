@@ -27,6 +27,14 @@
     {
       "sourceName": "🏆绿茶⑦🏆",
       "sourceUrl": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/flc.json"
+    },
+    {
+      "sourceName": "🐝英雄仓",
+      "sourceUrl": "https://agit.ai/gk0746/pxy/raw/branch/master/英雄.json"
+    },
+    {
+      "sourceName": "☪其他仓",
+      "sourceUrl": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/flc.json"
     }
   ]
 }
