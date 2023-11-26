@@ -406,14 +406,9 @@
   ],
   "parses": [
     {
-      "name": "推荐",
-      "type": 1,
-      "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url="
-    },
-    {
       "name": "线路1",
       "type": 0,
-      "url": "https://www.yemu.xyz/?url="
+      "url": "https://jx.jsonplayer.com/player/?url="
     },
     {
       "name": "线路2",
@@ -423,7 +418,7 @@
     {
       "name": "线路3",
       "type": 0,
-      "url": "https://jx.jsonplayer.com/player/?url="
+      "url": "https://www.yemu.xyz/?url="
     },
     {
       "name": "线路4",
