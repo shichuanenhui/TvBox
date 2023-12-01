@@ -1,13 +1,13 @@
 {
-  "spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;d80ee61b02eaa761e26717691ce08ca2",
+  "spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;ca7e41241f063166fd831cb3813fde01",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites": [
     {
-      "key": "豆豆",
+      "key": "豆瓣",
       "name": "🌕推荐┃豆瓣",
       "type": 3,
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;ea2690fc66083afe1431071968e60395",
-      "api": "csp_DouDou",
+      "api": "./js/drpy.min.js",
+      "ext": "./js/豆瓣.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -111,6 +111,44 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0
+    },
+    {
+      "key": "斗鱼直播",
+      "name": "🐟直播┃斗鱼",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "changeable": 0,
+      "ext": "./js/斗鱼直播.js"
+    },
+    {
+      "key": "虎牙直播",
+      "name": "🐯直播┃虎牙",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "changeable": 0,
+      "ext": "./js/虎牙直播.js"
+    },
+    {
+      "key": "MissAv",
+      "name": "🦜资源┃Miss",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/MissAv.js"
+    },
+    {
+      "key": "玩偶姐姐",
+      "name": "🦩资源┃玩偶",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/玩偶姐姐.js"
     },
     {
       "key": "玩偶弹幕",
