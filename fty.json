@@ -13,16 +13,6 @@
       "filterable": 0
     },
     {
-      "key": "阿里云盘登录",
-      "name": "🦚云盘┃登录",
-      "type": 3,
-      "api": "csp_AliYunPan",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
-    },
-    {
       "key": "csp_WoGG",
       "name": "👽弹幕┃玩偶",
       "type": 3,
@@ -34,11 +24,42 @@
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
     {
+      "key": "阿里云盘登录",
+      "name": "🦚云盘┃登录",
+      "type": 3,
+      "api": "csp_AliYunPan",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
+    },
+    {
+      "key": "配置中心",
+      "name": "🦛云盘┃配置",
+      "type": 3,
+      "api": "csp_Config",
+      "searchable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar"
+    },
+    {
       "key": "网飞影视",
       "name": "🍑直连┃网飞",
       "type": 3,
       "api": "./js/drpy.min.js",
       "ext": "./js/网飞TV.js"
+    },
+    {
+      "key": "奈飞狗",
+      "name": "🐿️直连┃奈飞",
+      "type": 3,
+      "api": "./js/drpy.min.js",
+      "ext": "./js/奈飞狗.js"
     },
     {
       "key": "爱奇艺",
@@ -113,44 +134,6 @@
       "changeable": 0
     },
     {
-      "key": "斗鱼直播",
-      "name": "🐟直播┃斗鱼",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "changeable": 0,
-      "ext": "./js/斗鱼直播.js"
-    },
-    {
-      "key": "虎牙直播",
-      "name": "🐯直播┃虎牙",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "changeable": 0,
-      "ext": "./js/虎牙直播.js"
-    },
-    {
-      "key": "MissAv",
-      "name": "🦜资源┃Miss",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/MissAv.js"
-    },
-    {
-      "key": "玩偶姐姐",
-      "name": "🦩资源┃玩偶",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/玩偶姐姐.js"
-    },
-    {
       "key": "玩偶弹幕",
       "name": "🐶弹幕┃玩偶",
       "type": 3,
@@ -162,7 +145,8 @@
         "filter": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/DM/玩偶哥哥.json",
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
         "danmu": true
-      }
+      },
+      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar"
     },
     {
       "key": "搜索弹幕",
@@ -175,7 +159,8 @@
       "ext": {
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
         "danmu": true
-      }
+      },
+      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar"
     },
     {
       "key": "Upys",
@@ -188,7 +173,8 @@
       "ext": {
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
         "danmu": true
-      }
+      },
+      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar"
     },
     {
       "key": "UpYun",
@@ -201,7 +187,8 @@
       "ext": {
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
         "danmu": true
-      }
+      },
+      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar"
     },
     {
       "key": "盘搜弹幕",
@@ -214,7 +201,8 @@
       "ext": {
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
         "danmu": true
-      }
+      },
+      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar"
     },
     {
       "key": "易搜弹幕",
@@ -227,7 +215,8 @@
       "ext": {
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
         "danmu": true
-      }
+      },
+      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar"
     },
     {
       "key": "云盘弹幕",
@@ -240,7 +229,8 @@
       "ext": {
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
         "danmu": true
-      }
+      },
+      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar"
     },
     {
       "key": "玩偶哥哥",
@@ -425,7 +415,8 @@
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
         "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
         "danmu": true
-      }
+      },
+      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar"
     },
     {
       "key": "趣盘搜弹幕",
@@ -439,7 +430,54 @@
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
         "danmu": true
-      }
+      },
+      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar"
+    },
+    {
+      "key": "斗鱼直播",
+      "name": "🐟直播┃斗鱼",
+      "type": 3,
+      "api": "./js/drpy.min.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "changeable": 0,
+      "ext": "./js/斗鱼直播.js"
+    },
+    {
+      "key": "虎牙直播",
+      "name": "🐯直播┃虎牙",
+      "type": 3,
+      "api": "./js/drpy.min.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "changeable": 0,
+      "ext": "./js/虎牙直播.js"
+    },
+    {
+      "key": "MissAv",
+      "name": "🦜资源┃Miss",
+      "type": 3,
+      "api": "./js/drpy.min.js",
+      "ext": "./js/MissAv.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "玩偶姐姐",
+      "name": "🦩资源┃玩偶",
+      "type": 3,
+      "api": "./js/drpy.min.js",
+      "ext": "./js/玩偶姐姐.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
     }
   ],
   "parses": [
