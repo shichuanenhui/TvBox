@@ -1,5 +1,5 @@
 var rule = {
-    title:'腾云驾雾',
+    title:'腾讯视频',
     host:'https://v.qq.com',
     // homeUrl:'/channel/choice?listpage=1&channel=choice&sort=18&_all=1',
     homeUrl:'/x/bu/pagesheet/list?_all=1&append=1&channel=choice&listpage=1&offset=0&pagesize=21&iarea=-1&sort=18',

@@ -1,5 +1,5 @@
 var rule = {
-    title:'优酷',
+    title:'优酷视频',
     host:'https://www.youku.com',
     homeUrl:'',
     searchUrl:'https://search.youku.com/api/search?pg=fypage&keyword=**',

@@ -1,7 +1,7 @@
 muban.mxpro.二级.desc = '.module-info-item:eq(-1)&&Text;;;.module-info-item-content:eq(2)&&Text;.module-info-item-content:eq(1)&&Text'
 muban.mxpro.二级.tabs = '#y-playList&&.tab-item'
 var rule={     
-    title:'网飞.TV',
+    title:'网飞TV',
     模板:'mxpro',
     host:'https://www.wangfei.eu',
     // url:'/vodshow/id/fyclass/page/fypage.html',

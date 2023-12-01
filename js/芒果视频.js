@@ -1,5 +1,5 @@
 var rule = {
-    title:'百忙无果',
+    title:'芒果视频',
     host:'https://pianku.api.mgtv.com',
     homeUrl:'',
     searchUrl:'https://mobileso.bz.mgtv.com/pc/search/v1?q=**&pn=fypage&pc=10',

@@ -1,5 +1,5 @@
 var rule = {
-    title:'drpy',
+    title:'豆瓣',
     host:'https://frodo.douban.com',
     apidoc:'https://www.doubanapi.com',
     homeUrl:'',
