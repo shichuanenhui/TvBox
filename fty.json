@@ -544,104 +544,60 @@
       "changeable": 0
     },
     {
-      "key": "wogg",
-      "name": "🎬️乐享汇fans丨玩偶①",
-      "type": 3,
-      "ext": "./js/wogg_open.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "./js/drpy.min.js"
-    },
-    {
-      "key": "wobg",
-      "name": "🎬️乐享汇fans丨玩偶②",
-      "type": 4,
-      "ext": "./js/wobg_open.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "./js/drpy.min.js"
-    },
-    {
       "key": "阿里盘寻",
       "name": "🍭乐享汇fans丨盘寻",
       "type": 3,
-      "ext": "./js/pansearch_open.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "./js/drpy.min.js"
+      "api": "./js/pansearch_open.js",
+      "ext": "08669d2d0b01469782c8a342b86b11af"
     },
     {
       "key": "阿里盘搜",
       "name": "🍭乐享汇fans丨盘搜",
       "type": 3,
-      "ext": "./js/pansou_open.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "./js/drpy.min.js"
+      "api": "./js/pansou_open.js",
+      "ext": "08669d2d0b01469782c8a342b86b11af"
     },
     {
       "key": "阿里七夜",
       "name": "🍭乐享汇fans丨七夜",
       "type": 3,
-      "ext": "./js/dovx_open.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "./js/drpy.min.js"
+      "api": "./js/dovx_open.js",
+      "ext": "08669d2d0b01469782c8a342b86b11af"
     },
     {
       "key": "小纸条",
       "name": "🍭乐享汇fans丨纸条",
       "type": 3,
-      "ext": "./js/xiaozhitiao_open.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "./js/drpy.min.js"
+      "api": "./js/xiaozhitiao_open.js",
+      "ext": "08669d2d0b01469782c8a342b86b11af"
     },
     {
       "key": "UP云搜",
       "name": "🍭乐享汇fans丨云搜",
       "type": 3,
-      "ext": "./js/upyun_open.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "./js/drpy.min.js"
+      "api": "./js/upyun_open.js",
+      "ext": "08669d2d0b01469782c8a342b86b11af"
     },
     {
       "key": "易搜",
       "name": "🍭乐享汇fans丨易搜",
       "type": 3,
-      "ext": "./js/yiso_open.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "./js/drpy.min.js"
+      "api": "./js/yiso_open.js",
+      "ext": "08669d2d0b01469782c8a342b86b11af$$$易搜账号cookie"
     },
     {
       "key": "云盘4K",
       "name": "🍭乐享汇fans丨云盘",
       "type": 3,
-      "ext": "./js/yunpan4k_open.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "./js/drpy.min.js"
+      "api": "./js/yunpan4k_open.js",
+      "ext": "08669d2d0b01469782c8a342b86b11af"
     },
     {
       "key": "找资源",
       "name": "🍭乐享汇fans丨资源",
       "type": 3,
-      "ext": "./js/zhaozy_open.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "./js/drpy.min.js"
+      "api": "./js/zhaozy_open.js",
+      "ext": "08669d2d0b01469782c8a342b86b11af$$$找资源账号$$$找资源密码"
     }
   ],
   "parses": [
