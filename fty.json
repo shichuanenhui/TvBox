@@ -16,7 +16,7 @@
       "key": "csp_WoGG",
       "name": "👽弹幕┃玩偶",
       "type": 3,
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;be6121b5c37471b191114027123912d2",
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;778bdff929e3ec4192bd3ffc116c5eb3",
       "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
@@ -542,6 +542,106 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0
+    },
+    {
+      "key": "wogg",
+      "name": "🎬️乐享汇fans丨玩偶①",
+      "type": 3,
+      "ext": "./js/wogg_open.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "./js/drpy.min.js"
+    },
+    {
+      "key": "wobg",
+      "name": "🎬️乐享汇fans丨玩偶②",
+      "type": 4,
+      "ext": "./js/wobg_open.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "./js/drpy.min.js"
+    },
+    {
+      "key": "阿里盘寻",
+      "name": "🍭乐享汇fans丨盘寻",
+      "type": 3,
+      "ext": "./js/pansearch_open.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "./js/drpy.min.js"
+    },
+    {
+      "key": "阿里盘搜",
+      "name": "🍭乐享汇fans丨盘搜",
+      "type": 3,
+      "ext": "./js/pansou_open.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "./js/drpy.min.js"
+    },
+    {
+      "key": "阿里七夜",
+      "name": "🍭乐享汇fans丨七夜",
+      "type": 3,
+      "ext": "./js/dovx_open.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "./js/drpy.min.js"
+    },
+    {
+      "key": "小纸条",
+      "name": "🍭乐享汇fans丨纸条",
+      "type": 3,
+      "ext": "./js/xiaozhitiao_open.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "./js/drpy.min.js"
+    },
+    {
+      "key": "UP云搜",
+      "name": "🍭乐享汇fans丨云搜",
+      "type": 3,
+      "ext": "./js/upyun_open.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "./js/drpy.min.js"
+    },
+    {
+      "key": "易搜",
+      "name": "🍭乐享汇fans丨易搜",
+      "type": 3,
+      "ext": "./js/yiso_open.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "./js/drpy.min.js"
+    },
+    {
+      "key": "云盘4K",
+      "name": "🍭乐享汇fans丨云盘",
+      "type": 3,
+      "ext": "./js/yunpan4k_open.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "./js/drpy.min.js"
+    },
+    {
+      "key": "找资源",
+      "name": "🍭乐享汇fans丨资源",
+      "type": 3,
+      "ext": "./js/zhaozy_open.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "./js/drpy.min.js"
     }
   ],
   "parses": [
