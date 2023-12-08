@@ -1,6 +1,6 @@
-import { Crypto, _ } from 'assets://js/lib/cat.js';
-import { log } from './lib/utils.js';
-import { initAli, detailContent, playContent } from './lib/ali.js';
+import { Crypto, _ } from './cat.js';
+import { log } from './utils.js';
+import { initAli, detailContent, playContent } from './ali.js';
 
 let siteKey = 'upyun';
 let siteType = 0;
