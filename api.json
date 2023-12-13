@@ -35,6 +35,10 @@
     {
       "sourceName": "🍵备用仓",
       "sourceUrl": "https://agit.ai/gk0746/pxy/raw/branch/master/2仓.json"
+    },
+    {
+      "sourceName": "🕊备用仓",
+      "sourceUrl": "http://39.101.135.137:8686/"
     }
   ]
 }
