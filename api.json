@@ -38,7 +38,11 @@
     },
     {
       "sourceName": "🕊备用仓",
-      "sourceUrl": "http://39.101.135.137:8686/"
+      "sourceUrl": "http://39.101.135.137:8686"
+    },
+    {
+      "sourceName": "🐲天威仓",
+      "sourceUrl": "http://tvkj.top/DC.txt"
     }
   ]
 }
