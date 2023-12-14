@@ -1,9 +1,11 @@
 # TVBox自用资源
 
 自用多仓订阅地址：此资源需软件支持多仓
+
 https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/api.json
 
 自用单仓订阅地址：
+
 https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/fty.json
 
 云盘资源需要登录：🦚云盘┃登录
