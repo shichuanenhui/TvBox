@@ -1,12 +1,12 @@
 {
-  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;488cfa45fed992feb2a2344586970d90",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=meinv&type=302",
   "sites": [
     {
-      "key": "豆豆",
-      "name": "🌕豆瓣┃推荐",
+      "key": "豆瓣",
+      "name": "🌕推荐┃豆瓣",
       "type": 3,
-      "api": "csp_DouDou",
+      "api": "./js/drpy.min.js",
+      "ext": "./js/豆瓣.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
