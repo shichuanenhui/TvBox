@@ -1,3 +1,9 @@
-[submodule "TVBox"]
-	path = TVBox
+[submodule "lib/TVBox_warehouse"]
+	path = lib/TVBox_warehouse
 	url = https://github.com/PizazzGY/TVBox_warehouse.git
+[submodule "lib/hcr"]
+	path = lib/hcr
+	url = https://agit.ai/hu/hcr.git
+[submodule "lib/pxy"]
+	path = lib/pxy
+	url = https://agit.ai/gk0746/pxy.git
