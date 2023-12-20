@@ -7,6 +7,3 @@
 [submodule "lib/pxy"]
 	path = lib/pxy
 	url = https://agit.ai/gk0746/pxy.git
-[submodule "lib/gao"]
-	path = lib/gao
-	url = https://github.com/gaotianliuyun/gao.git
