@@ -1,5 +1,5 @@
 {
-  "spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;d1fa24b46f218f455bc3f4b948fd457e",
+  "spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;9733ac5a326a4ce26dea8a5a1e3be41b",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites": [
     {
@@ -16,7 +16,7 @@
       "key": "csp_WoGG",
       "name": "👽弹幕┃玩偶",
       "type": 3,
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;89d697916e9b66cf6b9bfd81981f274d",
+      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;64110baeb9974690f7b374a8b2586ac5",
       "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
@@ -142,11 +142,10 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "filter": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/DM/玩偶哥哥.json",
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
         "danmu": true
       },
-      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;007a8a4b3993a40391902f64921f5ba4"
+      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;876cc23e7c0ab92b73568862ec5b42a5"
     },
     {
       "key": "搜索弹幕",
@@ -160,10 +159,24 @@
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
         "danmu": true
       },
-      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;007a8a4b3993a40391902f64921f5ba4"
+      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;876cc23e7c0ab92b73568862ec5b42a5"
     },
     {
-      "key": "Upys",
+      "key": "七夜弹幕",
+      "name": "🦄️弹幕┃七夜",
+      "type": 3,
+      "api": "csp_Dovx",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "danmu": true
+      },
+      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;876cc23e7c0ab92b73568862ec5b42a5"
+    },
+    {
+      "key": "云云弹幕",
       "name": "🐹弹幕┃云云",
       "type": 3,
       "api": "csp_Upys",
@@ -174,10 +187,10 @@
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
         "danmu": true
       },
-      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;007a8a4b3993a40391902f64921f5ba4"
+      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;876cc23e7c0ab92b73568862ec5b42a5"
     },
     {
-      "key": "UpYun",
+      "key": "云搜弹幕",
       "name": "😻弹幕┃云搜",
       "type": 3,
       "api": "csp_UpYun",
@@ -188,7 +201,7 @@
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
         "danmu": true
       },
-      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;007a8a4b3993a40391902f64921f5ba4"
+      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;876cc23e7c0ab92b73568862ec5b42a5"
     },
     {
       "key": "盘搜弹幕",
@@ -202,7 +215,7 @@
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
         "danmu": true
       },
-      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;007a8a4b3993a40391902f64921f5ba4"
+      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;876cc23e7c0ab92b73568862ec5b42a5"
     },
     {
       "key": "易搜弹幕",
@@ -214,9 +227,10 @@
       "changeable": 1,
       "ext": {
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "danmu": true
+        "danmu": true,
+        "cookie": "satoken=e43a2935-ea0e-464f-ba32-2267e97b9349"
       },
-      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;007a8a4b3993a40391902f64921f5ba4"
+      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;876cc23e7c0ab92b73568862ec5b42a5"
     },
     {
       "key": "云盘弹幕",
@@ -230,7 +244,52 @@
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
         "danmu": true
       },
-      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;007a8a4b3993a40391902f64921f5ba4"
+      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;876cc23e7c0ab92b73568862ec5b42a5"
+    },
+    {
+      "key": "影视车弹幕",
+      "name": "🦜弹幕┃影视车",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "site": "https://www.weixine.net",
+        "danmu": true
+      },
+      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;876cc23e7c0ab92b73568862ec5b42a5"
+    },
+    {
+      "key": "找资源弹幕",
+      "name": "🦩弹幕┃找资源",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "danmu": true
+      },
+      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;876cc23e7c0ab92b73568862ec5b42a5"
+    },
+    {
+      "key": "盘九九弹幕",
+      "name": "🐿️弹幕┃盘九九",
+      "type": 3,
+      "api": "csp_Pan99",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "danmu": true
+      },
+      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;876cc23e7c0ab92b73568862ec5b42a5"
     },
     {
       "key": "玩偶哥哥",
@@ -380,7 +439,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/XYQHiker/阿里云盘网.json"
+      "ext": "./XYQHiker/阿里云盘网.json"
     },
     {
       "key": "云盘分享社",
@@ -416,7 +475,7 @@
         "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
         "danmu": true
       },
-      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;007a8a4b3993a40391902f64921f5ba4"
+      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;876cc23e7c0ab92b73568862ec5b42a5"
     },
     {
       "key": "夸克盘搜弹幕",
@@ -431,7 +490,7 @@
         "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
         "danmu": true
       },
-      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;007a8a4b3993a40391902f64921f5ba4"
+      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;876cc23e7c0ab92b73568862ec5b42a5"
     },
     {
       "key": "趣盘搜弹幕",
@@ -446,7 +505,7 @@
         "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
         "danmu": true
       },
-      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;007a8a4b3993a40391902f64921f5ba4"
+      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;876cc23e7c0ab92b73568862ec5b42a5"
     },
     {
       "key": "斗鱼直播",
