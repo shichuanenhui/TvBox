@@ -10,19 +10,11 @@
     },
     {
       "name": "✍️乐享汇",
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/lxhfans/TV/master/tv.txt"
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/lxhfans/DEMO/master/tv.txt"
     },
     {
       "name": "🚒运输车",
       "url": "https://weixine.net/ysc.json"
-    },
-    {
-      "name": "☃️恒星4K",
-      "url": "https://codeberg.org/hengxing/hx/raw/branch/main/qb4k.txt"
-    },
-    {
-      "name": "🏵️恒星资源",
-      "url": "https://codeberg.org/hengxing/hx/raw/branch/main/zxyk.txt"
     },
     {
       "name": "🐈影音天堂①",
@@ -35,10 +27,6 @@
     {
       "name": "🐲短剧",
       "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/lxhfans/DEMO/master/duanju.json"
-    },
-    {
-      "name": "🦘4K仓",
-      "url": "https://codeberg.org/looktv/my/raw/branch/main/ck.json"
     }
   ]
 }
