@@ -263,20 +263,6 @@
       "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;876cc23e7c0ab92b73568862ec5b42a5"
     },
     {
-      "key": "找资源弹幕",
-      "name": "🦩弹幕┃找资源",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "danmu": true
-      },
-      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;876cc23e7c0ab92b73568862ec5b42a5"
-    },
-    {
       "key": "玩偶哥哥",
       "name": "🐨云盘┃玩偶",
       "type": 3,
@@ -435,16 +421,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
-    },
-    {
-      "key": "Zhaozy",
-      "name": "🐝云盘┃找资源",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "{\"username\":\"Pizazz\",\"password\":\"xiaosage\",\"searchurl\":\"http://zhaoziyuan.pw/so?filename={wd}\"}"
     },
     {
       "key": "夸克玩偶弹幕",
