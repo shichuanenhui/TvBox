@@ -8,7 +8,7 @@ https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/ap
 
 https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/fty.json
 
-云盘资源需要登录：🦚云盘┃登录
+云盘资源需要登录：💐云盘┃登录
 
 夸克资源使用方法：根目录TVBox文件夹内（与token同一个文件夹），新建quark.txt文件，输入自己的cookie保存。
 
