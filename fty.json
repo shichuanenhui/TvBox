@@ -16,7 +16,7 @@
       "key": "csp_WoGG",
       "name": "👽弹幕┃玩偶",
       "type": 3,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1705184251764/fan.txt;md5;d6887b89bd560dec9e8f6de49f384c00",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1705260149282/fan.txt;md5;c774c41f98e151b33aa70e525b38164a",
       "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
@@ -753,7 +753,7 @@
   "lives": [
     {
       "name": "live",
-      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt",
       "type": 0,
       "playerType": 1,
       "ua": "okhttp/4.11",
