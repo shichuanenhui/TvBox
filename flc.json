@@ -1,10 +1,6 @@
 {
   "urls": [
     {
-      "name": "🔞蜂蜜",
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json"
-    },
-    {
       "name": "🔞高天",
       "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json"
     },
@@ -13,20 +9,16 @@
       "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/lxhfans/fans/master/99.json"
     },
     {
-      "name": "🔞猫影①",
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/watson1982/CatVodSpider/main/json/adult.json"
-    },
-    {
-      "name": "🔞猫影②",
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/sathew/CatVodSpider/main/json/18.json"
-    },
-    {
       "name": "🔞二哈",
       "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/2hacc/TVBox/main/h/h.json"
     },
     {
-      "name": "🔞成人",
-      "url": "https://fmjar.caioa.link/json/adult.json"
+      "name": "🔞地瓜①",
+      "url": "https://www.qiqiguai.cn/tv/fl/8/index.txt"
+    },
+    {
+      "name": "🔞地瓜②",
+      "url": "https://www.qiqiguai.cn/tv/fl/9/index.txt"
     }
   ]
 }
