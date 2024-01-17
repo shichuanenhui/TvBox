@@ -153,7 +153,7 @@
       "api": "csp_Zxzj",
       "searchable": 1,
       "quickSearch": 1,
-      "jar": "./viplib/yydf.jar",
+      "jar": "./viplib/yydf",
       "filterable": 1,
       "ext": "https://www.zxzjhd.com/"
     },
@@ -164,7 +164,7 @@
       "api": "./viplib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
-      "jar": "./viplib/yydf.jar",
+      "jar": "./viplib/yydf",
       "filterable": 1,
       "ext": "./viplib/youkudachang.js"
     },
@@ -173,7 +173,7 @@
       "name": "📺︎┃视觉┃1080P",
       "type": "3",
       "api": "csp_Xinsj",
-      "jar": "./viplib/yydf.jar",
+      "jar": "./viplib/yydf",
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "1",
@@ -183,7 +183,7 @@
       "key": "利奥影院",
       "name": "📺︎┃厉奥┃1080P",
       "type": 3,
-      "jar": "./viplib/yydf.jar",
+      "jar": "./viplib/yydf",
       "api": "csp_XPathMacFilter",
       "searchable": 1,
       "quickSearch": 1,
@@ -237,7 +237,6 @@
       "key": "非凡",
       "name": "📺︎┃非凡┃1080P",
       "type": 0,
-      "jar": "./viplib/fm0603.jar",
       "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "changeable": 1,
@@ -377,7 +376,7 @@
       "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
-      "jar": "./viplib/yydf.jar",
+      "jar": "./viplib/yydf",
       "categories": [
         "国产剧",
         "战争片",
@@ -392,7 +391,7 @@
       "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
-      "jar": "./viplib/yydf.jar",
+      "jar": "./viplib/yydf",
       "categories": [
         "国产剧",
         "香港剧",
@@ -407,7 +406,7 @@
       "api": "https://api.guangsuapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
-      "jar": "./viplib/yydf.jar",
+      "jar": "./viplib/yydf",
       "categories": [
         "大陆剧",
         "港澳剧",
@@ -421,7 +420,7 @@
       "type": 1,
       "api": "http://sdzyapi.com/api.php/provide/vod/",
       "searchable": 1,
-      "jar": "./viplib/yydf.jar",
+      "jar": "./viplib/yydf",
       "quickSearch": 1
     },
     {
@@ -430,7 +429,7 @@
       "type": 1,
       "searchable": 1,
       "quickSearch": 1,
-      "jar": "./viplib/yydf.jar",
+      "jar": "./viplib/yydf",
       "filterable": 1,
       "api": "https://xkanzy10.com/api.php/provide/vod"
     },
@@ -440,7 +439,7 @@
       "type": 1,
       "api": "https://api.tiankongapi.com/api.php/provide/vod/",
       "searchable": 1,
-      "jar": "./viplib/yydf.jar",
+      "jar": "./viplib/yydf",
       "quickSearch": 1,
       "playUrl": "",
       "categories": [
@@ -456,7 +455,7 @@
       "type": 1,
       "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
       "searchable": 1,
-      "jar": "./viplib/yydf.jar",
+      "jar": "./viplib/yydf",
       "quickSearch": 1,
       "playUrl": "",
       "categories": [
@@ -470,7 +469,7 @@
       "key": "腾讯资源",
       "name": "📺︎┃讯影┃1080P",
       "type": 1,
-      "jar": "./viplib/yydf.jar",
+      "jar": "./viplib/yydf",
       "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qq/?at/xml/",
       "searchable": 1,
       "quickSearch": 1,
@@ -888,7 +887,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "./viplib/yydf.jar"
+      "jar": "./viplib/yydf"
     },
     {
       "key": "快影",
@@ -900,7 +899,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "http://iosa.xn--654a.cc/api.php/app/",
-      "jar": "./viplib/yydf.jar"
+      "jar": "./viplib/yydf"
     },
     {
       "key": "畅梦",
@@ -924,7 +923,7 @@
         "动漫",
         "综艺"
       ],
-      "jar": "./viplib/yydf.jar"
+      "jar": "./viplib/yydf"
     },
     {
       "key": "业余采集B",
@@ -942,7 +941,7 @@
         "综艺",
         "体育赛事"
       ],
-      "jar": "./viplib/yydf.jar"
+      "jar": "./viplib/yydf"
     },
     {
       "key": "橘子",
@@ -953,7 +952,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A=",
-      "jar": "./viplib/yydf.jar"
+      "jar": "./viplib/yydf"
     },
     {
       "key": "繁星",
@@ -965,7 +964,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTvmeOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXbg8ZeqKSLCRI+/RRQBPc6vWx9MDProlGxbNkNVwDJ+xZqA3LjZmRIzHgX1pPRHIeXgUD1SnKnP50u+DrnDvAnzqAN4YbvKvEmRyu91mw5dothweuk0B210O5i9VKs/rU4uU1g5i9+xgl5lyke5uYNicyRgauyPMi/PGzF6pDzMihKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5kOayt6Ra40Irmh/M2AvZsLJYWpGzIW",
-      "jar": "./viplib/yydf.jar"
+      "jar": "./viplib/yydf"
     },
     {
       "key": "快影",
@@ -977,7 +976,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "http://iosa.xn--654a.cc/api.php/app/",
-      "jar": "./viplib/yydf.jar"
+      "jar": "./viplib/yydf"
     },
     {
       "key": "csp_XBPQ_aoaotv",
@@ -986,7 +985,7 @@
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
-      "jar": "./viplib/yydf.jar",
+      "jar": "./viplib/yydf",
       "filterable": 1,
       "ext": {
         "分类url": "https://aoao.tv/vodshow/{cateId}--------{catePg}---.html",
@@ -1001,7 +1000,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "./viplib/yydf.jar",
+      "jar": "./viplib/yydf",
       "ext": "https://www.maolvys.com/"
     },
     {
@@ -1012,14 +1011,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "./viplib/yydf.jar",
+      "jar": "./viplib/yydf",
       "ext": "http://rzys.xyz"
     },
     {
       "key": "畅梦",
       "name": "📺┃梦云┃1080P",
       "type": 3,
-      "jar": "./viplib/yydf.jar",
+      "jar": "./viplib/yydf",
       "api": "./viplib/drpy2.min.js",
       "ext": "./viplib/changmeng.js"
     },
@@ -1114,7 +1113,7 @@
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "jar": "./viplib/yydf.jar",
+      "jar": "./viplib/yydf",
       "changeable": 1,
       "ext": "https://www.czzy88.com/"
     },
@@ -1508,7 +1507,7 @@
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
-      "jar": "./viplib/yydf.jar",
+      "jar": "./viplib/yydf",
       "filterable": 1,
       "ext": {
         "分类url": "https://mimiju.com/vodshow/{cateId}--{by}------{catePg}---.html",
@@ -1520,7 +1519,7 @@
       "name": "📽┃嗷奇┃短剧",
       "type": 3,
       "api": "csp_XYQHiker",
-      "jar": "./viplib/yydf.jar",
+      "jar": "./viplib/yydf",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1593,7 +1592,7 @@
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
-      "jar": "./viplib/yydf.jar",
+      "jar": "./viplib/yydf",
       "filterable": 1,
       "ext": {
         "分类url": "https://www.ytshengde.com/sanyisw/{cateId}-{area}-------{catePg}---{year}.html",
