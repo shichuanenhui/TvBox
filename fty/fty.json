@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1705260149282/fan.txt;md5;c774c41f98e151b33aa70e525b38164a",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1705477777977/fan.txt;md5;eea132982ffc884d7a39295f06a5141c",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "key": "玩偶哥哥",
-      "name": "👽玩偶哥哥┃4K弹幕不断流",
+      "name": "👽玩偶哥哥┃4K弹幕",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -62,20 +62,20 @@
       "ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsj/P87VXSxEVLnwNm4fos8lCFL74+azvs61n89svqg="
     },
     {
-      "key": "南瓜",
-      "name": "🎃南瓜┃App",
+      "key": "九六",
+      "name": "🎀九六┃直连",
       "type": 3,
-      "api": "csp_NanGua",
+      "api": "csp_Cs1369",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
     },
     {
-      "key": "九六",
-      "name": "🎀九六┃直连",
+      "key": "南瓜",
+      "name": "🎃南瓜┃App",
       "type": 3,
-      "api": "csp_Cs1369",
+      "api": "csp_NanGua",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -210,16 +210,6 @@
       "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"
     },
     {
-      "key": "Cokemv",
-      "name": "📕可乐┃直连",
-      "type": 3,
-      "api": "csp_Cokemv",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "Auete",
       "name": "🏝奥特┃直连",
       "type": 3,
@@ -301,9 +291,9 @@
       "name": "📽️网红┃直播",
       "type": 3,
       "api": "csp_Yj1211",
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 1,
-      "changeable": 1
+      "changeable": 0
     },
     {
       "key": "Aid",
@@ -468,7 +458,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$fanty$$$qqq111"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$输入自己的$$$账号密码"
     },
     {
       "key": "PanSou",
@@ -639,18 +629,19 @@
       "key": "fan",
       "name": "导航 https://饭太硬.top",
       "type": 3,
-      "api": "csp_fan",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "cc",
       "name": "请勿相信视频中任何广告",
       "type": 3,
-      "api": "csp_fan",
-      "searchable": 0,
-      "quickSearch": 0
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     }
   ],
   "parses": [
