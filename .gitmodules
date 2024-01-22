@@ -7,3 +7,9 @@
 [submodule "lib/pxy"]
 	path = lib/pxy
 	url = https://agit.ai/gk0746/pxy.git
+[submodule "lib/PG"]
+	path = lib/PG
+	url = https://github.com/aaaafeng123/PG.git
+[submodule "lib/tvbox18"]
+	path = lib/tvbox18
+	url = https://github.com/qirenzhidao/tvbox18.git
