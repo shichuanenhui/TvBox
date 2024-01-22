@@ -180,6 +180,83 @@
       "ext": "https://www.6080yy3.com"
     },
     {
+      "key": "玩偶哥哥",
+      "name": "🤟┃玩偶┃4K",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹",
+      "jar": "./viplib/fty0122.jar"
+    },
+    {
+      "key": "YiSo",
+      "name": "🤟┃易搜┃4K",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
+      "jar": "./viplib/fty0122.jar"
+    },
+    {
+      "key": "Zhaozy",
+      "name": "🤟┃找资┃4K",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$输入自己的$$$账号密码",
+      "jar": "./viplib/fty0122.jar"
+    },
+    {
+      "key": "PanSou",
+      "name": "🤟┃Pan搜┃4K",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
+      "jar": "./viplib/fty0122.jar"
+    },
+    {
+      "key": "UpYun",
+      "name": "🤟┃Up搜┃4K",
+      "type": 3,
+      "api": "csp_UpYun",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
+      "jar": "./viplib/fty0122.jar"
+    },
+    {
+      "key": "PanSearch",
+      "name": "🤟┃盘Sou┃4K",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
+      "jar": "./viplib/fty0122.jar"
+    },
+    {
+      "key": "七夜",
+      "name": "🤟┃七夜┃4K",
+      "type": 3,
+      "api": "csp_Dovx",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
+      "jar": "./viplib/fty0122.jar"
+    },
+    {
       "key": "利奥影院",
       "name": "📺︎┃厉奥┃1080P",
       "type": 3,
@@ -1137,34 +1214,12 @@
       }
     },
     {
-      "key": "玩偶哥哥",
-      "name": "🤟┃玩偶┃4K",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹",
-      "jar": "./viplib/wanou.jar"
-    },
-    {
       "key": "csp_WoGG",
       "name": "🤟┃偶哥┃4K",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
       "changeable": 0,
-      "jar": "./viplib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
-    },
-    {
-      "key": "PanSearch",
-      "name": "🤟┃盘搜┃4K",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
       "jar": "./viplib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
     },
@@ -1184,17 +1239,6 @@
       "name": "🤟┃阿里┃4K",
       "type": 3,
       "api": "csp_PanSou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "jar": "./viplib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
-    },
-    {
-      "key": "Yisou",
-      "name": "🤟┃易搜┃4K",
-      "type": 3,
-      "api": "csp_YiSo",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -1223,17 +1267,6 @@
       "jar": "./viplib/alibaba.jar"
     },
     {
-      "key": "YiSo",
-      "name": "🤟┃Yi搜┃4K",
-      "type": 3,
-      "api": "csp_YiSo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "jar": "./viplib/fty.jar;md5;ea2690fc66083afe1431071968e60395",
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-    },
-    {
       "key": "Zhaozy",
       "name": "🤟┃找源┃4K",
       "type": 3,
@@ -1245,43 +1278,10 @@
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$fanty$$$qqq111"
     },
     {
-      "key": "PanSou",
-      "name": "🤟┃盘搜┃4K",
-      "type": 3,
-      "api": "csp_PanSou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "jar": "./viplib/fty.jar;md5;ea2690fc66083afe1431071968e60395",
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-    },
-    {
       "key": "UpYun",
       "name": "🤟┃Up搜┃4K",
       "type": 3,
       "api": "csp_UpYun",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "jar": "./viplib/fty.jar;md5;ea2690fc66083afe1431071968e60395",
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-    },
-    {
-      "key": "PanSearch",
-      "name": "🤟┃盘Se┃4K",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "jar": "./viplib/fty.jar;md5;ea2690fc66083afe1431071968e60395",
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-    },
-    {
-      "key": "七夜",
-      "name": "🤟┃七夜┃4K",
-      "type": 3,
-      "api": "csp_Dovx",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -1868,7 +1868,7 @@
     {
       "name": "tvlive",
       "type": 0,
-      "url": "./live/mdlive.txt",
+      "url": "./new/mdlive.txt",
       "playerType": 1
     }
   ],
