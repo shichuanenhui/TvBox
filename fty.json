@@ -1,5 +1,5 @@
 {
-  "spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;cc3dbc1fc53b562f44c47199a94bedc7",
+  "spider": "./jar/spider.jar;md5;cc3dbc1fc53b562f44c47199a94bedc7",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites": [
     {
@@ -16,12 +16,12 @@
       "key": "csp_WoGG",
       "name": "👽弹幕┃玩偶",
       "type": 3,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1705832521307/fan.txt;md5;c309b0f793045f88f75aa088cd0cc7b5",
       "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹",
+      "jar": "./fty/fan_240122.txt;md5;c309b0f793045f88f75aa088cd0cc7b5"
     },
     {
       "key": "阿里云盘登录",
@@ -45,7 +45,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;876cc23e7c0ab92b73568862ec5b42a5"
+      "jar": "./jar/danmu.jar;md5;6313aaf723e76ad70f653384be7d54fa"
     },
     {
       "key": "玩偶弹幕",
@@ -59,7 +59,7 @@
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
         "danmu": true
       },
-      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;876cc23e7c0ab92b73568862ec5b42a5"
+      "jar": "./jar/danmu.jar;md5;6313aaf723e76ad70f653384be7d54fa"
     },
     {
       "key": "搜索弹幕",
@@ -73,7 +73,7 @@
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
         "danmu": true
       },
-      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;876cc23e7c0ab92b73568862ec5b42a5"
+      "jar": "./jar/danmu.jar;md5;6313aaf723e76ad70f653384be7d54fa"
     },
     {
       "key": "七夜弹幕",
@@ -87,7 +87,7 @@
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
         "danmu": true
       },
-      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;876cc23e7c0ab92b73568862ec5b42a5"
+      "jar": "./jar/danmu.jar;md5;6313aaf723e76ad70f653384be7d54fa"
     },
     {
       "key": "云云弹幕",
@@ -101,7 +101,7 @@
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
         "danmu": true
       },
-      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;876cc23e7c0ab92b73568862ec5b42a5"
+      "jar": "./jar/danmu.jar;md5;6313aaf723e76ad70f653384be7d54fa"
     },
     {
       "key": "云搜弹幕",
@@ -115,7 +115,7 @@
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
         "danmu": true
       },
-      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;876cc23e7c0ab92b73568862ec5b42a5"
+      "jar": "./jar/danmu.jar;md5;6313aaf723e76ad70f653384be7d54fa"
     },
     {
       "key": "盘搜弹幕",
@@ -129,7 +129,7 @@
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
         "danmu": true
       },
-      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;876cc23e7c0ab92b73568862ec5b42a5"
+      "jar": "./jar/danmu.jar;md5;6313aaf723e76ad70f653384be7d54fa"
     },
     {
       "key": "易搜弹幕",
@@ -144,7 +144,7 @@
         "danmu": true,
         "cookie": "satoken=e43a2935-ea0e-464f-ba32-2267e97b9349"
       },
-      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;876cc23e7c0ab92b73568862ec5b42a5"
+      "jar": "./jar/danmu.jar;md5;6313aaf723e76ad70f653384be7d54fa"
     },
     {
       "key": "云盘弹幕",
@@ -158,7 +158,7 @@
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
         "danmu": true
       },
-      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;876cc23e7c0ab92b73568862ec5b42a5"
+      "jar": "./jar/danmu.jar;md5;6313aaf723e76ad70f653384be7d54fa"
     },
     {
       "key": "影视车弹幕",
@@ -174,21 +174,7 @@
         "site": "https://www.weixine.net",
         "danmu": true
       },
-      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;876cc23e7c0ab92b73568862ec5b42a5"
-    },
-    {
-      "key": "找资源弹幕",
-      "name": "🦩弹幕┃找资源",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt+4k|auto|fhd$$$shichuanenhui$$$zhangxu",
-        "danmu": true
-      },
-      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;876cc23e7c0ab92b73568862ec5b42a5"
+      "jar": "./jar/danmu.jar;md5;6313aaf723e76ad70f653384be7d54fa"
     },
     {
       "key": "玩偶哥哥",
@@ -198,7 +184,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/XYQHiker/玩偶哥哥.json"
+      "ext": "./json/XYQHiker/玩偶哥哥.json"
+    },
+    {
+      "key": "天天开心",
+      "name": "🦩云盘┃开心",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/XYQHiker/天天开心.json"
     },
     {
       "key": "云盘搜索",
@@ -208,7 +204,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/XYQHiker/云盘搜索.json"
+      "ext": "./json/XYQHiker/云盘搜索.json"
     },
     {
       "key": "DOVX搜索",
@@ -218,7 +214,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/XYQHiker/DOVX搜索.json"
+      "ext": "./json/XYQHiker/DOVX搜索.json"
     },
     {
       "key": "Upyunso",
@@ -258,7 +254,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/XYQHiker/我的小站.json"
+      "ext": "./json/XYQHiker/我的小站.json"
     },
     {
       "key": "阿里苏苏",
@@ -268,7 +264,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/XYQHiker/阿里苏苏.json"
+      "ext": "./json/XYQHiker/阿里苏苏.json"
     },
     {
       "key": "云盘论坛",
@@ -278,7 +274,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/XYQHiker/云盘论坛.json"
+      "ext": "./json/XYQHiker/云盘论坛.json"
     },
     {
       "key": "云盘资源",
@@ -288,7 +284,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/XYQHiker/云盘资源.json"
+      "ext": "./json/XYQHiker/云盘资源.json"
     },
     {
       "key": "云盘资源分享",
@@ -298,17 +294,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/XYQHiker/云盘资源分享.json"
-    },
-    {
-      "key": "土拨鼠搜索",
-      "name": "🦅云盘┃土拨鼠",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/XYQHiker/土拨鼠搜索.json"
+      "ext": "./json/XYQHiker/云盘资源分享.json"
     },
     {
       "key": "豆豆飞搜索",
@@ -318,17 +304,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/XYQHiker/豆豆飞搜索.json"
-    },
-    {
-      "key": "阿里云盘网",
-      "name": "🦇云盘┃云盘网",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/XYQHiker/阿里云盘网.json"
+      "ext": "./json/XYQHiker/豆豆飞搜索.json"
     },
     {
       "key": "影视车",
@@ -338,7 +314,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/XYQHiker/影视车.json"
+      "ext": "./json/XYQHiker/影视车.json"
+    },
+    {
+      "key": "云盘分享社",
+      "name": "🐺云盘┃分享社",
+      "type": 3,
+      "api": "csp_XYQBiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/XYQBiu/云盘分享社.json"
     },
     {
       "key": "Gitcafe",
@@ -349,16 +335,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
-    },
-    {
-      "key": "Zhaozy",
-      "name": "🐝云盘┃找资源",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "{\"username\":\"shichuanenhui\",\"password\":\"zhangxu\",\"searchurl\":\"http://zhaoziyuan.pw/so?filename={wd}\"}"
     },
     {
       "key": "夸克玩偶弹幕",
@@ -374,7 +350,7 @@
         "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
         "danmu": true
       },
-      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;876cc23e7c0ab92b73568862ec5b42a5"
+      "jar": "./jar/danmu.jar;md5;6313aaf723e76ad70f653384be7d54fa"
     },
     {
       "key": "夸克盘搜弹幕",
@@ -389,7 +365,7 @@
         "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
         "danmu": true
       },
-      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;876cc23e7c0ab92b73568862ec5b42a5"
+      "jar": "./jar/danmu.jar;md5;6313aaf723e76ad70f653384be7d54fa"
     },
     {
       "key": "趣盘搜弹幕",
@@ -404,7 +380,7 @@
         "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
         "danmu": true
       },
-      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;876cc23e7c0ab92b73568862ec5b42a5"
+      "jar": "./jar/danmu.jar;md5;6313aaf723e76ad70f653384be7d54fa"
     },
     {
       "key": "网飞影视",
