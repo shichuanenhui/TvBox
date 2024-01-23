@@ -57,6 +57,7 @@
       "filterable": 1,
       "ext": {
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "site": "https://wogg.xyz",
         "danmu": true
       },
       "jar": "./jar/danmu.jar;md5;6313aaf723e76ad70f653384be7d54fa"
@@ -491,6 +492,75 @@
       },
       "changeable": 0,
       "ext": "./js/虎牙直播.js"
+    },
+    {
+      "key": "盘九九弹幕",
+      "name": "🚫弹幕┃盘九九",
+      "type": 3,
+      "api": "csp_Pan99",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "danmu": true
+      },
+      "jar": "./jar/danmu.jar;md5;6313aaf723e76ad70f653384be7d54fa"
+    },
+    {
+      "key": "找资源弹幕",
+      "name": "🚫弹幕┃找资源",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt+4k|auto|fhd$$$shichuanenhui$$$zhangxu",
+        "danmu": true
+      },
+      "jar": "./jar/danmu.jar;md5;6313aaf723e76ad70f653384be7d54fa"
+    },
+    {
+      "key": "土拨鼠搜索",
+      "name": "🚫云盘┃土拨鼠",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/XYQHiker/土拨鼠搜索.json"
+    },
+    {
+      "key": "Zhaozy",
+      "name": "🚫云盘┃找资源",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "{\"username\":\"shichuanenhui\",\"password\":\"zhangxu\",\"searchurl\":\"http://zhaoziyuan.pw/so?filename={wd}\"}"
+    },
+    {
+      "key": "阿里云盘网",
+      "name": "🚫云盘┃云盘网",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/XYQHiker/阿里云盘网.json"
+    },
+    {
+      "key": "橘子盘搜",
+      "name": "🚫云盘┃橘子",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/XYQHiker/橘子盘搜.json"
     }
   ],
   "parses": [
