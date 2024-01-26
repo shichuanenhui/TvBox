@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1705832521307/fan.txt;md5;c309b0f793045f88f75aa088cd0cc7b5",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706211037910/fan.txt;md5;1b8a4519060aa9c23755fddaaf63bb9b",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -161,16 +161,6 @@
       "changeable": 1
     },
     {
-      "key": "zxzj",
-      "name": "📗在线┃直连",
-      "type": 3,
-      "api": "csp_Zxzj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.zxzj.pro/"
-    },
-    {
       "key": "DiDuan",
       "name": "⏮️低端┃直连",
       "type": 3,
@@ -287,28 +277,6 @@
       "changeable": 1
     },
     {
-      "key": "csp_Yj1211",
-      "name": "📽️网红┃直播",
-      "type": 3,
-      "api": "csp_Yj1211",
-      "searchable": 0,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "key": "Aid",
-      "name": "🚑急救┃教学",
-      "type": 3,
-      "api": "csp_FirstAid",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 3.8
-      }
-    },
-    {
       "key": "88js",
       "name": "⚽ 88┃看球",
       "type": 3,
@@ -322,7 +290,7 @@
       "changeable": 0
     },
     {
-      "key": "csp_qiumi",
+      "key": "Jrsjs",
       "name": "⚽ Jrs┃球迷",
       "type": 3,
       "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
@@ -335,7 +303,7 @@
       "changeable": 0
     },
     {
-      "key": "csp_310直播",
+      "key": "310js",
       "name": "⚽310┃看球",
       "type": 3,
       "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
@@ -348,7 +316,7 @@
       "changeable": 0
     },
     {
-      "key": "csp_XPath_企鹅体育",
+      "key": "企鹅体育xp",
       "name": "🐧企鹅┃体育",
       "type": 3,
       "api": "csp_XPath",
@@ -389,11 +357,30 @@
       "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/MTV.json"
     },
     {
+      "key": "短剧",
+      "name": "🌈短剧┃在线",
+      "type": 3,
+      "api": "csp_Duanju",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://duanju.one"
+    },
+    {
+      "key": "csp_Yj1211",
+      "name": "📽️网红┃直播",
+      "type": 3,
+      "api": "csp_Yj1211",
+      "searchable": 0,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
       "key": "虎牙直播js",
       "name": "🐯虎牙┃直播",
       "type": 3,
       "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-      "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/虎牙直播.js",
+      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/huyazhibo.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -403,7 +390,7 @@
       "changeable": 0
     },
     {
-      "key": "csp_XYQBiu_斗鱼",
+      "key": "斗鱼js",
       "name": "🐟斗鱼┃直播",
       "type": 3,
       "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
@@ -417,7 +404,7 @@
       "changeable": 0
     },
     {
-      "key": "csp_聚短视频",
+      "key": "聚短视频js",
       "name": "📽️聚短┃视频",
       "type": 3,
       "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
@@ -441,6 +428,19 @@
       "changeable": 0
     },
     {
+      "key": "Aid",
+      "name": "🚑急救┃教学",
+      "type": 3,
+      "api": "csp_FirstAid",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 3.8
+      }
+    },
+    {
       "key": "YiSo",
       "name": "😹易搜┃搜索",
       "type": 3,
@@ -449,16 +449,6 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-    },
-    {
-      "key": "Zhaozy",
-      "name": "🐺找资源┃搜索",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$输入自己的$$$账号密码"
     },
     {
       "key": "PanSou",
@@ -508,24 +498,6 @@
       "searchable": 0,
       "quickSearch": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-    },
-    {
-      "key": "csp_Nbys",
-      "name": "🛫泥巴┃飞",
-      "type": 3,
-      "api": "csp_NiNi",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "csp_trj",
-      "name": "🛫唐人街┃飞",
-      "type": 3,
-      "api": "csp_Tangrenjie",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
     },
     {
       "key": "Bili",
@@ -624,6 +596,24 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/高中课堂.json"
+    },
+    {
+      "key": "Nbys",
+      "name": "🛫泥巴┃飞",
+      "type": 3,
+      "api": "csp_NiNi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "csp_trj",
+      "name": "🛫唐人街┃飞",
+      "type": 3,
+      "api": "csp_Tangrenjie",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "fan",
