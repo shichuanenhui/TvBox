@@ -13,3 +13,6 @@
 [submodule "lib/tvbox18"]
 	path = lib/tvbox18
 	url = https://github.com/qirenzhidao/tvbox18.git
+[submodule "lib/jar"]
+	path = lib/jar
+	url = https://jihulab.com/Pizazz/tvbox.git

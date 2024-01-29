@@ -1,6 +1,6 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706211037910/fan.txt;md5;1b8a4519060aa9c23755fddaaf63bb9b",
-  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706376905295/fan.txt;md5;6695b4fe705a1eedcae352abe5412640",
+  "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
       "key": "豆豆",
@@ -278,10 +278,9 @@
     },
     {
       "key": "88js",
-      "name": "⚽ 88┃看球",
+      "name": "⚽ 看球┃在线",
       "type": 3,
-      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/88看球.js",
+      "api": "csp_Kanqiu",
       "style": {
         "type": "list"
       },
