@@ -64,7 +64,7 @@
     },
     {
       "key": "搜索弹幕",
-      "name": "🐱弹幕┃搜索",
+      "name": "🦝弹幕┃搜索",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
@@ -106,7 +106,7 @@
     },
     {
       "key": "云搜弹幕",
-      "name": "😻弹幕┃云搜",
+      "name": "🐷弹幕┃云搜",
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
@@ -464,7 +464,7 @@
     },
     {
       "key": "SeedHub",
-      "name": "🐑磁力┃SeedHub",
+      "name": "🦬磁力┃SeedHub",
       "type": 3,
       "api": "csp_SeedHub",
       "searchable": 1,
@@ -489,22 +489,12 @@
     },
     {
       "key": "迅雷吧",
-      "name": "🐫磁力┃迅雷吧",
+      "name": "🐀磁力┃迅雷吧",
       "type": 3,
       "api": "csp_Xunlei8",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "极影网",
-      "name": "🦙磁力┃极影网",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/XYQHiker/极影网.json"
     },
     {
       "key": "电影港",
@@ -515,16 +505,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/XYQHiker/电影港.json"
-    },
-    {
-      "key": "蚂蚁4K",
-      "name": "🦘磁力┃蚂蚁4K",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/XYQHiker/蚂蚁4K.json"
     },
     {
       "key": "BT天堂",
@@ -538,7 +518,7 @@
     },
     {
       "key": "Mp4电影",
-      "name": "🦨磁力┃Mp4电影",
+      "name": "🐇磁力┃Mp4电影",
       "type": 3,
       "api": "csp_Mp4Mov",
       "searchable": 1,
@@ -547,7 +527,7 @@
     },
     {
       "key": "高清MP4",
-      "name": "🦡磁力┃高清MP4",
+      "name": "🐏磁力┃高清MP4",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -585,7 +565,7 @@
     },
     {
       "key": "网飞影视",
-      "name": "🍑直连┃网飞",
+      "name": "🫐直连┃网飞",
       "type": 3,
       "api": "./js/drpy.min.js",
       "ext": "./js/网飞TV.js"
@@ -606,7 +586,7 @@
     },
     {
       "key": "优酷视频",
-      "name": "🏓官源┃优酷",
+      "name": "🍎官源┃优酷",
       "type": 3,
       "api": "./js/drpy.min.js",
       "ext": "./js/优酷视频.js"
@@ -620,7 +600,7 @@
     },
     {
       "key": "芒果视频",
-      "name": "🍋官源┃芒芒",
+      "name": "🥭官源┃芒芒",
       "type": 3,
       "api": "./js/drpy.min.js",
       "ext": "./js/芒果视频.js"
@@ -638,7 +618,7 @@
     },
     {
       "key": "csp_SP33",
-      "name": "😈解析┃三三",
+      "name": "🍑解析┃三三",
       "type": 3,
       "jar": "./spider/pandaQ231014.jar;md5;ff0d4267db3baab30bbf05b32688699f",
       "api": "csp_SP33",
