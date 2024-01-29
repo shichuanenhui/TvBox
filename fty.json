@@ -428,6 +428,162 @@
       "jar": "./jar/danmu.jar;md5;2fa1bc1647fff15e7c4937fd875f3657"
     },
     {
+      "key": "荐片弹幕",
+      "name": "🐄弹幕┃荐片",
+      "type": 3,
+      "api": "csp_Jianpian",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      },
+      "jar": "./jar/danmu.jar;md5;2fa1bc1647fff15e7c4937fd875f3657"
+    },
+    {
+      "key": "荐片",
+      "name": "🐖磁力┃荐片",
+      "type": 3,
+      "api": "csp_JianPian",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ownjpykxttjzuhy.jiesiwa.com"
+    },
+    {
+      "key": "New6v",
+      "name": "🐏磁力┃New6V",
+      "type": 3,
+      "api": "csp_New6v",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.xb6v.com"
+    },
+    {
+      "key": "SeedHub",
+      "name": "🐑磁力┃SeedHub",
+      "type": 3,
+      "api": "csp_SeedHub",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "磁力熊",
+      "name": "🐐磁力┃磁力熊",
+      "type": 3,
+      "api": "./js/drpy.min.js",
+      "ext": "./js/磁力熊.js"
+    },
+    {
+      "key": "美剧迷",
+      "name": "🐪磁力┃美剧迷",
+      "type": 3,
+      "api": "csp_MeijuMi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "迅雷吧",
+      "name": "🐫磁力┃迅雷吧",
+      "type": 3,
+      "api": "csp_Xunlei8",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "极影网",
+      "name": "🦙磁力┃极影网",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/XYQHiker/极影网.json"
+    },
+    {
+      "key": "电影港",
+      "name": "🦙磁力┃电影港",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/XYQHiker/电影港.json"
+    },
+    {
+      "key": "蚂蚁4K",
+      "name": "🦘磁力┃蚂蚁4K",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/XYQHiker/蚂蚁4K.json"
+    },
+    {
+      "key": "BT天堂",
+      "name": "🦥磁力┃BT天堂",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/XYQHiker/BT天堂.json"
+    },
+    {
+      "key": "Mp4电影",
+      "name": "🦨磁力┃Mp4电影",
+      "type": 3,
+      "api": "csp_Mp4Mov",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "高清MP4",
+      "name": "🦡磁力┃高清MP4",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/XYQHiker/高清MP4.json"
+    },
+    {
+      "key": "哔嘀影视",
+      "name": "🐘磁力┃哔嘀影视",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/XYQHiker/哔嘀影视.json"
+    },
+    {
+      "key": "酷吧电影",
+      "name": "🦣磁力┃酷吧电影",
+      "type": 3,
+      "api": "csp_KubaCL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "美剧天堂",
+      "name": "🐁磁力┃美剧天堂",
+      "type": 3,
+      "api": "csp_MeijuTT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "网飞影视",
       "name": "🍑直连┃网飞",
       "type": 3,
