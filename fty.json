@@ -697,7 +697,9 @@
       "filterable": 0,
       "changeable": 1,
       "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt+4k|auto|fhd$$$shichuanenhui$$$zhangxu",
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt$$$shichuanenhui$$$zhangxu",
+        "username": "shichuanenhui",
+        "password": "zhangxu",
         "danmu": true
       },
       "jar": "./jar/danmu.jar;md5;895544ff07db596db7920ba9e2e3664f"
