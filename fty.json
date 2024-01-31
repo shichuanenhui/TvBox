@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/spider.jar;md5;c172038c72b7a7d16f3682aa19f52260",
+  "spider": "./jar/spider.jar;md5;e3664e6c9b3fc8be8342ece0ab16acb9",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites": [
     {
@@ -21,7 +21,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹",
-      "jar": "./fty/fan_240130.txt;md5;c909e1c1f4523de628060118021ce9ba"
+      "jar": "./fty/fan_240131.txt;md5;1ff3df38a66ee5378031e4fac1799596"
     },
     {
       "key": "阿里云盘登录",
@@ -1007,7 +1007,7 @@
   "lives": [
     {
       "name": "live",
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt",
+      "url": "https://xhdwc.tk/tvlive.txt",
       "type": 0,
       "playerType": 1,
       "ua": "okhttp/4.11",
