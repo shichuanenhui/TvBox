@@ -17,12 +17,8 @@
       "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/api.json"
     },
     {
-      "name": "✍️乐享汇",
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/lxhfans/fans/master/tv.txt"
-    },
-    {
       "name": "🚒运输车",
-      "url": "https://weixine.net/ysc.json"
+      "url": "https://cf.weixine.net/ysc.json"
     },
     {
       "name": "🐟摸鱼4K",
@@ -35,10 +31,6 @@
     {
       "name": "👹影音天堂②",
       "url": "https://agit.ai/1018610504/yytt/raw/branch/main/dimaston.json"
-    },
-    {
-      "name": "🐲短剧",
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/lxhfans/fans/master/duanju.json"
     }
   ]
 }
