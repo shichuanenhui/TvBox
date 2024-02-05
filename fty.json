@@ -21,7 +21,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹",
-      "jar": "./fty/fan_240203.txt;md5;63f50337d37d87c6a3b61d81375fc378"
+      "jar": "./fty/fan_240205.txt;md5;c3e8c08b4cd6f7fd0f868ea48dd42cb2"
     },
     {
       "key": "阿里云盘登录",
@@ -606,50 +606,6 @@
       "ext": "./js/芒果视频.js"
     },
     {
-      "key": "Itv",
-      "name": "🥝解析┃爱爱",
-      "type": 3,
-      "jar": "./spider/pandaQ231014.jar;md5;ff0d4267db3baab30bbf05b32688699f",
-      "api": "csp_Itv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "csp_SP33",
-      "name": "🍑解析┃三三",
-      "type": 3,
-      "jar": "./spider/pandaQ231014.jar;md5;ff0d4267db3baab30bbf05b32688699f",
-      "api": "csp_SP33",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "Qtv",
-      "name": "🐧解析┃腾腾",
-      "type": 3,
-      "jar": "./spider/pandaQ231014.jar;md5;ff0d4267db3baab30bbf05b32688699f",
-      "api": "csp_Qtv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "Mtv",
-      "name": "🍋解析┃芒芒",
-      "type": 3,
-      "jar": "./spider/pandaQ231014.jar;md5;ff0d4267db3baab30bbf05b32688699f",
-      "api": "csp_Mtv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
-    },
-    {
       "key": "斗鱼直播",
       "name": "🐟直播┃斗鱼",
       "type": 3,
@@ -697,7 +653,9 @@
       "filterable": 0,
       "changeable": 1,
       "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt$$$shichuanenhui$$$zhangxu",
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "username": "shichuanenhui",
+        "password": "zhangxu",
         "danmu": true
       },
       "jar": "./jar/danmu.jar;md5;022dc6dd9af10c756f0027a4807b2c4d"
@@ -1007,7 +965,7 @@
   "lives": [
     {
       "name": "live",
-      "url": "https://xhdwc.tk/tvlive.txt",
+      "url": "http://mdxgh.dynv6.net/new/mdlive.txt",
       "type": 0,
       "playerType": 1,
       "ua": "okhttp/4.11",
