@@ -795,6 +795,55 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/XYQHiker/橘子盘搜.json"
+    },
+    {
+      "key": "玩偶姐姐",
+      "name": "🚫资源┃玩偶",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/玩偶姐姐.js"
+    },
+    {
+      "key": "MissAv",
+      "name": "🚫资源┃MissAv",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/MissAv.js"
+    },
+    {
+      "key": "Doll",
+      "name": "🔞资源┃玩偶",
+      "type": 3,
+      "api": "csp_Doll",
+      "jar": "./jar/jav.jar;md5;303eadd615ea122247a00e08689f0787"
+    },
+    {
+      "key": "Hanime",
+      "name": "🔞资源┃H動漫",
+      "type": 3,
+      "api": "csp_Hanime",
+      "jar": "./jar/jav.jar;md5;303eadd615ea122247a00e08689f0787"
+    },
+    {
+      "key": "Miss",
+      "name": "🔞资源┃MissAv",
+      "type": 3,
+      "api": "csp_Miss",
+      "jar": "./jar/jav.jar;md5;303eadd615ea122247a00e08689f0787"
+    },
+    {
+      "key": "JavDb",
+      "name": "🔞资源┃JavDb",
+      "type": 3,
+      "api": "csp_JavDb",
+      "jar": "./jar/jav.jar;md5;303eadd615ea122247a00e08689f0787"
+    },
+    {
+      "key": "Jable",
+      "name": "🔞资源┃Jable",
+      "type": 3,
+      "api": "csp_Jable",
+      "jar": "./jar/jav.jar;md5;303eadd615ea122247a00e08689f0787"
     }
   ],
   "parses": [
