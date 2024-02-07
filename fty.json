@@ -787,42 +787,28 @@
       "name": "🔞资源┃玩偶",
       "type": 3,
       "api": "csp_Doll",
-      "jar": "./jar/pg.jar;md5;46c8c99b9095bedf4e19eba4327967d3"
+      "jar": "./jar/jav.jar;md5;303eadd615ea122247a00e08689f0787"
     },
     {
       "key": "Hanime",
       "name": "🔞资源┃H動漫",
       "type": 3,
       "api": "csp_Hanime",
-      "jar": "./jar/pg.jar;md5;46c8c99b9095bedf4e19eba4327967d3"
+      "jar": "./jar/jav.jar;md5;303eadd615ea122247a00e08689f0787"
     },
     {
       "key": "Jable",
       "name": "🔞资源┃Jable",
       "type": 3,
       "api": "csp_Jable",
-      "jar": "./jar/pg.jar;md5;46c8c99b9095bedf4e19eba4327967d3"
-    },
-    {
-      "key": "JavBus",
-      "name": "🔞资源┃JavBus",
-      "type": 3,
-      "api": "csp_JavBus",
-      "jar": "./jar/pg.jar;md5;46c8c99b9095bedf4e19eba4327967d3"
-    },
-    {
-      "key": "JavDb",
-      "name": "🔞资源┃JavDb",
-      "type": 3,
-      "api": "csp_JavDb",
-      "jar": "./jar/pg.jar;md5;46c8c99b9095bedf4e19eba4327967d3"
+      "jar": "./jar/jav.jar;md5;303eadd615ea122247a00e08689f0787"
     },
     {
       "key": "Miss",
       "name": "🔞资源┃MissAv",
       "type": 3,
       "api": "csp_Miss",
-      "jar": "./jar/pg.jar;md5;46c8c99b9095bedf4e19eba4327967d3"
+      "jar": "./jar/jav.jar;md5;303eadd615ea122247a00e08689f0787"
     }
   ],
   "parses": [
