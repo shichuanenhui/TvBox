@@ -16,3 +16,6 @@
 [submodule "lib/jar"]
 	path = lib/jar
 	url = https://jihulab.com/Pizazz/tvbox.git
+[submodule "lib/APPzby"]
+	path = lib/APPzby
+	url = https://gitcode.com/wang2023-JX/APPzby.git
