@@ -7,7 +7,8 @@
       "name": "🌕推荐┃豆瓣",
       "type": 3,
       "api": "csp_Douban",
-      "searchable": 0
+      "searchable": 0,
+      "indexs": 1
     },
     {
       "key": "csp_WoGG",
