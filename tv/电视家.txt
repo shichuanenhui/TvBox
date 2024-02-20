@@ -5,7 +5,7 @@
 35492379515,https://cloud.lxweb.cn/f/9kGLc1/%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0.mp4
 关注不迷路,https://pay.haiqu.vip:2266/hls/spsj/2019/12/05/10849/playlist.m3u8
 
-春晚合集_0215,#genre#
+📡春晚合集_0215,#genre#
 2024年中央广播电视总台春节联欢晚会,https://v10.dious.cc/20240209/4AK9UB5p/index.m3u8
 2024珠江春晚,https://v10.dious.cc/20240209/lNN6pUqq/index.m3u8
 2024辽宁卫视春节联欢晚会“龙腾盛世中国年”上,https://v10.dious.cc/20240209/J95B9fT5/index.m3u8
@@ -50,10 +50,15 @@
 涉过愤怒的海,https://cloud.lxweb.cn/f/7kZdFr/s%E8%BF%87f%E6%80%92d%E6%B5%B7.2023.HD1080p.%E5%9B%BD%E8%AF%AD%E4%B8%AD%E5%AD%97.mp4
 飞来横财,https://cloud.lxweb.cn/f/9xQPi1/%E9%A3%9E%E6%9D%A5%E6%A8%AA%E8%B4%A21080P.mp4
 BBC纪录片地球脉动,https://cloud.lxweb.cn/f/RE87tO/Planet.Earth.A.Celebration.2020.1080p.iP.WEBRip.x264-RARBG.mp4
+重温经典,http://hg.881488.xyz:3600/stream/channelid/2084883247?profile=pass
 重温经典,https://pi.0472.org/gdtv/1463.m3u8
 非诚勿扰3,https://cloud.lxweb.cn/f/orYYiY/F1080.mkv
 
 📡4K8K频道,#genre#
+CCTV4K-HLG-36Mbps-50FPS-移动满血,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233679/index.m3u8
+移动8K-1-150Mbps-50FPS-HLG-HEVC,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233652/index.m3u8
+移动8K-2-150Mbps-50FPS-HLG-HEVC,http://kjsp.aikan.miguvideo.com/PLTV/8888888/224/3221235532/index.m3u8
+移动8K-3-150Mbps-50FPS-HLG-AVS3,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221235537/index.m3u8
 美国广播公司,https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
 绚影4K,http://php.jdshipin.com:8880/iptv.php?id=xy4k
 百视通4K测试,http://php.jdshipin.com:8880/iptv.php?id=bst4k
@@ -112,10 +117,6 @@ CCTV6 4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224
 CCTV8 4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
 CCTV4K,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4259108076_496521789/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 CCTV4K,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
-CCTV4K,http://1.14.131.61:5828/cctv4k.php
-CCTV4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
-CCTV4K,http://49.235.110.121:9090/daili/gudo.php?id=cctv4k
-CCTV4K,http://49.235.110.121:9090/daili/bestv.php?id=cctv4k
 CCTV4K,http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221226998/index.m3u8
 CCTV4K,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 CCTV4K,https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
@@ -2134,16 +2135,15 @@ TalkTV,https://live-talktv-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3f
 TRT世界,https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 
 翡翠台,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571187
-翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/playlist.m3u8
+翡翠台,http://202.168.187.208:2024/tsfile/live/1006_1.m3u8?key=txiptv
+翡翠台,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571187
 TVB-jade[1280*720],https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
 TVBS新闻台[1280*720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571188
 TVBS亚洲台[1280*720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153507
 星空卫视,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683118
 卫视电影台,http://67.211.73.118:9901/tsfile/live/0001_1.m3u8
 星空卫视,http://67.211.73.118:9901/tsfile/live/0001_1.m3u8
-翡翠台,http://202.168.187.208:2024/tsfile/live/1006_1.m3u8?key=txiptv
-翡翠台,mitv://147.135.39.171:9906/657c8f9400023bf0a955b8853ca47814
+
 
 
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
