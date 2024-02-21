@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/spider.jar;md5;1a00d5032cc02fad54510bab6d48ed4a",
+  "spider": "./jar/spider.jar;md5;aa6ee948740552fd1cf3346143ed85a2",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites": [
     {
@@ -827,28 +827,35 @@
       "name": "🔞资源┃玩偶",
       "type": 3,
       "api": "csp_Doll",
-      "jar": "./jar/custom_spider.jar;md5;1d4ff8f544bca8e9c4c931bc67f186c9"
+      "jar": "./jar/custom_spider.jar;md5;4e9c1cca038e839e892c969f1339709e"
+    },
+    {
+      "key": "Eighteen",
+      "name": "🔞资源┃18Av",
+      "type": 3,
+      "api": "csp_Eighteen",
+      "jar": "./jar/custom_spider.jar;md5;4e9c1cca038e839e892c969f1339709e"
     },
     {
       "key": "Hanime",
       "name": "🔞资源┃H動漫",
       "type": 3,
       "api": "csp_Hanime",
-      "jar": "./jar/custom_spider.jar;md5;1d4ff8f544bca8e9c4c931bc67f186c9"
+      "jar": "./jar/custom_spider.jar;md5;4e9c1cca038e839e892c969f1339709e"
     },
     {
       "key": "Jable",
       "name": "🔞资源┃Jable",
       "type": 3,
       "api": "csp_Jable",
-      "jar": "./jar/custom_spider.jar;md5;1d4ff8f544bca8e9c4c931bc67f186c9"
+      "jar": "./jar/custom_spider.jar;md5;4e9c1cca038e839e892c969f1339709e"
     },
     {
       "key": "Miss",
       "name": "🔞资源┃MissAv",
       "type": 3,
       "api": "csp_Miss",
-      "jar": "./jar/custom_spider.jar;md5;1d4ff8f544bca8e9c4c931bc67f186c9"
+      "jar": "./jar/custom_spider.jar;md5;4e9c1cca038e839e892c969f1339709e"
     }
   ],
   "parses": [
