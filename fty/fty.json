@@ -1,10 +1,10 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708765869861/fan.txt;md5;69c44556911acb40c53846bd52873fee",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708940933062/fan.txt;md5;82a31f7dab4c0eb89a46584f3934d810",
   "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
       "key": "豆豆",
-      "name": "🧧饭祝大家新春快乐龙年大吉",
+      "name": "🌕公众号【神秘的哥哥们】",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -71,17 +71,6 @@
       "changeable": 1
     },
     {
-      "key": "率率",
-      "name": "🌸率率┃App",
-      "type": 3,
-      "api": "csp_AppLd",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjSZ1FapovNr0QF4QvEpcoxb5gWXdQJE2MXqLG6ykBcSsOR7TnDygTd5bXnCjGuLD/PknUhkn0yQ2NzCIxgZAkPAofMgEqVYlhBvnhU8N1VerP8K2NTNgP+NxESztO6"
-    },
-    {
       "key": "南瓜",
       "name": "🎃南瓜┃App",
       "type": 3,
@@ -119,6 +108,17 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.maolvys.com/"
+    },
+    {
+      "key": "率率",
+      "name": "🌸率率┃App",
+      "type": 3,
+      "api": "csp_AppLd",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjSZ1FapovNr0QF4QvEpcoxb5gWXdQJE2MXqLG6ykBcSsOR7TnDygTd5bXnCjGuLD/PknUhkn0yQ2NzCIxgZAkPAofMgEqVYlhBvnhU8N1VerP8K2NTNgP+NxESztO6"
     },
     {
       "key": "小柚",
@@ -360,7 +360,7 @@
       "name": "🐯虎牙┃直播",
       "type": 3,
       "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/huyazhibo.js",
+      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/huya2.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
