@@ -50,8 +50,6 @@
 涉过愤怒的海,https://cloud.lxweb.cn/f/7kZdFr/s%E8%BF%87f%E6%80%92d%E6%B5%B7.2023.HD1080p.%E5%9B%BD%E8%AF%AD%E4%B8%AD%E5%AD%97.mp4
 飞来横财,https://cloud.lxweb.cn/f/9xQPi1/%E9%A3%9E%E6%9D%A5%E6%A8%AA%E8%B4%A21080P.mp4
 BBC纪录片地球脉动,https://cloud.lxweb.cn/f/RE87tO/Planet.Earth.A.Celebration.2020.1080p.iP.WEBRip.x264-RARBG.mp4
-重温经典,http://hg.881488.xyz:3600/stream/channelid/2084883247?profile=pass
-重温经典,https://pi.0472.org/gdtv/1463.m3u8
 非诚勿扰3,https://cloud.lxweb.cn/f/orYYiY/F1080.mkv
 
 📡4K8K频道,#genre#
@@ -166,7 +164,44 @@ CCTV13新闻,http://222.92.7.170:3333/tsfile/live/0013_1.m3u8?key=txiptv&playliv
 CCTV14少儿,http://222.92.7.170:3333/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15音乐,http://222.92.7.170:3333/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 
+CCTV01移动超高清,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000029752/1.m3u8?channel-id=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=3
+CCTV02移动超高清,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000023315/1.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=3
+CCTV03移动超高清,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000022313/1.m3u8?channel-id=wasusyt&Contentid=6000000001000022313&livemode=1&stbId=3
+CCTV04移动超高清,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031102/1.m3u8?channel-id=bestzb&Contentid=5000000011000031102&livemode=1&stbId=3
+CCTV05移动超高清,http://zteres.sn.chinamobile.com:6060/000000001000/1000000003000030177/1.m3u8?channel-id=ystenlive&Contentid=1000000003000030177&livemode=1&stbId=3
+CCTV5+移动超高清,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000018504/1.m3u8?channel-id=ystenlive&Contentid=1000000001000018504&livemode=1&stbId=3
+CCTV06移动超高清,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000016466/1.m3u8?channel-id=ystenlive&Contentid=1000000001000016466&livemode=1&stbId=3
+CCTV07移动超高清,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000009055/1.m3u8?channel-id=wasusyt&Contentid=6000000001000009055&livemode=1&stbId=3
+CCTV08移动超高清,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000031433/1.m3u8?channel-id=ystenlive&Contentid=1000000001000031433&livemode=1&stbId=3
+CCTV09移动超高清,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000014583/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=3
+CCTV10移动超高清,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000016738/1.m3u8?channel-id=bestzb&Contentid=5000000010000016738&livemode=1&stbId=3
+CCTV11移动超高清,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031106/1.m3u8?channel-id=bestzb&Contentid=5000000011000031106&livemode=1&stbId=3
+CCTV12移动超高清,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000022586/1.m3u8?channel-id=wasusyt&Contentid=6000000001000022586&livemode=1&stbId=3
+CCTV13移动超高清,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+CCTV13移动超高清,http://zteres.sn.chinamobile.com:6060/000000001000/5000000005000001827/1.m3u8?channel-id=bestzb&Contentid=5000000005000001827&livemode=1&stbId=3
+CCTV14移动超高清,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000013647/1.m3u8?channel-id=wasusyt&Contentid=6000000001000013647&livemode=1&stbId=3
+CCTV15移动超高清,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265014/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265014&livemode=1&stbId=3
+CCTV16移动超高清,http://zteres.sn.chinamobile.com:6060/000000001000/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
+CCTV17移动超高清,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265015/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265015&livemode=1&stbId=3
 
+CCTV01移动超高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
+CCTV02移动超高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+CCTV03移动超高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
+CCTV04移动超高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+CCTV05移动超高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+CCTV5+移动超高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
+CCTV06移动超高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
+CCTV07移动超高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+CCTV08移动超高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
+CCTV09移动超高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+CCTV10移动超高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+CCTV11移动超高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
+CCTV12移动超高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
+CCTV13移动超高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+CCTV14移动超高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+CCTV15移动超高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
+CCTV16移动超高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+CCTV17移动超高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 
 📡卫视频道,#genre#
 
@@ -1679,35 +1714,14 @@ Baby TV,http://198.16.100.90:8278/babytv_twn/playlist.m3u8?tid=MB3B7827650178276
 
 
 📡广东频道,#genre#
-「广东」中山综合,http://jp-osk-bgp-1.openfrp.top:10180/test/gudou.php?id=3665
-「广东」中山公共,http://jp-osk-bgp-1.openfrp.top:10180/test/gudou.php?id=3663
-「广东」中山教育,http://jp-osk-bgp-1.openfrp.top:10180/test/gudou.php?id=3664
-「广东」中山综合,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=3665
-「广东」中山香山文化,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=3663
-「广东」中山教育,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=3664
-「广东」中山综合,http://ct.whosayssowhat.top:4022/udp/239.253.43.62:5146
-「广东」中山公共,http://ct.whosayssowhat.top:4022/udp/239.253.43.63:5146
-「广东」中山教育,http://ct.whosayssowhat.top:4022/udp/239.253.43.64:5146
-「广东」中山综合,http://183.48.242.178:40000/udp/239.253.43.62:5146
-「广东」香山文化,http://183.48.242.178:40000/udp/239.253.43.63:5146
-「广东」中山教育,http://183.48.242.178:40000/udp/239.253.43.64:5146
-
-「广东」珠海1,http://14.145.195.146:8888/udp/239.77.0.155:5146
-「广东」珠海2,http://14.145.195.146:8888/udp/239.77.0.154:5146
-「广东」珠海1,http://www.namewee.xyz/gudou.php?id=zhuhaiHD1_4500
-「广东」珠海2,http://www.namewee.xyz/gudou.php?id=zhuhaiHD2_4500
-「广东」珠海1,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=zhuhaiyitao_1500&/PLTV/hls.smil.m3u8
-「广东」珠海2,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=zhuhaiertao_1500&/PLTV/hls.smil.m3u8
-「广东」珠海1,http://jp-osk-bgp-1.openfrp.top:10180/test/gudou.php?id=zhuhaiyitao_1500
-「广东」珠海2,http://jp-osk-bgp-1.openfrp.top:10180/test/gudou.php?id=zhuhaiertao_1500
 「广东」广东珠江,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/1.m3u8
 「广东」广东珠江,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000033/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000033&livemode=1&stbId=3
 「广东」广东珠江,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011655/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3
 「广东」广东珠江,http://222.218.159.220:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 「广东」广东珠江,http://113.91.169.197:9999/rtp/239.77.0.3:5146
 「广东」广东珠江,http://113.91.169.197:9999/rtp/239.77.1.94:5146
-「广东」广东珠江高清,http://113.91.169.197:9999/rtp/239.77.0.1:5146
-「广东」广东珠江超清,http://113.91.169.197:9999/rtp/239.77.0.114:5146
+「广东」广东珠江,http://113.91.169.197:9999/rtp/239.77.0.1:5146
+「广东」广东珠江,http://113.91.169.197:9999/rtp/239.77.0.114:5146
 
 「广东」广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935?zguangd
 「广东」广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721?zguangd
@@ -1757,27 +1771,23 @@ Baby TV,http://198.16.100.90:8278/babytv_twn/playlist.m3u8?tid=MB3B7827650178276
 
 「广东」汕头小公园,https://gctxyc.liveplay.myqcloud.com/gc/bsszjs_1/index.m3u8?contentid=2820180516001
 「广东」汕头小公园,https://gctxyc.liveplay.myqcloud.com/gc/bsszjs_1_md.m3u8
-「广东」汕头综合,http://183.237.231.139:9901/tsfile/live/1044_1.m3u8?fbl=
-「广东」汕头综合,http://lu1.cc/itv/php/tide.php?id=stxwzh#http://zourjke.eu.org:84/doudou.php?id=shantouyitaogaoqing_4500#https://t.68l.cc/gd.php?id=shantouyitaogaoqing_4500
-「广东」汕头综合,http://113.91.169.197:9999/rtp/239.253.43.30:5146
-「广东」汕头综合高清,http://113.91.169.197:9999/rtp/239.77.1.130:5146
-「广东」汕头综合高清,http://113.91.169.197:9999/rtp/239.253.43.45:5146
-「广东」汕头经济生活,http://113.91.169.197:9999/rtp/239.253.43.43:5146
-「广东」汕头经济生活,http://183.237.231.139:9901/tsfile/live/1045_1.m3u8?fbl=
-「广东」汕头经济生活高清,http://113.91.169.197:9999/rtp/239.77.1.131:5146
-「广东」汕头经济生活高清,http://113.91.169.197:9999/rtp/239.253.43.46:5146
-「广东」汕头文旅体育,http://183.237.231.139:9901/tsfile/live/1046_1.m3u8?fbl=
-「广东」汕头文旅体育,http://113.91.169.197:9999/rtp/239.253.43.44:5146
-「广东」汕头文旅体育高清,http://113.91.169.197:9999/rtp/239.77.1.132:5146
-「广东」汕头文旅体育高清,http://113.91.169.197:9999/rtp/239.253.43.47:5146
+「广东」汕头综合,http://183.238.248.84:9000/udp/239.21.0.101:3744
+「广东」汕头生活,http://183.238.248.84:9000/udp/239.21.0.102:3748
+「广东」汕头文化,http://183.238.248.84:9000/udp/239.21.0.103:3752
+「广东」汕头综合,http://114.132.99.29:8812/st.php?id=G7Kql7a
+「广东」汕头经济,http://114.132.99.29:8812/st.php?id=7xjJK9d
+「广东」汕头综合,http://211.101.234.94:9999/php/gudo.php?id=stxwzh
+「广东」汕头综合,http://211.101.234.94:9999/php/gudo.php?id=stxwzh2
+「广东」汕头经济生活,http://211.101.234.94:9999/php/gudo.php?id=stjjsh
+「广东」汕头经济生活2,http://211.101.234.94:9999/php/gudo.php?id=stjjsh2
+「广东」汕头文旅体育,http://211.101.234.94:9999/php/gudo.php?id=stwlty
+「广东」汕头文旅体育2,http://211.101.234.94:9999/php/gudo.php?id=stwlty2
+「广东」汕头综合高清,http://211.97.63.3:801/hls/81/index.m3u8
+「广东」汕头经济高清,http://211.97.63.3:801/hls/82/index.m3u8
+「广东」汕头体育高清,http://211.97.63.3:801/hls
 
-「广东」揭阳生活,http://122.152.202.33/s/9b29914a/index.m3u8?id=673#http://zourjke.eu.org:84/doudou.php?id=jieyanggonggongHD
-「广东」揭阳综合,http://183.237.231.139:9901/tsfile/live/1030_1.m3u8?fbl=
-「广东」揭阳生活,http://183.237.231.139:9901/tsfile/live/1031_1.m3u8?fbl=
-「广东」揭阳综合,http://www.namewee.xyz/gudou.php?id=jieyangzongheHD
-「广东」揭阳综合,http://zourjke.eu.org:84/doudou.php?id=jieyangzongheHD
 
-「广东」广东珠江HD,http://gxdl-lhs.8866.org:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0#http://gxdl-lhs.8866.org:85/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
+
 「广东」广东民生HD,http://gxdl-lhs.8866.org:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0#http://lcx-olt.8866.org:8181/tsfile/live/1081_1.m3u8
 「广东」广东民生HD,http://gxdl-lhs.8866.org:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
 「广东」广东新闻HD,http://lcx-olt.8866.org:8181/tsfile/live/1080_1.m3u8
@@ -2449,6 +2459,16 @@ TVBS新闻,mitv://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
 TVBS,mitv://generationnexxxt.com:19806/9fb651a7ec2e402588a0752ba1035476
 东森财经新闻,mitv://generationnexxxt.com:19806/9193e5efd94f4991ba8bfbc98bdc3f19
 
+东森新闻,mitv://generationnexxxt.com:19806/f9a85e8e15c4455db657b542433fdd73
+中天新闻,mitv://generationnexxxt.com:19806/91ccadc82fbf468bbc4a566ded05854e
+民视新闻,mitv://generationnexxxt.com:19806/409598b6976d40ae910b106737a9cff6
+三立新闻,mitv://generationnexxxt.com:19806/8c97a4c5bb104866adc4c483b59f0543
+TVBS新闻,mitv://generationnexxxt.com:19806/c7c90c4ae22d4b40bb11245d092a91a6
+中视新闻,mitv://generationnexxxt.com:19806/2a1602ea48c14bca864aef59f46bb641
+寰宇新闻,mitv://generationnexxxt.com:19806/61bd2b78579a497eb8031bd9936aefd8
+华视新闻,mitv://generationnexxxt.com:19806/010e5852399b4cd3b2d81cc41642ca2b
+非凡新闻,mitv://generationnexxxt.com:19806/13b84b10435d457f9f0e1166854074b1
+
 
 大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 好消息,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
@@ -2462,6 +2482,21 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/streamPlaylist.m3u8
 
+动物星球全网[3840x2160],https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+無綫新聞全网[1920x1080],http://hksc.vnetidc.hk:61282/bysid/83
+無綫財經全网[1920x1080],http://hksc.vnetidc.hk:61282/bysid/85
+翡翠频道全网[1920x1080],http://hksc.vnetidc.hk:61281/bysid/1
+明珠频道全网[1920x1080],http://hksc.vnetidc.hk:61282/bysid/2
+香港J2频全网[1920x1080],http://hksc.vnetidc.hk:61282/bysid/82
+HOY國際全网[1920x1080],http://hksc.vnetidc.hk:61283/bysid/76
+*HOYT频全网[1920x1080],http://hksc.vnetidc.hk:61283/bysid/77
+*HOYy資全网[1920x1080],http://hksc.vnetidc.hk:61283/bysid/78
+港台電31全网[1920x1080],http://hksc.vnetidc.hk:61284/bysid/31
+港台電32全网[1920x1080],http://hksc.vnetidc.hk:61284/bysid/32
+ViuTVsix全网[1920x1080],http://hksc.vnetidc.hk:61281/bysid/96
+ViuTV频全网[1920x1080],http://hksc.vnetidc.hk:61281/bysid/99
+中央電視全网[1920x1080],http://hksc.vnetidc.hk:61284/bysid/33
+中國環球全网[1920x1080],http://hksc.vnetidc.hk:61284/bysid/34
 
 📡马来西亚频道,#genre#
 TV1,P2p://generationnexxxt.com:19806/a3299ebd988b447992cf982df2ea7562
@@ -2688,6 +2723,9 @@ CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 电影轮播1,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
 电影轮播2,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
 电影轮播3,http://gangbaoting.7766.org:8084/0.ts
+重温经典[1920x1080],http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
+重温经典,http://124.231.213.132:9999/tsfile/live/1111_1.m3u8
+重温经典,http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8#http://124.231.213.131:9999/tsfile/live/1111_1.m3u8
 
 📡求索系列,#genre#
 
