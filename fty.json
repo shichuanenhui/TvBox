@@ -858,35 +858,35 @@
       "name": "🔞资源┃玩偶",
       "type": 3,
       "api": "csp_Doll",
-      "jar": "./jar/custom_spider.jar;md5;1c0a77c56998f8ac7484678ddb6e91d2"
+      "jar": "./jar/custom_spider.jar;md5;034284ac61c7bc4f5e9acf7937889bb3"
     },
     {
       "key": "Eighteen",
       "name": "🔞资源┃18Av",
       "type": 3,
       "api": "csp_Eighteen",
-      "jar": "./jar/custom_spider.jar;md5;1c0a77c56998f8ac7484678ddb6e91d2"
+      "jar": "./jar/custom_spider.jar;md5;034284ac61c7bc4f5e9acf7937889bb3"
     },
     {
       "key": "Hanime",
       "name": "🔞资源┃H動漫",
       "type": 3,
       "api": "csp_Hanime",
-      "jar": "./jar/custom_spider.jar;md5;1c0a77c56998f8ac7484678ddb6e91d2"
+      "jar": "./jar/custom_spider.jar;md5;034284ac61c7bc4f5e9acf7937889bb3"
     },
     {
       "key": "Jable",
       "name": "🔞资源┃Jable",
       "type": 3,
       "api": "csp_Jable",
-      "jar": "./jar/custom_spider.jar;md5;1c0a77c56998f8ac7484678ddb6e91d2"
+      "jar": "./jar/custom_spider.jar;md5;034284ac61c7bc4f5e9acf7937889bb3"
     },
     {
       "key": "Miss",
       "name": "🔞资源┃MissAv",
       "type": 3,
       "api": "csp_Miss",
-      "jar": "./jar/custom_spider.jar;md5;1c0a77c56998f8ac7484678ddb6e91d2"
+      "jar": "./jar/custom_spider.jar;md5;034284ac61c7bc4f5e9acf7937889bb3"
     }
   ],
   "parses": [
