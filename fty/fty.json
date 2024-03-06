@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1709373406207/fan.txt;md5;b283549a522bd5a164524d7ae4781806",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1709477073155/fan.txt;md5;a0df2c561cdc1fc457ed12595bf8659f",
   "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -50,23 +50,21 @@
       "ext": "https://www.hdmyy.com/"
     },
     {
-      "key": "Czsapp",
-      "name": "📔厂长┃无广",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.czzy55.com/"
-    },
-    {
       "key": "追剧",
       "name": "💥追剧┃App",
       "type": 3,
       "api": "csp_AppTT",
       "playerType": 2,
       "ext": "AO7TcBkd8Jqf5UgA7xXA6dVlLcc="
+    },
+    {
+      "key": "嘀嘀",
+      "name": "☀嘀嘀┃无广",
+      "type": 3,
+      "api": "csp_Bdys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "DiDuan",
@@ -106,6 +104,17 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "FbjDcUxPqpfNr0QF4QvEpcoxMMdAA5wQTClJt+Hxgw4VXJLfrTSRjQjA6r70U2ONX3iG4lQWk1cgXQMSUZpbUzIYJ6iQs3+gcUVDp1lz6rcrGqDtCW4hfAf9JSR025m0+TGWMsZkVg=="
+    },
+    {
+      "key": "Czsapp",
+      "name": "📔厂长┃无广",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.czzy55.com/"
     },
     {
       "key": "毛驴",
@@ -833,7 +842,7 @@
     {
       "name": "SAO0",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
+      "url": "https://xhdwc.tk/tvlive.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
