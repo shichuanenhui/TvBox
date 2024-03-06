@@ -19,6 +19,6 @@
 [submodule "lib/APPzby"]
 	path = lib/APPzby
 	url = https://gitcode.com/wang2023-JX/APPzby.git
-[submodule "lib/zby"]
-	path = lib/zby
-	url = https://github.com/mlvjfchen/zby
+[submodule "lib/IPTV"]
+	path = lib/IPTV
+	url = https://github.com/Meroser/IPTV.git

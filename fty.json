@@ -1129,13 +1129,70 @@
   ],
   "lives": [
     {
-      "name": "live",
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TVActions/master/result.txt",
+      "name": "直播源",
+      "url": "https://raw.gitmirror.com/shichuanenhui/TVActions/master/result.txt",
       "type": 0,
       "playerType": 1,
       "ua": "okhttp/4.11",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "iptv",
+      "url": "https://taoiptv.com/source/iptv.txt?token=8zlxhttq9h01ahww",
+      "type": 0,
+      "playerType": 1,
+      "ua": "okhttp/4.11",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "ipv6",
+      "url": "https://raw.gitmirror.com/Meroser/IPTV/main/IPTV-tvbox.txt",
+      "type": 0,
+      "playerType": 1,
+      "ua": "okhttp/4.11",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "潇洒源",
+      "url": "https://raw.gitmirror.com//PizazzGY/TVBox_warehouse/main/live.txt",
+      "type": 0,
+      "playerType": 1,
+      "ua": "okhttp/4.11",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "高天1",
+      "type": 0,
+      "playerType": 1,
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/listx.txt"
+    },
+    {
+      "name": "高天2",
+      "type": 0,
+      "playerType": 1,
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/livex.m3u"
+    },
+    {
+      "name": "YanG",
+      "type": 0,
+      "playerType": 1,
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u"
+    },
+    {
+      "name": "atsushi",
+      "type": 0,
+      "playerType": 1,
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/atsushi444/iptv-epg/main/Adult.m3u"
+    },
+    {
+      "name": "小武哥",
+      "type": 0,
+      "playerType": 1,
+      "url": "https://qu.ax/PEHy.txt"
     }
   ],
   "flags": [
