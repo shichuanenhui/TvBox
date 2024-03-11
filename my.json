@@ -5,8 +5,12 @@
       "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/fty.json"
     },
     {
-      "name": "🐡1080p",
-      "url": "http://mdxgh.dynv6.net"
+      "name": "🐡码点主仓库",
+      "url": "http://mdxgh.v6.rocks:9999/"
+    },
+    {
+      "name": "🐡码点备用仓",
+      "url": "http://oneone.dynv6.net:9999/"
     },
     {
       "name": "☃️PG",
