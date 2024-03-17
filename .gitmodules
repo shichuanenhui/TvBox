@@ -16,3 +16,6 @@
 [submodule "lib/APPzby"]
 	path = lib/APPzby
 	url = https://gitcode.com/wang2023-JX/APPzby.git
+[submodule "lib/Tvbox1"]
+	path = lib/Tvbox1
+	url = https://github.com/sf467/Tvbox1.git
