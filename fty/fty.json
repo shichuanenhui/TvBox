@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710238671597/fan.txt;md5;d275081b5b9f999614a1930aa7599cb9",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710756082799/fan.txt;md5;dd909349c70fe92e82470eba611b7094",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -45,6 +45,15 @@
       "type": 3,
       "api": "csp_Kkys",
       "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "苹果",
+      "name": "🍎小苹果┃复活",
+      "type": 3,
+      "api": "csp_LiteApple",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -119,16 +128,6 @@
       "api": "csp_NanGua",
       "timeout": 15,
       "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "新星",
-      "name": "💥新星┃App",
-      "type": 1,
-      "api": "http://vipcom.xn--654a.cc/api.php/provide/vod/",
-      "playUrl": "json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -739,29 +738,26 @@
   ],
   "rules": [
     {
-      "name": "hwk",
+      "name": "kk",
       "hosts": [
-        "haiwaikan"
+        "kuaikan"
       ],
       "regex": [
-        "10.0099",
-        "10.3333",
-        "16.0599",
-        "8.1748",
-        "12.33",
-        "10.85"
+        "5",
+        "20.123",
+        "20.167",
+        "#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-KEY:METHOD((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-DISCONTINUITY"
       ]
     },
     {
       "name": "yqk",
       "hosts": [
-        "yqk88"
+        "yqk"
       ],
       "regex": [
         "18.4",
         "15.1666",
-        "16.5333",
-        "#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-CUE-IN"
+        "#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-OUT((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-IN"
       ]
     },
     {
@@ -798,9 +794,10 @@
     {
       "name": "lz",
       "hosts": [
-        "lz",
+        "vip.lz",
+        "hd.lz",
         "v.cdnlz",
-        "yzzy"
+        "yzzy1.play"
       ],
       "regex": [
         "18.5333",
