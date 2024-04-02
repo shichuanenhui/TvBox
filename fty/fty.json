@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711712075900/fan.txt;md5;32308cf19979495a434e39d1492c5e68",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711988761126/fan.txt;md5;939c79aa5e93766504d1f7a957d32f24",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -70,15 +70,15 @@
       "changeable": 1
     },
     {
-      "key": "Xinsj",
-      "name": "👓视觉┃直连",
+      "key": "白嫖",
+      "name": "👻白飘┃无广",
       "type": 3,
-      "api": "csp_Xinsj",
-      "timeout": 15,
+      "api": "csp_BaiPiao",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.80yy3.com/"
+      "ext": "https://www.baipiaoys.com:9092/"
     },
     {
       "key": "厂长",
@@ -103,15 +103,15 @@
       "changeable": 1
     },
     {
-      "key": "白嫖",
-      "name": "👻白飘┃无广",
+      "key": "南瓜",
+      "name": "🎃南瓜┃App",
       "type": 3,
-      "api": "csp_BaiPiao",
+      "api": "csp_NanGua",
+      "timeout": 15,
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.baipiaoys.com:9092/"
+      "changeable": 1
     },
     {
       "key": "DiDuan",
@@ -119,17 +119,6 @@
       "type": 3,
       "api": "csp_Ddrk",
       "playerType": "2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "南瓜",
-      "name": "🎃南瓜┃App",
-      "type": 3,
-      "api": "csp_NanGua",
-      "timeout": 15,
-      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -164,6 +153,17 @@
       "timeout": 15,
       "playerType": 1,
       "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
+    },
+    {
+      "key": "Xinsj",
+      "name": "👓视觉┃直连",
+      "type": 3,
+      "api": "csp_Xinsj",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.80yy3.com/"
     },
     {
       "key": "zxzj",
@@ -792,22 +792,22 @@
   ],
   "lives": [
     {
-      "name": "SAO0",
+      "name": "多线ITV",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
+      "playerType": 1
     },
     {
-      "name": "IPV6",
+      "name": "高速V6",
       "type": 0,
       "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "playerType": 1
+    },
+    {
+      "name": "嗅探",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
+      "type": 0,
+      "url": "https://xhdwc.tk/xiutan.m3u"
     }
   ]
 }
