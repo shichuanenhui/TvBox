@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1712426924722/fan.txt;md5;eb12fd6d2a7ac3be4ec3b8a65fae192f",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1712494041762/fan.txt;md5;013794cda7f4898b65b8a7f7382cc5a1",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -107,7 +107,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.czzy77.com/"
+      "ext": "https://www.czys01.com/"
     },
     {
       "key": "南瓜",
@@ -808,19 +808,19 @@
   ],
   "lives": [
     {
-      "name": "多线ITV",
+      "name": "ITV",
       "type": 0,
       "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
       "playerType": 1
     },
     {
-      "name": "高速V6",
+      "name": "IPV6",
       "type": 0,
       "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
       "playerType": 1
     },
     {
-      "name": "嗅探",
+      "name": "XIUTAN",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
       "type": 0,
       "url": "https://xhdwc.tk/xiutan.m3u"

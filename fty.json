@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/spider.jar;md5;f154ba973ace6562b2e82815952b089e",
+  "spider": "./jar/spider.jar;md5;2db1bd07c42c25796659053e9c370577",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites": [
     {
@@ -25,7 +25,7 @@
         "siteUrl": "https://api.wogg.xyz/",
         "danMu": "弹"
       },
-      "jar": "./fty/fan_240407.txt;md5;eb12fd6d2a7ac3be4ec3b8a65fae192f"
+      "jar": "./fty/fan_240409.txt;md5;013794cda7f4898b65b8a7f7382cc5a1"
     },
     {
       "key": "阿里云盘登录",
@@ -951,35 +951,35 @@
       "name": "🔞资源┃玩偶",
       "type": 3,
       "api": "csp_Doll",
-      "jar": "./jar/custom_spider.jar;md5;034284ac61c7bc4f5e9acf7937889bb3"
+      "jar": "./jar/custom_spider.jar;md5;eb9ef1e338ee3b01ef1c1c388841d7bb"
     },
     {
       "key": "Eighteen",
       "name": "🔞资源┃18Av",
       "type": 3,
       "api": "csp_Eighteen",
-      "jar": "./jar/custom_spider.jar;md5;034284ac61c7bc4f5e9acf7937889bb3"
+      "jar": "./jar/custom_spider.jar;md5;eb9ef1e338ee3b01ef1c1c388841d7bb"
     },
     {
       "key": "Hanime",
       "name": "🔞资源┃H動漫",
       "type": 3,
       "api": "csp_Hanime",
-      "jar": "./jar/custom_spider.jar;md5;034284ac61c7bc4f5e9acf7937889bb3"
+      "jar": "./jar/custom_spider.jar;md5;eb9ef1e338ee3b01ef1c1c388841d7bb"
     },
     {
       "key": "Jable",
       "name": "🔞资源┃Jable",
       "type": 3,
       "api": "csp_Jable",
-      "jar": "./jar/custom_spider.jar;md5;034284ac61c7bc4f5e9acf7937889bb3"
+      "jar": "./jar/custom_spider.jar;md5;eb9ef1e338ee3b01ef1c1c388841d7bb"
     },
     {
       "key": "Miss",
       "name": "🔞资源┃MissAv",
       "type": 3,
       "api": "csp_Miss",
-      "jar": "./jar/custom_spider.jar;md5;034284ac61c7bc4f5e9acf7937889bb3"
+      "jar": "./jar/custom_spider.jar;md5;eb9ef1e338ee3b01ef1c1c388841d7bb"
     }
   ],
   "parses": [
@@ -1080,29 +1080,26 @@
   ],
   "rules": [
     {
-      "name": "hwk",
+      "name": "kk",
       "hosts": [
-        "haiwaikan"
+        "kuaikan"
       ],
       "regex": [
-        "10.0099",
-        "10.3333",
-        "16.0599",
-        "8.1748",
-        "12.33",
-        "10.85"
+        "5",
+        "20.123",
+        "20.167",
+        "#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-KEY:METHOD((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-DISCONTINUITY"
       ]
     },
     {
       "name": "yqk",
       "hosts": [
-        "yqk88"
+        "yqk"
       ],
       "regex": [
         "18.4",
         "15.1666",
-        "16.5333",
-        "#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-CUE-IN"
+        "#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-OUT((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-IN"
       ]
     },
     {
@@ -1111,7 +1108,10 @@
         "suonizy"
       ],
       "regex": [
-        "16.333333",
+        "#EXTINF.*?\\s+.*?original.*?\\.ts\\s+",
+        "15.1666",
+        "15.2666",
+        "16.3333",
         "15.266667"
       ]
     },
@@ -1136,23 +1136,30 @@
     {
       "name": "lz",
       "hosts": [
-        "lz"
+        "vip.lz",
+        "hd.lz",
+        "v.cdnlz",
+        "yzzy1.play"
       ],
       "regex": [
         "18.5333",
-        "19.52"
+        "19.52",
+        "18.6666"
       ]
     },
     {
       "name": "ff",
       "hosts": [
         "vip.ffzy",
-        "hd.ffzy"
+        "hd.ffzy",
+        "ffzy"
       ],
       "regex": [
         "25.0666",
         "25.08",
-        "20.52"
+        "20.52",
+        "25.1",
+        "25.1999"
       ]
     },
     {
@@ -1192,38 +1199,12 @@
         "直 播",
         "更 新"
       ]
-    },
-    {
-      "name": "磁力广告",
-      "hosts": [
-        "magnet"
-      ],
-      "regex": [
-        "更多",
-        "请访问",
-        "example",
-        "社 區",
-        "x u u",
-        "直 播",
-        "更 新",
-        "社 区",
-        "有趣",
-        "有 趣",
-        "英皇体育",
-        "全中文AV在线",
-        "澳门皇冠赌场",
-        "哥哥快来",
-        "美女荷官",
-        "裸聊",
-        "新片首发",
-        "UUE29"
-      ]
     }
   ],
   "lives": [
     {
-      "name": "iptv",
-      "url": "https://taoiptv.com/source/iptv.txt?token=8zlxhttq9h01ahww",
+      "name": "爱看TV",
+      "url": "https://raw.gitcode.com/wang2023-JX/APPzby/raw/main/APPzby-aikan",
       "type": 0,
       "playerType": 1,
       "ua": "okhttp/4.11",
