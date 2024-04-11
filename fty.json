@@ -1213,7 +1213,7 @@
     },
     {
       "name": "直播源",
-      "url": "https://raw.gitmirror.com/shichuanenhui/TVActions/master/result.txt",
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TVActions/master/result.txt",
       "type": 0,
       "playerType": 1,
       "ua": "okhttp/4.11",
