@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/spider.jar;md5;fc213119cc5c6ba5c1b53fb77b9c2144",
+  "spider": "./jar/spider.jar;md5;b6ab71d680d2ebfd4a9e7f93ef464e48",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites": [
     {
@@ -25,7 +25,7 @@
         "siteUrl": "https://api.wogg.xyz/",
         "danMu": "弹"
       },
-      "jar": "./fty/fan_240409.txt;md5;013794cda7f4898b65b8a7f7382cc5a1"
+      "jar": "./fty/fan_240415.txt;md5;08ae765676d7dffee6f7e363c0c22de1"
     },
     {
       "key": "阿里云盘登录",
