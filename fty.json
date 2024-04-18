@@ -852,6 +852,26 @@
       "ext": "./js/虎牙直播.js"
     },
     {
+      "key": "Zhaozy",
+      "name": "🚫云盘┃找资源",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "{\"username\":\"shichuanenhui\",\"password\":\"zhangxu\",\"searchurl\":\"http://zhaoziyuan.pw/so?filename={wd}\"}"
+    },
+    {
+      "key": "阿里云盘网",
+      "name": "🚫云盘┃云盘网",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/XYQHiker/阿里云盘网.json"
+    },
+    {
       "key": "盘九九弹幕",
       "name": "🚫弹幕┃盘九九",
       "type": 3,
@@ -879,6 +899,20 @@
         "username": "shichuanenhui",
         "password": "zhangxu",
         "danmu": true
+      },
+      "jar": "./jar/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"
+    },
+    {
+      "key": "南坊弹幕",
+      "name": "🚫弹幕┃南坊",
+      "type": 3,
+      "api": "csp_AppTo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true,
+        "string": "vRHcwF2Lt92YuQWd5V2Nt0ib45yd3d3LvoDc0RHaL3Yx"
       },
       "jar": "./jar/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"
     },
@@ -919,36 +953,6 @@
       "ext": "./json/XYQBiu/云盘分享社.json"
     },
     {
-      "key": "Zhaozy",
-      "name": "🚫云盘┃找资源",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "{\"username\":\"shichuanenhui\",\"password\":\"zhangxu\",\"searchurl\":\"http://zhaoziyuan.pw/so?filename={wd}\"}"
-    },
-    {
-      "key": "阿里云盘网",
-      "name": "🚫云盘┃云盘网",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/XYQHiker/阿里云盘网.json"
-    },
-    {
-      "key": "橘子盘搜",
-      "name": "🚫云盘┃橘子",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/XYQHiker/橘子盘搜.json"
-    },
-    {
       "key": "影视车",
       "name": "🚫云盘┃影视车",
       "type": 3,
@@ -959,18 +963,14 @@
       "ext": "./json/XYQHiker/影视车.json"
     },
     {
-      "key": "南坊弹幕",
-      "name": "🚫弹幕┃南坊",
+      "key": "橘子盘搜",
+      "name": "🚫云盘┃橘子",
       "type": 3,
-      "api": "csp_AppTo",
+      "api": "csp_XYQHikerAL",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": {
-        "danmu": true,
-        "string": "vRHcwF2Lt92YuQWd5V2Nt0ib45yd3d3LvoDc0RHaL3Yx"
-      },
-      "jar": "./jar/danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"
+      "ext": "./json/XYQHiker/橘子盘搜.json"
     },
     {
       "key": "Doll",
