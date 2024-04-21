@@ -743,6 +743,16 @@
       "ext": "./json/XYQHiker/电影港.json"
     },
     {
+      "key": "布谷TV",
+      "name": "🧲磁力┃布谷TV",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/XBPQ/布谷TV.json"
+    },
+    {
       "key": "BT天堂",
       "name": "🧲磁力┃BT天堂",
       "type": 3,
