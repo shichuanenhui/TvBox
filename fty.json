@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/spider.jar;md5;461266c1d1dd71dabf47253ece6c2317",
+  "spider": "./jar/spider.jar;md5;ee25fa344922c0ac0b677b15ddbfa6d6",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites": [
     {
@@ -602,7 +602,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ownjpykxttjzuhy.jiesiwa.com"
+      "ext": "http://api2.rinhome.com"
     },
     {
       "key": "New6v",
