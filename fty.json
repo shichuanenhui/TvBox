@@ -981,41 +981,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/XYQHiker/我的小站.json"
-    },
-    {
-      "key": "Doll",
-      "name": "🔞资源┃玩偶",
-      "type": 3,
-      "api": "csp_Doll",
-      "jar": "./jar/custom_spider.jar;md5;eb9ef1e338ee3b01ef1c1c388841d7bb"
-    },
-    {
-      "key": "Eighteen",
-      "name": "🔞资源┃18Av",
-      "type": 3,
-      "api": "csp_Eighteen",
-      "jar": "./jar/custom_spider.jar;md5;eb9ef1e338ee3b01ef1c1c388841d7bb"
-    },
-    {
-      "key": "Hanime",
-      "name": "🔞资源┃H動漫",
-      "type": 3,
-      "api": "csp_Hanime",
-      "jar": "./jar/custom_spider.jar;md5;eb9ef1e338ee3b01ef1c1c388841d7bb"
-    },
-    {
-      "key": "Jable",
-      "name": "🔞资源┃Jable",
-      "type": 3,
-      "api": "csp_Jable",
-      "jar": "./jar/custom_spider.jar;md5;eb9ef1e338ee3b01ef1c1c388841d7bb"
-    },
-    {
-      "key": "Miss",
-      "name": "🔞资源┃MissAv",
-      "type": 3,
-      "api": "csp_Miss",
-      "jar": "./jar/custom_spider.jar;md5;eb9ef1e338ee3b01ef1c1c388841d7bb"
     }
   ],
   "parses": [
