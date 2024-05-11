@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/spider.jar;md5;5af0c33307937551929d536684a26ea4",
+  "spider": "./jar/spider.jar;md5;eb574004570b1a7fd996c8598abb1770",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites": [
     {
@@ -1229,36 +1229,6 @@
       "ua": "okhttp/4.11",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "高天1",
-      "type": 0,
-      "playerType": 1,
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/listx.txt"
-    },
-    {
-      "name": "高天2",
-      "type": 0,
-      "playerType": 1,
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/livex.m3u"
-    },
-    {
-      "name": "YanG",
-      "type": 0,
-      "playerType": 1,
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u"
-    },
-    {
-      "name": "atsushi",
-      "type": 0,
-      "playerType": 1,
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/atsushi444/iptv-epg/main/Adult.m3u"
-    },
-    {
-      "name": "小武哥",
-      "type": 0,
-      "playerType": 1,
-      "url": "https://qu.ax/PEHy.txt"
     }
   ],
   "flags": [
