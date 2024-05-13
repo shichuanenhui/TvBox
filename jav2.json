@@ -1,0 +1,249 @@
+{
+  "spider": "./jar/custom_spider.jar;md5;2dd1047cb29daf7d351201a1cca49ae5",
+  "wallpaper": "https://gao.chuqiuyu.workers.dev",
+  "sites": [
+    {
+      "key": "豆瓣",
+      "name": "🌕推荐┃豆瓣",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0,
+      "indexs": 1
+    },
+    {
+      "key": "Doll",
+      "name": "🔞资源┃玩偶",
+      "type": 3,
+      "api": "csp_Doll"
+    },
+    {
+      "key": "Eighteen",
+      "name": "🔞资源┃18Av",
+      "type": 3,
+      "api": "csp_Eighteen"
+    },
+    {
+      "key": "Hanime",
+      "name": "🔞资源┃H動漫",
+      "type": 3,
+      "api": "csp_Hanime"
+    },
+    {
+      "key": "Jable",
+      "name": "🔞资源┃Jable",
+      "type": 3,
+      "api": "csp_Jable"
+    },
+    {
+      "key": "Miss",
+      "name": "🔞资源┃MissAv",
+      "type": 3,
+      "api": "csp_Miss"
+    }
+  ],
+  "doh": [
+    {
+      "name": "Google",
+      "url": "https://dns.google/dns-query",
+      "ips": [
+        "8.8.4.4",
+        "8.8.8.8"
+      ]
+    },
+    {
+      "name": "Cloudflare",
+      "url": "https://cloudflare-dns.com/dns-query",
+      "ips": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+      ]
+    },
+    {
+      "name": "AdGuard",
+      "url": "https://dns.adguard.com/dns-query",
+      "ips": [
+        "94.140.14.140",
+        "94.140.14.141"
+      ]
+    },
+    {
+      "name": "DNSWatch",
+      "url": "https://resolver2.dns.watch/dns-query",
+      "ips": [
+        "84.200.69.80",
+        "84.200.70.40"
+      ]
+    },
+    {
+      "name": "Quad9",
+      "url": "https://dns.quad9.net/dns-quer",
+      "ips": [
+        "9.9.9.9",
+        "149.112.112.112"
+      ]
+    }
+  ],
+  "rules": [
+    {
+      "name": "kk",
+      "hosts": [
+        "kuaikan"
+      ],
+      "regex": [
+        "5",
+        "20.123",
+        "20.167",
+        "#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-KEY:METHOD((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "yqk",
+      "hosts": [
+        "yqk"
+      ],
+      "regex": [
+        "18.4",
+        "15.1666",
+        "#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-OUT((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-IN"
+      ]
+    },
+    {
+      "name": "sn",
+      "hosts": [
+        "suonizy"
+      ],
+      "regex": [
+        "#EXTINF.*?\\s+.*?original.*?\\.ts\\s+",
+        "15.1666",
+        "15.2666",
+        "16.3333",
+        "15.266667"
+      ]
+    },
+    {
+      "name": "bf",
+      "hosts": [
+        "bfzy"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "xx",
+      "hosts": [
+        "aws.ulivetv.net"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "lz",
+      "hosts": [
+        "vip.lz",
+        "hd.lz",
+        "v.cdnlz",
+        "yzzy1.play"
+      ],
+      "regex": [
+        "18.5333",
+        "19.52",
+        "18.6666"
+      ]
+    },
+    {
+      "name": "ff",
+      "hosts": [
+        "vip.ffzy",
+        "hd.ffzy",
+        "ffzy"
+      ],
+      "regex": [
+        "25.0666",
+        "25.08",
+        "20.52",
+        "25.1",
+        "25.1999"
+      ]
+    },
+    {
+      "name": "hs",
+      "hosts": [
+        "huoshan.com"
+      ],
+      "regex": [
+        "item_id="
+      ]
+    },
+    {
+      "name": "dy",
+      "hosts": [
+        "douyin.com"
+      ],
+      "regex": [
+        "is_play_url="
+      ]
+    },
+    {
+      "name": "nm",
+      "hosts": [
+        "toutiaovod.com"
+      ],
+      "regex": [
+        "video/tos/cn"
+      ]
+    },
+    {
+      "name": "cl",
+      "hosts": [
+        "magnet"
+      ],
+      "regex": [
+        "最 新",
+        "直 播",
+        "更 新"
+      ]
+    }
+  ],
+  "lives": [
+    {
+      "name": "高天1",
+      "type": 0,
+      "playerType": 1,
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/listx.txt"
+    },
+    {
+      "name": "高天2",
+      "type": 0,
+      "playerType": 1,
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/livex.m3u"
+    },
+    {
+      "name": "YanG",
+      "type": 0,
+      "playerType": 1,
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u"
+    },
+    {
+      "name": "atsushi",
+      "type": 0,
+      "playerType": 1,
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/atsushi444/iptv-epg/main/Adult.m3u"
+    },
+    {
+      "name": "三级片",
+      "type": 0,
+      "playerType": 1,
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/bizhangjie/CatVodSpider/main/json/sjdy.txt"
+    },
+    {
+      "name": "小武哥",
+      "type": 0,
+      "playerType": 1,
+      "url": "https://qu.ax/PEHy.txt"
+    }
+  ]
+}
