@@ -25,7 +25,7 @@
         "siteUrl": "https://www.wogg.link/",
         "danMu": "弹"
       },
-      "jar": "./fty/fan_240513.txt;md5;2a085160a4140e1697c5d6393901ec7e"
+      "jar": "./fty/fan_240522.txt;md5;70471410f8e5a1bf20eb64b6b402e5c2"
     },
     {
       "key": "阿里云盘登录",
@@ -226,7 +226,7 @@
       "ext": {
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
         "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-        "site": "https://www.wogg.link",
+        "site": "https://www.wogg.net",
         "danmu": true
       },
       "jar": "./jar/danmu.jar;md5;1cd84661732d6bfd7fd4cc8f78cfad42"
@@ -1218,25 +1218,7 @@
   ],
   "lives": [
     {
-      "name": "爱看TV",
-      "url": "https://raw.gitcode.com/wang2023-JX/APPzby/raw/main/APPzby-aikan",
-      "type": 0,
-      "playerType": 1,
-      "ua": "okhttp/4.11",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "潇洒源",
-      "url": "https://raw.gitmirror.com//PizazzGY/TVBox_warehouse/main/live.txt",
-      "type": 0,
-      "playerType": 1,
-      "ua": "okhttp/4.11",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "码点小干货",
+      "name": "直播",
       "url": "http://mdxgh.v6.rocks:9999/new/mdlive.txt",
       "type": 0,
       "playerType": 1,
