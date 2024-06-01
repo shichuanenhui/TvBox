@@ -25,7 +25,7 @@
         "siteUrl": "https://www.wogg.link/",
         "danMu": "弹"
       },
-      "jar": "./fty/fan_240522.txt;md5;70471410f8e5a1bf20eb64b6b402e5c2"
+      "jar": "./fty/fan_240601.txt;md5;623f19de34e57a4cad2b0bfd3183b6aa"
     },
     {
       "key": "阿里云盘登录",
@@ -1216,6 +1216,7 @@
       ]
     }
   ],
+  "logo": "./js/logo.gif",
   "lives": [
     {
       "name": "直播1",
