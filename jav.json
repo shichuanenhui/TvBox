@@ -14,31 +14,36 @@
       "key": "Doll",
       "name": "🔞资源┃玩偶",
       "type": 3,
-      "api": "csp_Doll"
+      "api": "csp_Doll",
+      "jar": "./jar/custom_spider.jar;md5;3f392906996ac13aaeb8c91956f95f7f"
     },
     {
       "key": "Eighteen",
       "name": "🔞资源┃18Av",
       "type": 3,
-      "api": "csp_Eighteen"
+      "api": "csp_Eighteen",
+      "jar": "./jar/custom_spider.jar;md5;3f392906996ac13aaeb8c91956f95f7f"
     },
     {
       "key": "Hanime",
       "name": "🔞资源┃H動漫",
       "type": 3,
-      "api": "csp_Hanime"
+      "api": "csp_Hanime",
+      "jar": "./jar/custom_spider.jar;md5;3f392906996ac13aaeb8c91956f95f7f"
     },
     {
       "key": "Jable",
       "name": "🔞资源┃Jable",
       "type": 3,
-      "api": "csp_Jable"
+      "api": "csp_Jable",
+      "jar": "./jar/custom_spider.jar;md5;3f392906996ac13aaeb8c91956f95f7f"
     },
     {
       "key": "Miss",
       "name": "🔞资源┃MissAv",
       "type": 3,
-      "api": "csp_Miss"
+      "api": "csp_Miss",
+      "jar": "./jar/custom_spider.jar;md5;3f392906996ac13aaeb8c91956f95f7f"
     },
     {
       "key": "XMVideo",
