@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375",
+  "spider": "./jar/spider.jar;md5;fcc4f15b9364f03772301b23033d0812",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites": [
     {
@@ -435,6 +435,36 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/XYQHiker/云盘资源.json"
+    },
+    {
+      "key": "我的小站",
+      "name": "🐔云盘┃小站",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/XYQHiker/我的小站.json"
+    },
+    {
+      "key": "易迪",
+      "name": "🐿️云盘┃易迪",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/XYQHiker/易迪.json"
+    },
+    {
+      "key": "Gitcafe",
+      "name": "🐗云盘┃小纸条",
+      "type": 3,
+      "api": "csp_Gitcafe",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
     },
     {
       "key": "夸克玩偶弹幕",
@@ -947,16 +977,6 @@
       "ext": "./json/XYQHiker/豆豆飞搜索.json"
     },
     {
-      "key": "Gitcafe",
-      "name": "🚫云盘┃小纸条",
-      "type": 3,
-      "api": "csp_Gitcafe",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
-    },
-    {
       "key": "橘子盘搜",
       "name": "🚫云盘┃橘子",
       "type": 3,
@@ -975,16 +995,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/XYQHiker/DOVX搜索.json"
-    },
-    {
-      "key": "我的小站",
-      "name": "🚫云盘┃小站",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/XYQHiker/我的小站.json"
     },
     {
       "key": "云盘资源分享",
