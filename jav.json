@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/jav.jar;md5;1c8d1a16f5969512dde56c97ec099765",
+  "spider": "./jar/jav.jar;md5;7d0ae69d38c5345dad77eafef1ad620f",
   "wallpaper": "https://gao.chuqiuyu.workers.dev",
   "sites": [
     {
@@ -15,35 +15,35 @@
       "name": "🔞资源┃玩偶",
       "type": 3,
       "api": "csp_Doll",
-      "jar": "./jar/custom_spider.jar;md5;3f392906996ac13aaeb8c91956f95f7f"
+      "jar": "./jar/custom_spider.jar;md5;6540fced21f9b3ff71912f1f461c1fcf"
     },
     {
       "key": "Eighteen",
       "name": "🔞资源┃18Av",
       "type": 3,
       "api": "csp_Eighteen",
-      "jar": "./jar/custom_spider.jar;md5;3f392906996ac13aaeb8c91956f95f7f"
+      "jar": "./jar/custom_spider.jar;md5;6540fced21f9b3ff71912f1f461c1fcf"
     },
     {
       "key": "Hanime",
       "name": "🔞资源┃H動漫",
       "type": 3,
       "api": "csp_Hanime",
-      "jar": "./jar/custom_spider.jar;md5;3f392906996ac13aaeb8c91956f95f7f"
+      "jar": "./jar/custom_spider.jar;md5;6540fced21f9b3ff71912f1f461c1fcf"
     },
     {
       "key": "Jable",
       "name": "🔞资源┃Jable",
       "type": 3,
       "api": "csp_Jable",
-      "jar": "./jar/custom_spider.jar;md5;3f392906996ac13aaeb8c91956f95f7f"
+      "jar": "./jar/custom_spider.jar;md5;6540fced21f9b3ff71912f1f461c1fcf"
     },
     {
       "key": "Miss",
       "name": "🔞资源┃MissAv",
       "type": 3,
       "api": "csp_Miss",
-      "jar": "./jar/custom_spider.jar;md5;3f392906996ac13aaeb8c91956f95f7f"
+      "jar": "./jar/custom_spider.jar;md5;6540fced21f9b3ff71912f1f461c1fcf"
     },
     {
       "key": "XMVideo",
