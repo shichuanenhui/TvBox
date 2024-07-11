@@ -24,7 +24,7 @@
         "siteUrl": "https://www.wogg.link/",
         "danMu": "弹"
       },
-      "jar": "./fty/fan_240710.txt;md5;fc1b4f17aa8de6068500090f33de88b9"
+      "jar": "./fty/fan_240711.txt;md5;2c656ea3596df85712ab9839689aed16"
     },
     {
       "key": "阿里云盘登录",
@@ -227,7 +227,7 @@
       "ext": {
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
         "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-        "site": "https://www.wogg.net",
+        "site": "https://www.wogg.link",
         "danmu": true
       },
       "jar": "./jar/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5"
@@ -395,6 +395,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/XYQHiker/多多影音.json"
+    },
+    {
+      "key": "云盘蜡笔",
+      "name": "🐕‍🦺云盘┃蜡笔",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/XYQHiker/蜡笔.json"
     },
     {
       "key": "云盘搜索",
@@ -745,6 +755,22 @@
         "danmu": true
       },
       "jar": "./jar/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5"
+    },
+    {
+      "key": "夸克蜡笔弹幕",
+      "name": "🐈‍⬛夸克┃蜡笔",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "site": "https://duopan.fun",
+        "danmu": true
+      },
+      "jar": "http://127.0.0.1:9978/file/TVBoxOSC/本地仓/danmu.jar"
     },
     {
       "key": "夸克团长弹幕",
