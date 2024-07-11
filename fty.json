@@ -24,7 +24,7 @@
         "siteUrl": "https://www.wogg.link/",
         "danMu": "弹"
       },
-      "jar": "./fty/fan_240711.txt;md5;2c656ea3596df85712ab9839689aed16"
+      "jar": "./fty/fan_240710.txt;md5;fc1b4f17aa8de6068500090f33de88b9"
     },
     {
       "key": "阿里云盘登录",
@@ -758,7 +758,7 @@
     },
     {
       "key": "夸克蜡笔弹幕",
-      "name": "🐈‍⬛夸克┃蜡笔",
+      "name": "😎夸克┃蜡笔",
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
@@ -770,7 +770,7 @@
         "site": "https://duopan.fun",
         "danmu": true
       },
-      "jar": "http://127.0.0.1:9978/file/TVBoxOSC/本地仓/danmu.jar"
+      "jar": "./jar/danmu.jar;md5;b601ec16cb783fc8296a2060881083c5"
     },
     {
       "key": "夸克团长弹幕",
