@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/danmu.jar;md5;30f9d78ce52e8555126134401b1dd97b",
+  "spider": "./jar/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites": [
     {
@@ -21,10 +21,10 @@
       "ext": {
         "Cloud-drive": "tvfan/Cloud-drive.txt",
         "from": "4k|auto",
-        "siteUrl": "https://www.wogg.link/",
+        "siteUrl": "https://www.wogg.net/",
         "danMu": "弹"
       },
-      "jar": "./fty/fan_240715.txt;md5;026629a5c54494dc8ae9bd38d0a1a1f6"
+      "jar": "./fty/fan_240805.txt;md5;6569779195625775f841ee964e8cec56"
     },
     {
       "key": "配置中心",
@@ -167,7 +167,7 @@
       "ext": {
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
         "danmu": true,
-        "cookie": "satoken=60201207-5254-4d44-8ed9-db4ed5476163"
+        "cookie": "satoken=0eedba28-be8a-4f01-81af-2d8d44808ecf"
       }
     },
     {
