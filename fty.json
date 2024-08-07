@@ -24,7 +24,21 @@
         "siteUrl": "https://www.wogg.net/",
         "danMu": "弹"
       },
-      "jar": "./fty/fan_240805.txt;md5;6569779195625775f841ee964e8cec56"
+      "jar": "./fty/fan_240807.txt;md5;dc0bb7989c050bc9aba22fae0c49348b"
+    },
+    {
+      "key": "盘他",
+      "name": "🍄弹幕┃盘他",
+      "type": 3,
+      "api": "csp_PanTa",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      },
+      "jar": "./fty/fan_240807.txt;md5;dc0bb7989c050bc9aba22fae0c49348b"
     },
     {
       "key": "配置中心",
