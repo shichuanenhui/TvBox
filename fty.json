@@ -24,13 +24,13 @@
         "siteUrl": "https://www.wogg.net/",
         "danMu": "弹"
       },
-      "jar": "./fty/fan_240813.txt;md5;80004bdf8ea71093c980aa89a7d4e3d9"
+      "jar": "./fty/fan_240819.txt;md5;f6c7214d9b4bef41c97d248790060a9a"
     },
     {
-      "key": "盘他",
-      "name": "🍄弹幕┃盘他",
+      "key": "米搜",
+      "name": "🦋小米┃盘搜",
       "type": 3,
-      "api": "csp_PanTa",
+      "api": "csp_MIPanSo",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -38,7 +38,21 @@
         "Cloud-drive": "tvfan/Cloud-drive.txt",
         "from": "4k|auto"
       },
-      "jar": "./fty/fan_240813.txt;md5;80004bdf8ea71093c980aa89a7d4e3d9"
+      "jar": "./fty/fan_240819.txt;md5;f6c7214d9b4bef41c97d248790060a9a"
+    },
+    {
+      "key": "抠搜",
+      "name": "🍄抠抠┃搜搜",
+      "type": 3,
+      "api": "csp_KkSs",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      },
+      "jar": "./fty/fan_240819.txt;md5;f6c7214d9b4bef41c97d248790060a9a"
     },
     {
       "key": "配置中心",
