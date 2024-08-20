@@ -1,21 +1,9 @@
 [submodule "lib/TVBox_warehouse"]
 	path = lib/TVBox_warehouse
 	url = https://github.com/PizazzGY/TVBox_warehouse.git
-[submodule "lib/hcr"]
-	path = lib/hcr
-	url = https://agit.ai/hu/hcr.git
-[submodule "lib/pxy"]
-	path = lib/pxy
-	url = https://agit.ai/gk0746/pxy.git
-[submodule "lib/PG"]
-	path = lib/PG
-	url = https://github.com/aaaafeng123/PG.git
 [submodule "lib/tvbox18"]
 	path = lib/tvbox18
 	url = https://github.com/qirenzhidao/tvbox18.git
-[submodule "lib/APPzby"]
-	path = lib/APPzby
-	url = https://gitcode.com/wang2023-JX/APPzby.git
-[submodule "lib/Tvbox1"]
-	path = lib/Tvbox1
+[submodule "lib/tvbox"]
+	path = lib/tvbox
 	url = https://github.com/sf467/Tvbox1.git
