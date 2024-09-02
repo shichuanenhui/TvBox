@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75",
+  "spider": "./jar/danmu.jar;md5;e961e2480dd0836397d58159a8fb8d57",
   "wallpaper": "https://api.nguaduot.cn/netbian/random",
   "sites": [
     {
@@ -24,7 +24,7 @@
         "siteUrl": "https://www.wogg.net/",
         "danMu": "弹"
       },
-      "jar": "./fty/fan_240823.txt;md5;f5b0b2f01f019cd60a17203bf46ca515"
+      "jar": "./fty/fan_240902.txt;md5;6572bdf43493033ca692116460a12bac"
     },
     {
       "key": "配置中心",
