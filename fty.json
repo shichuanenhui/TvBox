@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/danmu.jar;md5;e961e2480dd0836397d58159a8fb8d57",
+  "spider": "./jar/spider.jar;md5;7de46c7534b68d446aa91e6ecfb267cd",
   "wallpaper": "https://api.nguaduot.cn/netbian/random",
   "sites": [
     {
