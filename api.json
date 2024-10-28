@@ -2,7 +2,7 @@
   "storeHouse": [
     {
       "sourceName": "🦉个人仓",
-      "sourceUrl": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/my.json"
+      "sourceUrl": "https://ghp.ci/raw.githubusercontent.com/shichuanenhui/TvBox/main/my.json"
     },
     {
       "sourceName": "🐋潇洒仓",
@@ -10,11 +10,11 @@
     },
     {
       "sourceName": "🥗聚合仓",
-      "sourceUrl": "https://mirror.ghproxy.com/raw.githubusercontent.com/sf467/Tvbox1/main/优质.json"
+      "sourceUrl": "https://ghp.ci/raw.githubusercontent.com/sf467/Tvbox1/main/优质.json"
     },
     {
       "sourceName": "🔞聚合仓",
-      "sourceUrl": "https://mirror.ghproxy.com/raw.githubusercontent.com/sf467/Tvbox1/main/cr.json"
+      "sourceUrl": "https://ghp.ci/raw.githubusercontent.com/sf467/Tvbox1/main/cr.json"
     }
   ]
 }

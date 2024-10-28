@@ -24,7 +24,7 @@
         "siteUrl": "https://www.wogg.net/",
         "danMu": "弹"
       },
-      "jar": "./fty/fan_241015.txt;md5;4e1010524e7057305efc75565c87ba0d"
+      "jar": "./fty/fan_241028.txt;md5;8851819289f80deae32319080028db3b"
     },
     {
       "key": "配置中心",
@@ -295,13 +295,6 @@
       "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
     },
     {
-      "name": "SYLive",
-      "type": 0,
-      "url": "https://gitee.com/shangyunvip/yscdx/raw/master/lives/sylive.txt",
-      "playerType": 1,
-      "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
-    },
-    {
       "name": "ZHLive",
       "type": 0,
       "url": "https://objectstorage.ap-chuncheon-1.oraclecloud.com/n/axghnvpkxk5c/b/vircloud/o/ipv6.txt",
@@ -311,14 +304,7 @@
     {
       "name": "HDLive",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ctsfork/web/main/iptv/hd-live-all.txt",
-      "playerType": 1,
-      "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
-    },
-    {
-      "name": "TVLive",
-      "type": 0,
-      "url": "./lib/TVlive.txt",
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/ctsfork/web/main/iptv/hd-live-all.txt",
       "playerType": 1,
       "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
     },
@@ -332,7 +318,7 @@
     {
       "name": "DXLive",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
       "playerType": 1,
       "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
     },
@@ -347,20 +333,6 @@
       "name": "YGLive",
       "type": 0,
       "url": "https://m3u.ibert.me/txt/y_g.txt",
-      "playerType": 1,
-      "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
-    },
-    {
-      "name": "IPTV4",
-      "type": 0,
-      "url": "https://wzsvip.github.io/ipv4.txt",
-      "playerType": 1,
-      "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
-    },
-    {
-      "name": "IPTV6",
-      "type": 0,
-      "url": "https://wzsvip.github.io/ipv6.txt",
       "playerType": 1,
       "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
     }
