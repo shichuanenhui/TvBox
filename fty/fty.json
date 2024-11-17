@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729928513059/fan.txt;md5;8851819289f80deae32319080028db3b",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731682555989/fan.txt;md5;6c4ab3a9d232164c75534f9060506ee5",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -37,7 +37,7 @@
     },
     {
       "key": "alllive",
-      "name": "📽️一直播┃LIVE",
+      "name": "📽️一直播┃直播",
       "type": 3,
       "api": "csp_Alllive",
       "playerType": 2,
@@ -104,6 +104,17 @@
       "changeable": 1
     },
     {
+      "key": "zxzj",
+      "name": "🍊在线┃秒播",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.zxzjhd.com/"
+    },
+    {
       "key": "比特",
       "name": "🍄比特┃秒播",
       "type": 3,
@@ -122,16 +133,6 @@
       "changeable": 1
     },
     {
-      "key": "原创",
-      "name": "☀原创┃不卡",
-      "type": 3,
-      "api": "csp_YCyz",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "厂长",
       "name": "📔厂长┃不卡",
       "type": 3,
@@ -140,7 +141,27 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://czzy.top/"
+      "ext": "https://www.czzy77.com/"
+    },
+    {
+      "key": "木星",
+      "name": "🌞木星┃多线",
+      "type": 3,
+      "api": "csp_AppSx",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM"
+    },
+    {
+      "key": "速播",
+      "name": "⏮️速播┃多线",
+      "type": 3,
+      "api": "csp_AppSx",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjDcUxPqpfNr0QF4QvEpcoxb5sQXd8GDXUTvbqvx0peQcuZ7GvQ0UGD/a2mS238cHqYkiBgwCduCiYrTZJtbwdDUt/L2w/LOWADxikKl6I8Cqz6OD9lIxS2anA6ytO6"
     },
     {
       "key": "热播",
@@ -191,27 +212,6 @@
       "type": 3,
       "api": "csp_Kekys",
       "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "zxzj",
-      "name": "🍊在线┃外剧",
-      "type": 3,
-      "api": "csp_Zxzj",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.zxzjhd.com/"
-    },
-    {
-      "key": "低端",
-      "name": "⏮️低端┃外剧",
-      "type": 3,
-      "api": "csp_Ddrk",
-      "playerType": "2",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -335,19 +335,6 @@
       "changeable": 0
     },
     {
-      "key": "企鹅xp",
-      "name": "🐧鹅鹅┃体育",
-      "type": 3,
-      "api": "csp_XPath",
-      "style": {
-        "type": "list"
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://notabug.org/fantaiying/ext/raw/main/企鹅直播.json"
-    },
-    {
       "key": "酷奇",
       "name": "🎤酷奇┃MV",
       "type": 3,
@@ -373,7 +360,9 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://notabug.org/fantaiying/ext/raw/main/MTV.json"
+      "ext": {
+        "json": "https://notabug.org/fantaiying/ext/raw/main/MTV.json"
+      }
     },
     {
       "key": "虎牙直播js",
@@ -436,11 +425,14 @@
       "key": "Sso",
       "name": "🐌盘他┃三盘",
       "type": 3,
-      "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
-      "ext": "https://notabug.org/fantaiying/ext/raw/main/盘他.js",
+      "api": "csp_PanSso",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
     },
     {
       "key": "夸搜",
@@ -496,7 +488,7 @@
     },
     {
       "key": "Bili",
-      "name": "🅱哔哔┃合集",
+      "name": "🅱哔哔合集┃弹幕",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -506,11 +498,13 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://notabug.org/fantaiying/ext/raw/main/bilibili.json"
+      "ext": {
+        "json": "https://notabug.org/fantaiying/ext/raw/main/bilibili.json"
+      }
     },
     {
       "key": "Biliych",
-      "name": "🅱明星┃演唱会",
+      "name": "🅱哔哔演唱会┃弹幕",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -520,13 +514,15 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://notabug.org/fantaiying/ext/raw/main/biliych.json"
+      "ext": {
+        "json": "https://notabug.org/fantaiying/ext/raw/main/biliych.json"
+      }
     },
     {
       "key": "dr_兔小贝",
       "name": "📚儿童┃启蒙",
       "type": 3,
-      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
       "ext": "https://notabug.org/fantaiying/ext/raw/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
       "style": {
         "type": "rect",
@@ -548,7 +544,9 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://notabug.org/fantaiying/ext/raw/main/少儿教育.json"
+      "ext": {
+        "json": "https://notabug.org/fantaiying/ext/raw/main/少儿教育.json"
+      }
     },
     {
       "key": "小学课堂",
@@ -562,7 +560,9 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://notabug.org/fantaiying/ext/raw/main/小学课堂.json"
+      "ext": {
+        "json": "https://notabug.org/fantaiying/ext/raw/main/小学课堂.json"
+      }
     },
     {
       "key": "初中课堂",
@@ -576,7 +576,9 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://notabug.org/fantaiying/ext/raw/main/初中课堂.json"
+      "ext": {
+        "json": "https://notabug.org/fantaiying/ext/raw/main/初中课堂.json"
+      }
     },
     {
       "key": "高中教育",
@@ -590,7 +592,9 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://notabug.org/fantaiying/ext/raw/main/高中课堂.json"
+      "ext": {
+        "json": "https://notabug.org/fantaiying/ext/raw/main/高中课堂.json"
+      }
     },
     {
       "key": "fan",
@@ -616,7 +620,7 @@
     {
       "name": "IPV4",
       "type": 0,
-      "url": "https://notabug.org/fantaiying/ext/raw/main/id.m3u",
+      "url": "https://ghp.ci/raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/itvlist.m3u",
       "playerType": 1
     },
     {
@@ -636,6 +640,7 @@
       "name": "平台直播",
       "type": 0,
       "url": "https://tv.iill.top/m3u/Live",
+      "ua": "okhttp/3.15",
       "playerType": 2
     }
   ]
