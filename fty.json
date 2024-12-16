@@ -24,7 +24,7 @@
         "siteUrl": "https://www.wogg.net/",
         "danMu": "弹"
       },
-      "jar": "./fty/fan.txt;md5;f115051a7d789c2baebb9309c14bddd2"
+      "jar": "./fty/fan.txt;md5;f98827d83bb8ca104b0b1ead61a98c5b"
     },
     {
       "key": "配置中心",
@@ -288,13 +288,6 @@
   "logo": "./js/logo.gif",
   "lives": [
     {
-      "name": "TTLive",
-      "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt",
-      "playerType": 1,
-      "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
-    },
-    {
       "name": "ZHLive",
       "type": 0,
       "url": "https://objectstorage.ap-chuncheon-1.oraclecloud.com/n/axghnvpkxk5c/b/vircloud/o/ipv6.txt",
@@ -302,30 +295,9 @@
       "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
     },
     {
-      "name": "HDLive",
-      "type": 0,
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/ctsfork/web/main/iptv/hd-live-all.txt",
-      "playerType": 1,
-      "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
-    },
-    {
       "name": "FMLive",
       "type": 0,
       "url": "https://m3u.ibert.me/txt/fmml_ipv6.txt",
-      "playerType": 1,
-      "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
-    },
-    {
-      "name": "DXLive",
-      "type": 0,
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
-      "playerType": 1,
-      "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
-    },
-    {
-      "name": "YCLive",
-      "type": 0,
-      "url": "https://m3u.ibert.me/txt/ycl_iptv.txt",
       "playerType": 1,
       "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
     },
