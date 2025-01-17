@@ -4,11 +4,11 @@
 
 自用多仓订阅地址：此资源需软件支持多仓
 
-https://ghgo.xyz/raw.githubusercontent.com/shichuanenhui/TvBox/main/api.json
+https://github.ednovas.xyz/https://raw.githubusercontent.com/shichuanenhui/TvBox/main/api.json
 
 自用单仓订阅地址：
 
-https://ghgo.xyz/raw.githubusercontent.com/shichuanenhui/TvBox/main/fty.json
+https://github.ednovas.xyz/https://raw.githubusercontent.com/shichuanenhui/TvBox/main/fty.json
 
 # 弹幕资源来自潇洒大佬[PizazzGY](https://github.com/PizazzGY/TVBox_warehouse)
 
