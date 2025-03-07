@@ -1,5 +1,7 @@
 {
-  "spider": "./jar/jav.jar;md5;a392ca741d7598a3c2fb96a860ddd38a",
+  //https://github.com/bizhangjie/CatVodSpider 2024.8.1
+  //https://github.com/shichuanenhui/CatVodSpider18
+  "spider": "./jar/jav.jar;md5;8d592f6d2d1434ea5ec8506b56265485",
   "wallpaper": "https://gao.chuqiuyu.workers.dev",
   "sites": [
     {
@@ -10,40 +12,41 @@
       "searchable": 0,
       "indexs": 1
     },
+    //https://github.com/FongMi/CatVodSpider 2024.7.2
     {
       "key": "Doll",
       "name": "🔞资源┃玩偶",
       "type": 3,
       "api": "csp_Doll",
-      "jar": "./jar/custom_spider.jar;md5;6540fced21f9b3ff71912f1f461c1fcf"
+      "jar": "./jar/custom_spider.jar;md5;9c46ddd9c6f6a7ad532420acf5ee19df"
     },
     {
       "key": "Eighteen",
       "name": "🔞资源┃18Av",
       "type": 3,
       "api": "csp_Eighteen",
-      "jar": "./jar/custom_spider.jar;md5;6540fced21f9b3ff71912f1f461c1fcf"
+      "jar": "./jar/custom_spider.jar;md5;9c46ddd9c6f6a7ad532420acf5ee19df"
     },
     {
       "key": "Hanime",
       "name": "🔞资源┃H動漫",
       "type": 3,
       "api": "csp_Hanime",
-      "jar": "./jar/custom_spider.jar;md5;6540fced21f9b3ff71912f1f461c1fcf"
+      "jar": "./jar/custom_spider.jar;md5;9c46ddd9c6f6a7ad532420acf5ee19df"
     },
     {
       "key": "Jable",
       "name": "🔞资源┃Jable",
       "type": 3,
       "api": "csp_Jable",
-      "jar": "./jar/custom_spider.jar;md5;6540fced21f9b3ff71912f1f461c1fcf"
+      "jar": "./jar/custom_spider.jar;md5;9c46ddd9c6f6a7ad532420acf5ee19df"
     },
     {
       "key": "Miss",
       "name": "🔞资源┃MissAv",
       "type": 3,
       "api": "csp_Miss",
-      "jar": "./jar/custom_spider.jar;md5;6540fced21f9b3ff71912f1f461c1fcf"
+      "jar": "./jar/custom_spider.jar;md5;9c46ddd9c6f6a7ad532420acf5ee19df"
     },
     {
       "key": "XMVideo",
