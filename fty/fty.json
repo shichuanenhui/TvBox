@@ -1,16 +1,16 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741066475265/f0304.txt;md5;d7422c79ea5b4479c056b168cdaf95b0",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742919787619/f0326B.txt;md5;54c3c5cd399274cfdbed01fd53e65fd4",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
       "key": "豆",
-      "name": "强化弹幕【神秘的哥哥们】",
+      "name": "修复优汐原【神秘的哥哥们】",
       "type": 3,
       "api": "csp_DouDouGuard",
       "indexs": 1,
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 0
+      "changeable": 0
     },
     {
       "key": "玩偶",
@@ -23,7 +23,7 @@
       "ext": {
         "Cloud-drive": "tvfan/Cloud-drive.txt",
         "from": "4k|auto",
-        "siteUrl": "https://www.wogg.net/",
+        "siteUrl": "https://www.wogg.com/",
         "danMu": "弹"
       }
     },
@@ -69,8 +69,7 @@
       "changeable": 0,
       "ext": {
         "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto",
-        "pturl": "http://mo.91muou.icu/|http://54271.fun/|http://mo.666291.xyz/"
+        "from": "4k|auto"
       }
     },
     {
@@ -94,17 +93,6 @@
       "changeable": 1
     },
     {
-      "key": "厂长",
-      "name": "📔厂长┃不卡",
-      "type": 3,
-      "api": "csp_NewCzGuard",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.czzyvideo.com/"
-    },
-    {
       "key": "糯米",
       "name": "🍓糯米┃秒播",
       "type": 3,
@@ -125,13 +113,13 @@
     },
     {
       "key": "神车",
-      "name": "🚎神车┃秒播",
+      "name": "🐻小熊┃秒播",
       "type": 3,
-      "api": "csp_AppSxGuard",
+      "api": "csp_AppSKGuard",
       "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjPcVZY48PN/RIZ5QqOrsp1OZsTS9wQSSpQpK6jnh0fUMKIu22IxR6Z7/exDifuKH+Agjg9"
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "rfOX1voDIQhH8epBwtCFsq+8syyZ18T30GkibomjS1xHcE9fpWU7oKJ1cO9K0M5hrnOHZ9dKjiJz5HEyTr57RZHCqunfFT7jH/mEy+uqVyo="
     },
     {
       "key": "Lib",
@@ -158,20 +146,20 @@
       "ext": "https://www.zxzjhd.com/"
     },
     {
+      "key": "溢彩",
+      "name": "💡溢彩┃秒播",
+      "type": 3,
+      "api": "csp_AppSxGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "rfOX1voDIQhH8epBwpmIsuS/sSCZ0NTplTombcqjS1xHcE9fpWUjrfFiL+kMh4cw4jGBLJBFjnM="
+    },
+    {
       "key": "比特",
       "name": "🍄比特┃秒播",
       "type": 3,
       "api": "csp_BttwooGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "文采",
-      "name": "💮文采┃秒播",
-      "type": 3,
-      "api": "csp_JpysGuard",
-      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -187,24 +175,35 @@
       "changeable": 1
     },
     {
-      "key": "木星",
-      "name": "🌞木星┃多线",
+      "key": "萌米",
+      "name": "👀萌米┃多线",
       "type": 3,
-      "api": "csp_AppSxGuard",
+      "api": "csp_AppTTGuard",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "FbjPcVZY48PN/RIZ5QqOrsplZNERApoHSmxZ77D7wAtcAsqZuXTQzUHW+quzHG+7cXaG3SBwzihuA2NlCJpscUJASIGSmRiXKW5NhipHle83SfO6IA=="
+      "ext": "uqGL1bNENEIVq+dC1p/Y9uWjuA=="
     },
     {
       "key": "兄弟",
-      "name": "🍊兄弟┃多线",
+      "name": "🍊水星┃多线",
       "type": 3,
       "api": "csp_AppSxGuard",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbdBHCJkQSzBQt+vmhxkUAtbepC6RjQjA6r70U2OrZ3mJyX4hh2AsXS8mTp9pKB8="
+      "ext": "rfOb1uAWbkRHp7hdxprG9un3+SLP183q3ik3cJDiAwlFdF8L6SIvrvc9LrpTyIg76T7QJZdEkWNj43wiSaA0TJyQpu2IF2jsSLWFx7WkAmG40hFxJ1tI+Jf+EVG8DtoDRcNi+TtVGULnWrSz3EWnVcxR3EJhXnrwYWe1kJtNW5txuHAO"
+    },
+    {
+      "key": "火星",
+      "name": "🌞火星┃多线",
+      "type": 3,
+      "api": "csp_AppSxGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "rfOX1voDIQhH8epBwpmIsuSlujLK3srq3iIoaYP8Hh5fZE0d4nF48/dsb7YNi44z/yjNcsFajjBz6XJtDuw2FdqR/a6UV3ywWevO"
     },
     {
       "key": "热播",
@@ -215,18 +214,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
-    },
-    {
-      "key": "萌米",
-      "name": "👀萌米┃多线",
-      "type": 3,
-      "api": "csp_AppTTGuard",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "AO7TcBkd8I2bux0Y8Qze6tVlMg=="
+      "ext": "uqGL1bNENExT7/hGxpSE5qU="
     },
     {
       "key": "欢视",
@@ -237,7 +225,28 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "AO7TcBkd8I/B+Qsa7gqa+pU="
+      "ext": "uqGL1bNENExT9fFAy5mE5qU="
+    },
+    {
+      "key": "文采",
+      "name": "💮文采┃秒播",
+      "type": 3,
+      "api": "csp_JpysGuard",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "厂长",
+      "name": "📔厂长┃不卡",
+      "type": 3,
+      "api": "csp_NewCzGuard",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.czzyvideo.com/"
     },
     {
       "key": "奥特",
@@ -675,18 +684,18 @@
   "logo": "https://s1.imagehub.cc/images/2025/01/15/e8b21391c58ed454c13ade26c003e857.gif",
   "lives": [
     {
-      "name": "牛播一（仅新版影视仓┃ok影视）",
+      "name": "V4聚合（卡顿请按左┃右键换线）",
       "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList",
-      "playerType": 1,
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
+      "playerType": 2,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.v1.mk/logo/{name}.png"
     },
     {
-      "name": "V4聚合（卡顿请按左┃右键换线）",
+      "name": "V6范明明",
       "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
-      "playerType": 1
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
+      "playerType": 2
     },
     {
       "name": "平台直播",

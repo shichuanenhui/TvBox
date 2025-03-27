@@ -21,10 +21,10 @@
       "ext": {
         "Cloud-drive": "tvfan/Cloud-drive.txt",
         "from": "4k|auto",
-        "siteUrl": "https://www.wogg.net/",
+        "siteUrl": "https://www.wogg.com/",
         "danMu": "弹"
       },
-      "jar": "./fty/fan.txt;md5;d7422c79ea5b4479c056b168cdaf95b0"
+      "jar": "./fty/fan.txt;md5;54c3c5cd399274cfdbed01fd53e65fd4"
     },
     {
       "key": "配置中心",
