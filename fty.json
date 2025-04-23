@@ -15,6 +15,7 @@
       "name": "👽弹幕┃玩偶",
       "type": 3,
       "api": "csp_WoGGGuard",
+      "timeout": 30,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -24,7 +25,7 @@
         "siteUrl": "https://www.wogg.com/",
         "danMu": "弹"
       },
-      "jar": "./fty/fan.txt;md5;54c3c5cd399274cfdbed01fd53e65fd4"
+      "jar": "./fty/fan.txt;md5;1bb33ee4c8daff7288171baf65178027"
     },
     {
       "key": "配置中心",
@@ -288,25 +289,33 @@
   "logo": "./js/logo.gif",
   "lives": [
     {
-      "name": "ZHLive",
+      "name": "牛播一（仅新版影视仓┃ok影视）",
       "type": 0,
-      "url": "https://objectstorage.ap-chuncheon-1.oraclecloud.com/n/axghnvpkxk5c/b/vircloud/o/ipv6.txt",
-      "playerType": 1,
-      "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
+      "url": "http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.v1.mk/logo/{name}.png"
     },
     {
-      "name": "FMLive",
+      "name": "V4聚合（卡顿请按左┃右键换线）",
       "type": 0,
-      "url": "https://m3u.ibert.me/txt/fmml_ipv6.txt",
-      "playerType": 1,
-      "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
+      "url": "https://gh-proxy.net/raw.githubusercontent.com/wwb521/live/main/tv.m3u",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.v1.mk/logo/{name}.png"
     },
     {
-      "name": "YGLive",
+      "name": "V6范明明",
       "type": 0,
-      "url": "https://m3u.ibert.me/txt/y_g.txt",
-      "playerType": 1,
-      "epg": "http://epg.112114.eu.org/?ch={name}&date={date}"
+      "url": "https://gh-proxy.net/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
+      "playerType": 2
+    },
+    {
+      "name": "平台直播",
+      "type": 0,
+      "url": "http://tv.iill.top/m3u/Live",
+      "ua": "okhttp/3.15",
+      "playerType": 2
     }
   ],
   "flags": [
